@@ -13,8 +13,16 @@
     "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch021-beat01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch020-beat05-r3-ch020-beat06-r2-ch020-sc03-r3-ch021-beat01-r2-ch021-sc01-r3-ch021-beat02-r2-ch021-sc02-r3-ch021-beat03-r3-ch021-beat04",
+    "quadrant": 4,
+    "generated_at": "20261106T111348377881Z",
+    "grid_sha256": "6b978110154def526afd99827aa3c93906cc76e61f12e2f702ddd3a60c7f73b6",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch021-sc01",
@@ -32,7 +40,15 @@
     "camera": "High-angle stealth stair shot, pearl, pale-orange nightgown, crown braid under hat.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch021-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch020-beat05-r3-ch020-beat06-r2-ch020-sc03-r3-ch021-beat01-r2-ch021-sc01-r3-ch021-beat02-r2-ch021-sc02-r3-ch021-beat03-r3-ch021-beat04",
+    "quadrant": 5,
+    "generated_at": "20261106T111348377881Z",
+    "grid_sha256": "6b978110154def526afd99827aa3c93906cc76e61f12e2f702ddd3a60c7f73b6",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch021-beat02",
@@ -48,8 +64,16 @@
     "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch021-beat02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch020-beat05-r3-ch020-beat06-r2-ch020-sc03-r3-ch021-beat01-r2-ch021-sc01-r3-ch021-beat02-r2-ch021-sc02-r3-ch021-beat03-r3-ch021-beat04",
+    "quadrant": 6,
+    "generated_at": "20261106T111348377881Z",
+    "grid_sha256": "6b978110154def526afd99827aa3c93906cc76e61f12e2f702ddd3a60c7f73b6",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch021-sc02",
@@ -67,7 +91,15 @@
     "camera": "Wide reveal from stairs, giant animal versus small cardboard trap; jar in child hands.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch021-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch020-beat05-r3-ch020-beat06-r2-ch020-sc03-r3-ch021-beat01-r2-ch021-sc01-r3-ch021-beat02-r2-ch021-sc02-r3-ch021-beat03-r3-ch021-beat04",
+    "quadrant": 7,
+    "generated_at": "20261106T111348377881Z",
+    "grid_sha256": "6b978110154def526afd99827aa3c93906cc76e61f12e2f702ddd3a60c7f73b6",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch021-beat03",
@@ -83,8 +115,16 @@
     "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch021-beat03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch020-beat05-r3-ch020-beat06-r2-ch020-sc03-r3-ch021-beat01-r2-ch021-sc01-r3-ch021-beat02-r2-ch021-sc02-r3-ch021-beat03-r3-ch021-beat04",
+    "quadrant": 8,
+    "generated_at": "20261106T111348377881Z",
+    "grid_sha256": "6b978110154def526afd99827aa3c93906cc76e61f12e2f702ddd3a60c7f73b6",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch021-beat04",
@@ -100,8 +140,16 @@
     "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch021-beat04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch020-beat05-r3-ch020-beat06-r2-ch020-sc03-r3-ch021-beat01-r2-ch021-sc01-r3-ch021-beat02-r2-ch021-sc02-r3-ch021-beat03-r3-ch021-beat04",
+    "quadrant": 9,
+    "generated_at": "20261106T111348377881Z",
+    "grid_sha256": "6b978110154def526afd99827aa3c93906cc76e61f12e2f702ddd3a60c7f73b6",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch021-beat05",
