@@ -165,8 +165,16 @@
     "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch021-beat05.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 1,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch021-beat06",
@@ -182,8 +190,16 @@
     "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch021-beat06.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 2,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch021-sc03",
@@ -201,7 +217,15 @@
     "camera": "Tight hands-and-face closeup, square GREEN jar, one pearl, dark basement.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch021-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 3,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch022-sc01",
@@ -218,7 +242,15 @@
     "camera": "Profile close two-shot of muzzle and glowing jar in Lily hands, no physical human-tiger merge.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch022-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 4,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch022-beat01",
@@ -234,8 +266,16 @@
     "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch022-beat01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 5,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch022-beat02",
@@ -251,8 +291,16 @@
     "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch022-beat02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 6,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch022-beat03",
@@ -268,8 +316,16 @@
     "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch022-beat03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 7,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch022-beat04",
@@ -285,8 +341,16 @@
     "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch022-beat04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 8,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch022-sc02",
@@ -304,7 +368,15 @@
     "camera": "Tender folktale medium scene, human mother with subtle tiger lineage, baby in cloth, no modern family clothing.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch022-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch021-beat05-r3-ch021-beat06-r2-ch021-sc03-r2-ch022-sc01-r3-ch022-beat01-r3-ch022-beat02-r3-ch022-beat03-r3-ch022-beat04-r2-ch022-sc02",
+    "quadrant": 9,
+    "generated_at": "20261106T230725873289Z",
+    "grid_sha256": "a70caa98ddda9fde2ac97faac818dea1c8b681aee2c1ff9d20d7d9638ba0be0f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch022-sc03",
