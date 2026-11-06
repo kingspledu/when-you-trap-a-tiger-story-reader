@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-tiger-volume-2-';
-const CACHE=PREFIX+'603dcdce955b';
+const CACHE=PREFIX+'ab1265938a2d';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./','./style.css?v=603dcdce955b','./app.js?v=603dcdce955b','./pwa.js?v=603dcdce955b','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./','./style.css?v=ab1265938a2d','./app.js?v=ab1265938a2d','./pwa.js?v=ab1265938a2d','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
