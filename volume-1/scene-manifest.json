@@ -1,5 +1,24 @@
 [
   {
+    "id": "r3-ch001-beat01",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0003",
+    "source_paragraph_ids": [
+      "p0003"
+    ],
+    "description": "See, I didn't know, at first, that I had this magic. I just knew that teachers forgot my name, and kids didn't ask me to play, and one time, at the end of fourth grade, a boy in my class frowned at me and said, Where did you come from? I don't think I've ever seen you before.",
+    "alt": "Chapter 1: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "See, I didn't know, at first, that I had this magic. I just knew that teachers forgot my name, and kids didn't ask me to play, and one time, at the end of fourth grade, a boy in my class frowned at me and said, Where did you come from? I don't think I've ever seen you before.",
+    "preceding_context": "I can turn invisible.\n\nIt's a superpower, or at least a secret power. But it's not like in the movies, and I'm not a superhero, so don't start thinking that. Heroes are the stars who save the day. I just—disappear.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch001-sc01",
     "chapter_id": "chapter-001",
     "chapter_number": 1,
@@ -24,6 +43,63 @@
     "generated_at": "20261106T074201059880Z",
     "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r3-ch001-beat02",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0009",
+    "source_paragraph_ids": [
+      "p0009"
+    ],
+    "description": "Except Sam actually says this to her phone, because she doesn't look up. She's sitting in the passenger seat with her feet slammed against the glove compartment, knees smashed into her chest, her whole body curled around her glowing screen.",
+    "alt": "Chapter 1: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Except Sam actually says this to her phone, because she doesn't look up. She's sitting in the passenger seat with her feet slammed against the glove compartment, knees smashed into her chest, her whole body curled around her glowing screen.",
+    "preceding_context": "My older sister, Sam, says it's not a real supersecret power—it's just called being shy. But Sam can be rude.\n\nAnd the truth is, my power can come in handy. Like when Mom and Sam fight. Like right now.\n\nI wrap myself in invisibility and rest my forehead against the back-seat window, watching raindrops slide down the side of our old station wagon.\n\n“You should stop the car,” Sam says to Mom.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch001-beat03",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0020",
+    "source_paragraph_ids": [
+      "p0020"
+    ],
+    "description": "It's safer to keep quiet. I press my fingertip against the rain-splattered window and draw a line between the drops, like I'm connecting the dots. My eyelids go heavy. I'm so used to the fighting that it's practically a lullaby.",
+    "alt": "Chapter 1: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "It's safer to keep quiet. I press my fingertip against the rain-splattered window and draw a line between the drops, like I'm connecting the dots. My eyelids go heavy. I'm so used to the fighting that it's practically a lullaby.",
+    "preceding_context": "I wonder what she's saying in those messages. Sometimes, when I let myself, I imagine she's writing to me.\n\n“Sam, can you at least try to have a good attitude about this?” Mom shoves her glasses up on her nose with too much force, like her glasses just insulted her and it's personal.\n\n“How can you even ask me that?” Sam looks up from her phone—finally—so she can glare at Mom.\n\nThis is how it always starts. Their fights are loud and explosive. They burn each other up.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch001-beat04",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0029",
+    "source_paragraph_ids": [
+      "p0029"
+    ],
+    "description": "“Way to deflect,” Sam says, tugging at the single streak of white in her black hair. She’s still angry, but deflated a little. “I do enjoy spending time with Halmoni. Just not here. I don’t want to be here.”",
+    "alt": "Chapter 1: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“Way to deflect,” Sam says, tugging at the single streak of white in her black hair. She’s still angry, but deflated a little. “I do enjoy spending time with Halmoni. Just not here. I don’t want to be here.”",
+    "preceding_context": "Sam's not wrong. Mom told us only two weeks ago that we were leaving California for good. And I'll miss it, too. I'm going to miss my school, and the sunshine, and the sandy beach—so different from the rocky coast at Sunbeam.\n\nI’m just trying not to think about that.\n\n“I thought you should spend more time with your grandmother. I thought you enjoyed that.” Mom’s tone is clipped. The rain has gotten heavier, and it sucks up her focus. Her fingers white-knuckle the steering wheel. None of us like the idea of driving in this weather, not after Dad died.\n\nI concentrate on the steering wheel and squint a little, sending safety vibes with my mind, like Halmoni taught me.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch001-sc02",
@@ -52,6 +128,44 @@
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
+    "id": "r3-ch001-beat05",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0039",
+    "source_paragraph_ids": [
+      "p0039"
+    ],
+    "description": "Now, a little closer, the tiger doesn’t look hurt. It yawns, revealing sharp, too-white teeth. And then it stands, one claw, one paw, one leg at a time.",
+    "alt": "Chapter 1: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Now, a little closer, the tiger doesn’t look hurt. It yawns, revealing sharp, too-white teeth. And then it stands, one claw, one paw, one leg at a time.",
+    "preceding_context": "No. Not just a giant cat. A tiger.\n\nThe tiger lifts its head as we approach. It must have escaped from a circus or a zoo or something. And it must be hurt. Why else would it be lying out here in the rain?\n\nAn instinctive kind of fear twists in my stomach, making me carsick. But it doesn’t matter. If an animal’s hurt, we have to do something.\n\n“Mom.” I interrupt their fight, scooting forward. “I think . . . um . . . there’s . . .”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch001-beat06",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0047",
+    "source_paragraph_ids": [
+      "p0047"
+    ],
+    "description": "The tiger lifts its enormous head—and it looks at me. It sees me.",
+    "alt": "Chapter 1: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "The tiger lifts its enormous head—and it looks at me. It sees me.",
+    "preceding_context": "Sometimes the problem with my invisibility is that it takes a little while to wear off. It takes a little while for people to see me and hear me and listen.\n\nListen: This isn’t like any tiger I’ve seen in a zoo. It’s huge, as big as our car. The orange in its coat glows, and the black is as dark as moonless night.\n\nThis tiger belongs in one of Halmoni’s stories.\n\nI lean forward until the seat belt slices into my skin. Somehow, Sam and Mom continue to bicker. But their words become a low hum because I’m only focused on—",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch001-sc03",
     "chapter_id": "chapter-001",
     "chapter_number": 1,
@@ -76,6 +190,25 @@
     "generated_at": "20261106T074201059880Z",
     "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r3-ch002-beat01",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0075",
+    "source_paragraph_ids": [
+      "p0075"
+    ],
+    "description": "We’d count the days until our halmoni’s arrival, until that first night, when we’d run into the guest room and curl up in bed with her, one of us on each side, like bookends.",
+    "alt": "Chapter 2: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "We’d count the days until our halmoni’s arrival, until that first night, when we’d run into the guest room and curl up in bed with her, one of us on each side, like bookends.",
+    "preceding_context": "Halmoni’s stories all start the same way, with the Korean version of “once upon a time”:\n\nLong, long ago, when tiger walked like man . . .\n\nBack in California, in the weeks leading up to Halmoni’s visits, Sam and I would whisper those words to one another. Every time I heard them, they’d give me shivers.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch002-sc01",
@@ -104,6 +237,25 @@
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
+    "id": "r3-ch002-beat02",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0087",
+    "source_paragraph_ids": [
+      "p0087"
+    ],
+    "description": "After she parks, she rests her head against the steering wheel and sighs, looking like she might fall right asleep. Then she takes a breath and sits up.",
+    "alt": "Chapter 2: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "After she parks, she rests her head against the steering wheel and sighs, looking like she might fall right asleep. Then she takes a breath and sits up.",
+    "preceding_context": "She would wait a few moments, letting the seconds swell, and we’d listen to our hearts beating, crying out for the story. Then she’d take a breath and tell us about the tiger.\n\nThe problem is, the tiger in her stories is a scary, tricky predator. But the tiger in the road didn’t seem that way. I don’t think it wanted to eat me, though I do think it wanted . . . something.\n\nI don’t get a chance to figure out what, because there are no more tiger sightings as we crawl through Sunbeam. Finally, we reach Halmoni’s house. It’s a small cottage, at the edge of town, at the top of a hill, across the street from the library and surrounded by woods.\n\nMom turns onto the long driveway, and we crunch-crunch up the gravel, until we reach the top.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch002-sc02",
     "chapter_id": "chapter-002",
     "chapter_number": 2,
@@ -128,6 +280,63 @@
     "generated_at": "20261106T074201059880Z",
     "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r3-ch002-beat03",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0101",
+    "source_paragraph_ids": [
+      "p0101"
+    ],
+    "description": "Then she flings her door open and flies out, throwing it shut as she starts running. She’s drenched immediately, and she’s not moving fast, but she’s working hard—fists pumping, shoulders hunched, head tilted forward, as if she’s a bull charging her mother’s home.",
+    "alt": "Chapter 2: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Then she flings her door open and flies out, throwing it shut as she starts running. She’s drenched immediately, and she’s not moving fast, but she’s working hard—fists pumping, shoulders hunched, head tilted forward, as if she’s a bull charging her mother’s home.",
+    "preceding_context": "This is not the way Mom usually looks. She’s usually so polished, everything in the right place, everything in order.\n\n“Right,” I say.\n\nSam flinches as if I kicked her.\n\n“Well, that settles it,” Mom says with relief, placing her hand on the door handle. “Ready. Set—”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch002-beat04",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0104",
+    "source_paragraph_ids": [
+      "p0104"
+    ],
+    "description": "Mom pinwheels her arms for no apparent reason, and I laugh. Then Sam laughs, and we look at each other. For a moment we’re sisters, making fun of our embarrassing mom.",
+    "alt": "Chapter 2: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Mom pinwheels her arms for no apparent reason, and I laugh. Then Sam laughs, and we look at each other. For a moment we’re sisters, making fun of our embarrassing mom.",
+    "preceding_context": "“Well, that settles it,” Mom says with relief, placing her hand on the door handle. “Ready. Set—”\n\nThen she flings her door open and flies out, throwing it shut as she starts running. She’s drenched immediately, and she’s not moving fast, but she’s working hard—fists pumping, shoulders hunched, head tilted forward, as if she’s a bull charging her mother’s home.\n\n“She looks ridiculous,” Sam says.\n\nAnd Sam’s not just being mean. It’s true.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch002-beat05",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0108",
+    "source_paragraph_ids": [
+      "p0108"
+    ],
+    "description": "I have never, ever felt rain like this. It is insistent and cold—too cold for July—and we don’t even make it out of the driveway before my shoes squish-squelch and my jeans get heavy.",
+    "alt": "Chapter 2: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I have never, ever felt rain like this. It is insistent and cold—too cold for July—and we don’t even make it out of the driveway before my shoes squish-squelch and my jeans get heavy.",
+    "preceding_context": "Mom pinwheels her arms for no apparent reason, and I laugh. Then Sam laughs, and we look at each other. For a moment we’re sisters, making fun of our embarrassing mom.\n\nI want to take this moment and stretch it to infinity.\n\nBut Sam turns away, picking up her phone and its charger and tucking them into her bra, protecting them. “Might as well go,” she says.\n\nI want to say, Stay, but I nod instead, and then we burst out of the car.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch002-sc03",
@@ -156,6 +365,44 @@
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
+    "id": "r3-ch002-beat06",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0112",
+    "source_paragraph_ids": [
+      "p0112"
+    ],
+    "description": "She shakes her head and frowns. “Halmoni isn’t answering,” she says. “She’s not here.”",
+    "alt": "Chapter 2: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "She shakes her head and frowns. “Halmoni isn’t answering,” she says. “She’s not here.”",
+    "preceding_context": "I have never, ever felt rain like this. It is insistent and cold—too cold for July—and we don’t even make it out of the driveway before my shoes squish-squelch and my jeans get heavy.\n\nSam yelps as she runs, and I yelp, too. Because it’s kind of funny and kind of awful. My eyes sting with water and I can hardly see, but the ice-cold shock of rain lights up my insides.\n\nBy the time Sam and I get to the top of the stairs—panting, dripping—I’ve wrung all the air out of my lungs, and my heart is bursting.\n\nMom waits for us on the front stoop, which is nice, I guess, but kind of strange because she should open the door and go inside.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch003-beat01",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0116",
+    "source_paragraph_ids": [
+      "p0116"
+    ],
+    "description": "Sam fiddles with the brass doorknob, willing it to turn. But that stubborn door stays shut. “So . . .” Sam stares at Mom, then at me. With her hair flat and her thick eyeliner running in black stripes down her cheeks, she looks like a wet tiger. “We just have to wait here. In the rain. For an undetermined amount of time?”",
+    "alt": "Chapter 3: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Sam fiddles with the brass doorknob, willing it to turn. But that stubborn door stays shut. “So . . .” Sam stares at Mom, then at me. With her hair flat and her thick eyeliner running in black stripes down her cheeks, she looks like a wet tiger. “We just have to wait here. In the rain. For an undetermined amount of time?”",
+    "preceding_context": "“What do you mean, she’s not here?” I whisper. For a moment, I panic: the tiger ate her. But I tell myself to remain calm.\n\nMom sighs. “I don’t know. I don’t know.”\n\nI can’t tell if she’s worried or annoyed; the rain runs over her eyes and lips, making her emotions blurry. I wish I knew how she felt, so I could know how I should feel.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch003-sc01",
     "chapter_id": "chapter-003",
     "chapter_number": 3,
@@ -180,6 +427,44 @@
     "generated_at": "20261106T074201059880Z",
     "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r3-ch003-beat02",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0125",
+    "source_paragraph_ids": [
+      "p0125"
+    ],
+    "description": "I nod. When Sam is happy, her moon face glows, and she looks like my sister again. I inch closer to her—just barely, so she doesn’t notice.",
+    "alt": "Chapter 3: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I nod. When Sam is happy, her moon face glows, and she looks like my sister again. I inch closer to her—just barely, so she doesn’t notice.",
+    "preceding_context": "Then Mom shoves the window open. She glances over at us before hoisting herself up and tumbling headfirst into the house.\n\n“Whoa,” I whisper. I’ve never seen Mom do anything like that.\n\nSam shakes her head. “Whoa is right. I bet she did that all the time as a teenager.” Sam looks at me like she can’t decide whether to frown or laugh, and I know exactly how she feels, because picturing Mom as a teenager is both ridiculous and kind of scary. It’s weird to think about Mom before we existed.\n\nBut Sam smiles, and my heart relaxes. “She probably snuck out to party with her friends.”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch003-beat03",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0133",
+    "source_paragraph_ids": [
+      "p0133"
+    ],
+    "description": "Sam and I enter, leaving watery footprints in the entryway, lake-sized puddles on the wood floor.",
+    "alt": "Chapter 3: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Sam and I enter, leaving watery footprints in the entryway, lake-sized puddles on the wood floor.",
+    "preceding_context": "Thinking about Dad is different for Sam than it is for me. She’s old enough to remember him. When he died in a car accident, she was seven. I was only four.\n\n“Sam . . . ,” I start, but I don’t know how to finish the sentence.\n\nI used to be able to talk to her. I used to tell her everything. If this had happened a few years ago, I would have said, I JUST SAW A TIGER IN THE MIDDLE OF THE ROAD. I would’ve shouted it right into her ear because I couldn’t hold it in.\n\n“I just saw . . . ,” I try again. But the locks on the other side of the door interrupt me. They sing as Mom slips them, slides them and opens the door. “Hurry inside,” she says, as if we could get more soaked than we already are.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch003-sc02",
@@ -208,6 +493,44 @@
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
+    "id": "r3-ch003-beat04",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0146",
+    "source_paragraph_ids": [
+      "p0146"
+    ],
+    "description": "When she emerges, her hands are full of towels and Halmoni’s silk nightgowns, and Sam and I pluck two off the top. The pale orange nightgown shimmers and shifts like sunset in my hands. Even Halmoni’s pajamas are beautiful.",
+    "alt": "Chapter 3: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "When she emerges, her hands are full of towels and Halmoni’s silk nightgowns, and Sam and I pluck two off the top. The pale orange nightgown shimmers and shifts like sunset in my hands. Even Halmoni’s pajamas are beautiful.",
+    "preceding_context": "Mom looks at me and softens. “Oh, don’t worry. I’m sure she’s just out shopping or visiting her friends. You know how she is.” She gives me a smile that’s sad and hopeful at once. “Are you happy to be here, Lily?”\n\nThere’s something going on, something she isn’t saying. I want to ask her about it, but I don’t want to take away her smile, so I just nod.\n\nShe’s about to say something else, but a shiver grabs me by the shoulders and shakes me.\n\nMom blinks at us, like she forgot how wet we were. “Right. Hang on. Let me find something for us to change into.” Our suitcases are back in the car, and none of us want to brave the rain, so Mom wanders down the hall and into Halmoni’s room.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch003-beat05",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0152",
+    "source_paragraph_ids": [
+      "p0152"
+    ],
+    "description": "Sam throws off her wet clothes, smears her dark makeup onto the clean towel, and tugs the black sequined nightgown on. Then she flops onto her bed. The mattress greets her with a groan, and she reaches behind the bed frame to plug her phone in before turning to me. “What are you doing? You were supposed to wait downstairs.”",
+    "alt": "Chapter 3: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Sam throws off her wet clothes, smears her dark makeup onto the clean towel, and tugs the black sequined nightgown on. Then she flops onto her bed. The mattress greets her with a groan, and she reaches behind the bed frame to plug her phone in before turning to me. “What are you doing? You were supposed to wait downstairs.”",
+    "preceding_context": "But of course Sam doesn’t wait. As soon as Mom walks back into Halmoni’s room, Sam dodges boxes and furniture and heads right upstairs to our bedroom, leaving puddle-lakes behind her.\n\nI start after her, but hesitate. I don’t want to be the little eggi who follows her unya everywhere. But in the end, of course, I follow her anyway.\n\nUpstairs, the attic room is creaky-cozy, with peaked ceilings, a full-length, wood-framed mirror, and two twin beds dressed in faded quilts. When Sam and I lived here, we pushed the beds together and curled into one another, trading stories in the dark.\n\nNow the beds are on opposite sides of the room, separated by the wide window.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch003-sc03",
     "chapter_id": "chapter-003",
     "chapter_number": 3,
@@ -234,6 +557,44 @@
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
+    "id": "r3-ch003-beat06",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0178",
+    "source_paragraph_ids": [
+      "p0178"
+    ],
+    "description": "I listen to the rain beat against the roof, and I run my hand over the quilt. I say, “You should be happy. You like Halmoni.” At least I think that’s true. Sam doesn’t seem to like anything anymore. Except her phone, maybe.",
+    "alt": "Chapter 3: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I listen to the rain beat against the roof, and I run my hand over the quilt. I say, “You should be happy. You like Halmoni.” At least I think that’s true. Sam doesn’t seem to like anything anymore. Except her phone, maybe.",
+    "preceding_context": "I tell her, I’m only trying to help. I ask, Don’t you see how hard Mom’s trying? I say, I don’t know why you’re so mad at me.\n\nBut actually I don’t say any of that. The words get stuck in my throat. Sam’s just so angry all the time, and everything I say sets her off.\n\nShe rolls her eyes again. “Whatever. You always make me be the bad guy, just because I speak my mind. You don’t have to be so afraid to rock the boat, you know.”\n\nWhat Sam doesn’t realize is that she’s already rocking our boat. If I rock it, too, the boat will flip. We’ll drown.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch004-beat01",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0186",
+    "source_paragraph_ids": [
+      "p0186"
+    ],
+    "description": "Halmoni throws the front door open with a bang and squeals, “Hello, my girls! My girls home to see me!”",
+    "alt": "Chapter 4: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Halmoni throws the front door open with a bang and squeals, “Hello, my girls! My girls home to see me!”",
+    "preceding_context": "",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch004-sc01",
     "chapter_id": "chapter-004",
     "chapter_number": 4,
@@ -250,6 +611,63 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch004-beat02",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0197",
+    "source_paragraph_ids": [
+      "p0197"
+    ],
+    "description": "Halmoni ignores this. She places her hands on my shoulders and leans back so she can look at me, grinning when she notices her nightgown. “Ohh, look at you. You are little mini-me! So pretty. So shiny.”",
+    "alt": "Chapter 4: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Halmoni ignores this. She places her hands on my shoulders and leans back so she can look at me, grinning when she notices her nightgown. “Ohh, look at you. You are little mini-me! So pretty. So shiny.”",
+    "preceding_context": "“Lily Bean!” she says. Her whole face lights up, and I didn’t even know someone could be so happy about anything. I run down the hallway and slide into her arms, soaking up her love.\n\n“Careful.” Mom sets Halmoni’s bags on the kitchen table and crosses her arms. “Don’t knock your halmoni over.”\n\nHalmoni wraps herself tight around me and scolds Mom over my head. “Hush, young lady. At least Lily is loving me.”\n\nMom sighs. “I do love you. That’s why we’re here.”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch004-beat03",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0204",
+    "source_paragraph_ids": [
+      "p0204"
+    ],
+    "description": "Halmoni pulls back and strokes Sam’s white streak. “So pretty, you hair.”",
+    "alt": "Chapter 4: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Halmoni pulls back and strokes Sam’s white streak. “So pretty, you hair.”",
+    "preceding_context": "“Halmoni,” I say, pulse hiccuping as I think of the tiger, “I have to tell you something.”\n\nBut Sam appears, padding quietly down the creaky stairs and hovering in the kitchen doorway.\n\n“And my moon,” Halmoni says, walking over to hug Sam.\n\nSam stiffens as Halmoni wraps her up, but she relaxes after a moment, leaning into Halmoni, breathing in. Nobody can resist Halmoni. She’s like gravity.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch004-beat04",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0227",
+    "source_paragraph_ids": [
+      "p0227"
+    ],
+    "description": "I start to walk over, but Halmoni grabs my wrist and pulls me back. “No, no. No moving those.”",
+    "alt": "Chapter 4: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I start to walk over, but Halmoni grabs my wrist and pulls me back. “No, no. No moving those.”",
+    "preceding_context": "“You sleep in living room, on the couch,” Halmoni responds, like this is no big deal.\n\nI expect Mom to argue, but she walks over to the boxes. “Okay, well, at least let me move this stuff. We can push it away from the basement door, and I can check out the flood damage downstairs. Sam, some help?”\n\nSam stares at her.\n\nMom sighs. “Lily?”",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch004-sc02",
@@ -270,6 +688,44 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch004-beat05",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0253",
+    "source_paragraph_ids": [
+      "p0253"
+    ],
+    "description": "“This very important to do on days of big change,” Halmoni tells me as she pours wine into small ceramic bowls. “When people come in. When people go out. We do this to keep spirits happy.”",
+    "alt": "Chapter 4: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“This very important to do on days of big change,” Halmoni tells me as she pours wine into small ceramic bowls. “When people come in. When people go out. We do this to keep spirits happy.”",
+    "preceding_context": "When I was little, I used to pretend that Dad would come for kosa, to eat with us. I made the mistake of telling Sam once that the food was for him.\n\nHer face twisted up and she spat, He’s dead. This isn’t a game.\n\nShe never liked kosa after that.\n\nAfter Halmoni heats a plate of red-bean rice cakes, she hands them to me, and I arrange them in a bamboo basket, the way she taught me. Carefully, lovingly. They warm my fingers.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch004-beat06",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0269",
+    "source_paragraph_ids": [
+      "p0269"
+    ],
+    "description": "Halmoni wraps her fingers around her pendant and leans down so her face is close to mine—so I can smell her milk breath. “Lily, crazy not a good word. Not a thinking word. You seeing truth because you are a special one, and that not make you crazy, okay?”",
+    "alt": "Chapter 4: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Halmoni wraps her fingers around her pendant and leans down so her face is close to mine—so I can smell her milk breath. “Lily, crazy not a good word. Not a thinking word. You seeing truth because you are a special one, and that not make you crazy, okay?”",
+    "preceding_context": "Halmoni leans closer. “Dreams very important, Lily. What do you see?”\n\nMom would tell me not to encourage Halmoni. Sam would tell me I’m being weird. But with Halmoni, I’m safe from judgment. “A tiger.”\n\nShe hisses through her teeth. “What that tiger doing?”\n\nI know she’s not upset with me, but she’s still upset, and I can’t help feeling like I’ve said the wrong thing. “Um, it just . . . stood there. Then disappeared.” A full-force knockout wave of panic hits me, and I whisper, “Am I going crazy?”",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch004-sc03",
     "chapter_id": "chapter-004",
     "chapter_number": 4,
@@ -288,6 +744,120 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch004-beat07",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0287",
+    "source_paragraph_ids": [
+      "p0287"
+    ],
+    "description": "The door bangs open again and Mom huffs and puffs back inside, thunking two suitcases on the floor.",
+    "alt": "Chapter 4: action and reaction beat 7",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "The door bangs open again and Mom huffs and puffs back inside, thunking two suitcases on the floor.",
+    "preceding_context": "I tug on one of my braids. “What did you steal?”\n\nIf this story is real, maybe the tiger is, too. And maybe this is why it appeared. But what could be so important that tigers would chase it across the world? And what would it feel like, to steal from tigers—to do something so powerful and so dangerous?\n\nShe frowns. “Not important, little one. Not safe to ask too many questions.”\n\n“But—”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch004-beat08",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0298",
+    "source_paragraph_ids": [
+      "p0298"
+    ],
+    "description": "Halmoni hands me a stack of plates. “Enough of that. You set table now. Kosa help keep you safe. Make tigers stay ‘way.” She turns away from me to finish chopping vegetables.",
+    "alt": "Chapter 4: action and reaction beat 8",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Halmoni hands me a stack of plates. “Enough of that. You set table now. Kosa help keep you safe. Make tigers stay ‘way.” She turns away from me to finish chopping vegetables.",
+    "preceding_context": "Halmoni smiles and nods. “Pass.”\n\nMom looks back and forth between us, and I shrug like I know nothing.\n\nMom seems like she wants to ask more, but she just sighs. “Okay, well, I’ll go get more of our stuff. Lily, no sitting on the kitchen counter,” she says before heading back down the stairs.\n\nI slide off the counter, but as soon as Mom’s gone, I turn back to Halmoni. “What did you take? And why? And what happened?”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch004-beat09",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0300",
+    "source_paragraph_ids": [
+      "p0300"
+    ],
+    "description": "But tonight the mood is different. She doesn’t offer, and I don’t ask. I do what I’m told and set the table, thinking of tigers and thieves and Halmoni’s stories.",
+    "alt": "Chapter 4: action and reaction beat 9",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "But tonight the mood is different. She doesn’t offer, and I don’t ask. I do what I’m told and set the table, thinking of tigers and thieves and Halmoni’s stories.",
+    "preceding_context": "Mom seems like she wants to ask more, but she just sighs. “Okay, well, I’ll go get more of our stuff. Lily, no sitting on the kitchen counter,” she says before heading back down the stairs.\n\nI slide off the counter, but as soon as Mom’s gone, I turn back to Halmoni. “What did you take? And why? And what happened?”\n\nHalmoni hands me a stack of plates. “Enough of that. You set table now. Kosa help keep you safe. Make tigers stay ‘way.” She turns away from me to finish chopping vegetables.\n\nNormally, when we set up kosa, she’ll sneak me a bite to eat early, winking and whispering, Eat fast, so the spirits don’t see.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch005-beat01",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0303",
+    "source_paragraph_ids": [
+      "p0303"
+    ],
+    "description": "Long, long ago, when tiger walked like man, two little girls lived with their halmoni in a small vine-covered cottage, at the edge of the village, at the top of a hill. They were sisters, with long black braids, and they shared everything together, including a love of rice cakes.",
+    "alt": "Chapter 5: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Long, long ago, when tiger walked like man, two little girls lived with their halmoni in a small vine-covered cottage, at the edge of the village, at the top of a hill. They were sisters, with long black braids, and they shared everything together, including a love of rice cakes.",
+    "preceding_context": "Let me tell you a story. The story. The tiger story. In case you are wondering. In case you are sitting, waiting, wanting.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch005-beat02",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0307",
+    "source_paragraph_ids": [
+      "p0307"
+    ],
+    "description": "So the halmoni tossed him the rice cakes to distract him, and as he swallowed them whole, she ran.",
+    "alt": "Chapter 5: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "So the halmoni tossed him the rice cakes to distract him, and as he swallowed them whole, she ran.",
+    "preceding_context": "Long, long ago, when tiger walked like man, two little girls lived with their halmoni in a small vine-covered cottage, at the edge of the village, at the top of a hill. They were sisters, with long black braids, and they shared everything together, including a love of rice cakes.\n\nOne day, the halmoni went into the village to buy rice cakes for her girls, but a tiger stopped her as she walked home. He came out of nowhere—as if he had jumped from the sky—and stood right in front of her, blocking the path.\n\nYou have something I want, the tiger said.\n\nNow, when a tiger wants something from you, it’s very hard to escape. The best thing to do? Run. Don’t talk to the tiger. Definitely don’t listen.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch005-beat03",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0311",
+    "source_paragraph_ids": [
+      "p0311"
+    ],
+    "description": "He took Halmoni’s head scarf, and when he went to the little cottage days later, he wore it as a disguise.",
+    "alt": "Chapter 5: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "He took Halmoni’s head scarf, and when he went to the little cottage days later, he wore it as a disguise.",
+    "preceding_context": "So the halmoni tossed him the rice cakes to distract him, and as he swallowed them whole, she ran.\n\nDelicious! the tiger cried. But if you give a tiger a rice cake, he’s going to want something to go with it. More!\n\nHalmoni didn’t get far. The tiger caught up and pounced in front of her. But Halmoni was out of treats, so he gobbled her up, swallowed her whole, like a rice cake. The only thing left was her head scarf, floating gently to the ground.\n\nStill, the tiger wanted more. He wasn’t satisfied—tigers never are—but he was clever.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch005-sc01",
     "chapter_id": "chapter-005",
     "chapter_number": 5,
@@ -304,6 +874,25 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch005-beat04",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0317",
+    "source_paragraph_ids": [
+      "p0317"
+    ],
+    "description": "So she ran to the front door and pulled it open.",
+    "alt": "Chapter 5: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "So she ran to the front door and pulled it open.",
+    "preceding_context": "Skritch, skritch, skritch.\n\nThe little girls knew something was wrong. Their halmoni’s nails were never quite so long, never so dirty. Halmoni liked her manicures.\n\nBut the girls missed their halmoni so much. The tiger said, Little girls, I have rice cakes for you. Little treats for Unya, for Eggi.\n\nThe little sister wanted her halmoni so badly. And the tiger called to her, Trust me, Little Egg. Believe.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch005-sc02",
@@ -342,6 +931,63 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch005-beat05",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0332",
+    "source_paragraph_ids": [
+      "p0332"
+    ],
+    "description": "Unya was happy, but Eggi cried. Everyone always stared up at the moon, and she didn’t like that. She wanted to hide.",
+    "alt": "Chapter 5: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Unya was happy, but Eggi cried. Everyone always stared up at the moon, and she didn’t like that. She wanted to hide.",
+    "preceding_context": "I don’t think you’ll be shocked to hear that the sky god saved the girls. Stories like these have happy endings. Just as the tiger leapt to swallow them, a magic rope fell from one end of the sky, and a magic staircase from the other.\n\nUnya grabbed the rope, and Eggi took the stairs, and they climbed—up and up until finally they were safe in the sky kingdom.\n\nThere, the sky god told them they could stay with him forever, but they needed jobs. Living in the sky kingdom? It’s expensive.\n\nSo the older sister became the sun, and the younger sister became the moon.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch005-beat06",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0335",
+    "source_paragraph_ids": [
+      "p0335"
+    ],
+    "description": "And the tiger? There he was, way back down on earth, asking to come up. But the sky god wouldn’t listen. He didn’t want to hear a tiger’s story, so the tiger was banished.",
+    "alt": "Chapter 5: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "And the tiger? There he was, way back down on earth, asking to come up. But the sky god wouldn’t listen. He didn’t want to hear a tiger’s story, so the tiger was banished.",
+    "preceding_context": "So the older sister became the sun, and the younger sister became the moon.\n\nUnya was happy, but Eggi cried. Everyone always stared up at the moon, and she didn’t like that. She wanted to hide.\n\nSo the elder offered to trade places. Don’t worry. You can be the sun instead. Nobody can stare at the sun.\n\nProblem solved! They were happy again, and they took their places at opposite ends of the sky, safe forever.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch006-beat01",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0339",
+    "source_paragraph_ids": [
+      "p0339"
+    ],
+    "description": "I wake up sweating. Sheets twisted, pillow damp, bed creaking. My stomach growls, and I realize I’m desperately hungry for midnight kimchi, so I untangle my blankets and slip out of bed. As I tiptoe across the room, past my sister, I beg the noisy floorboards to keep quiet. They don’t listen. They whine under my feet.",
+    "alt": "Chapter 6: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I wake up sweating. Sheets twisted, pillow damp, bed creaking. My stomach growls, and I realize I’m desperately hungry for midnight kimchi, so I untangle my blankets and slip out of bed. As I tiptoe across the room, past my sister, I beg the noisy floorboards to keep quiet. They don’t listen. They whine under my feet.",
+    "preceding_context": "",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch006-sc01",
     "chapter_id": "chapter-006",
     "chapter_number": 6,
@@ -358,6 +1004,63 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch006-beat02",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0347",
+    "source_paragraph_ids": [
+      "p0347"
+    ],
+    "description": "The boxes that were pressed up against the basement door have been shoved aside, leaving a clear path.",
+    "alt": "Chapter 6: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "The boxes that were pressed up against the basement door have been shoved aside, leaving a clear path.",
+    "preceding_context": "They seem to dance and bend in front of me, like they’re cast by something I can’t see.\n\nI rub my eyes and shake the sleep out of my head, and the shadows go back to normal. I creep down the stairs, past Halmoni’s bedroom, past Mom sleeping on the couch.\n\nI tiptoe toward the kitchen—\n\nAnd then I stop.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch006-beat03",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0351",
+    "source_paragraph_ids": [
+      "p0351"
+    ],
+    "description": "Outside, tree branches blow in the wind, skritching against the windows, and the basement door seems to sway back and forth, just a little.",
+    "alt": "Chapter 6: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Outside, tree branches blow in the wind, skritching against the windows, and the basement door seems to sway back and forth, just a little.",
+    "preceding_context": "The boxes that were pressed up against the basement door have been shoved aside, leaving a clear path.\n\nI know Mom wanted to move the boxes, but I didn’t think she cared enough to upset Halmoni. And anyway, she wanted to move the boxes over to the wall—not just a few inches to the side.\n\nEven weirder: the door’s cracked open.\n\nAn invisible weight presses against my chest, making it hard to breathe.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch006-beat04",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0363",
+    "source_paragraph_ids": [
+      "p0363"
+    ],
+    "description": "I fumble for the light switch, which apparently doesn’t work, so I go by the moonlight that spills in through a thin window at the top of the wall. The splintering wood prickles against my bare feet as I walk down the steps, and then I’m at the bottom.",
+    "alt": "Chapter 6: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I fumble for the light switch, which apparently doesn’t work, so I go by the moonlight that spills in through a thin window at the top of the wall. The splintering wood prickles against my bare feet as I walk down the steps, and then I’m at the bottom.",
+    "preceding_context": "And now, it calls out to me. It tugs at my chest, and I feel it somewhere deep inside, right behind my stomach.\n\nThe wooden door is warm against my palm, and it creaks when I push it open.\n\nI hold my breath, waiting, not sure if I’m afraid or excited.\n\nNothing happens.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch006-sc02",
@@ -378,6 +1081,25 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch006-beat05",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0373",
+    "source_paragraph_ids": [
+      "p0373"
+    ],
+    "description": "A noise startles me and I jump to my feet. It’s a deep, groaning, animal kind of noise, and I stumble back toward the steps, tripping over my own feet. Fear nips at my toes as I run up the stairs—taking them two at a time, barely bothering to breathe until I’m out of the basement, door shut firmly behind me.",
+    "alt": "Chapter 6: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "A noise startles me and I jump to my feet. It’s a deep, groaning, animal kind of noise, and I stumble back toward the steps, tripping over my own feet. Fear nips at my toes as I run up the stairs—taking them two at a time, barely bothering to breathe until I’m out of the basement, door shut firmly behind me.",
+    "preceding_context": "Shouldn’t it be damp? And shouldn’t it smell, I don’t know, wet? Mildewy?\n\nThe basement smells like it always has—dusty and full of memories, like the pages of an old book.\n\nI bite the inside of my cheek. Maybe I’m being paranoid, but none of this makes sense. If the basement never flooded, why would Halmoni move all her things?\n\nAnd why would she lie?",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch006-sc03",
     "chapter_id": "chapter-006",
     "chapter_number": 6,
@@ -394,6 +1116,25 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch006-beat06",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0377",
+    "source_paragraph_ids": [
+      "p0377"
+    ],
+    "description": "And inside the bathroom—I see a shadow beast, a mess of black scales, hunched over and heaving. It growls and moves like all its bones are broken.",
+    "alt": "Chapter 6: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "And inside the bathroom—I see a shadow beast, a mess of black scales, hunched over and heaving. It growls and moves like all its bones are broken.",
+    "preceding_context": "A noise startles me and I jump to my feet. It’s a deep, groaning, animal kind of noise, and I stumble back toward the steps, tripping over my own feet. Fear nips at my toes as I run up the stairs—taking them two at a time, barely bothering to breathe until I’m out of the basement, door shut firmly behind me.\n\nI lean against the shut door and steady my breath and my wobbly legs.\n\nI should go to bed now. That’s enough for one night, and I’ve lost my appetite.\n\nI hear the noise again, and now I realize it’s coming from the bathroom. The door hangs ajar and I linger in the dark, peeking in.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch007-sc01",
@@ -414,6 +1155,63 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch007-beat01",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0387",
+    "source_paragraph_ids": [
+      "p0387"
+    ],
+    "description": "But for some reason, I don’t move. As much as I try, I can’t force my legs to work, can’t make my hand push the door open.",
+    "alt": "Chapter 7: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "But for some reason, I don’t move. As much as I try, I can’t force my legs to work, can’t make my hand push the door open.",
+    "preceding_context": "Kids get sick all the time. Sam always tells me, You kids are made of germs. (As if she’s such a grown-up). But she’s not wrong. Because grown-ups aren’t supposed to throw up. And Halmoni, especially, isn’t supposed to throw up. Halmoni is so glamorous, and this is so . . . gross.\n\nHalmoni has always been the queen of sleep. She goes to bed at eight-thirty, sets her hair in curlers and wraps it in a head scarf, wears a face mask, and sleeps for twelve hours.\n\nNothing gets in the way of beauty sleep. Except, I guess, this.\n\nA good granddaughter would help her. A good girl would bring her crackers and water and hold her hair.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch007-beat02",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0389",
+    "source_paragraph_ids": [
+      "p0389"
+    ],
+    "description": "I feel like I’ve seen something I shouldn’t have. Halmoni looks through the cracked open door and sees me. Too late, I try to switch on my invisibility—but Halmoni sees me. She always does.",
+    "alt": "Chapter 7: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I feel like I’ve seen something I shouldn’t have. Halmoni looks through the cracked open door and sees me. Too late, I try to switch on my invisibility—but Halmoni sees me. She always does.",
+    "preceding_context": "Nothing gets in the way of beauty sleep. Except, I guess, this.\n\nA good granddaughter would help her. A good girl would bring her crackers and water and hold her hair.\n\nBut for some reason, I don’t move. As much as I try, I can’t force my legs to work, can’t make my hand push the door open.\n\nI am not a good granddaughter.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch007-beat03",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0390",
+    "source_paragraph_ids": [
+      "p0390"
+    ],
+    "description": "“Lily,” she croaks. The curlers in her black hair look like scales. “I thought I hear you there.”",
+    "alt": "Chapter 7: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“Lily,” she croaks. The curlers in her black hair look like scales. “I thought I hear you there.”",
+    "preceding_context": "A good granddaughter would help her. A good girl would bring her crackers and water and hold her hair.\n\nBut for some reason, I don’t move. As much as I try, I can’t force my legs to work, can’t make my hand push the door open.\n\nI am not a good granddaughter.\n\nI feel like I’ve seen something I shouldn’t have. Halmoni looks through the cracked open door and sees me. Too late, I try to switch on my invisibility—but Halmoni sees me. She always does.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch007-sc02",
     "chapter_id": "chapter-007",
     "chapter_number": 7,
@@ -430,6 +1228,63 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch007-beat04",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0393",
+    "source_paragraph_ids": [
+      "p0393"
+    ],
+    "description": "“But . . .” My voice cracks. I clear my throat. “Are you—are you sick?”",
+    "alt": "Chapter 7: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“But . . .” My voice cracks. I clear my throat. “Are you—are you sick?”",
+    "preceding_context": "I feel like I’ve seen something I shouldn’t have. Halmoni looks through the cracked open door and sees me. Too late, I try to switch on my invisibility—but Halmoni sees me. She always does.\n\n“Lily,” she croaks. The curlers in her black hair look like scales. “I thought I hear you there.”\n\nHer face is draped in darkness, and I can’t tell what she’s thinking. Is she upset with me? Angry that I’m sneaking around? Does she want me to leave? When I speak, I whisper, “Are you okay?”\n\nShe flushes the toilet and stands up, stepping forward, into the moonlight. The wrinkles around her eyes and lips are deeper than usual, but she looks healthy enough. If I hadn’t heard her throwing up, I wouldn’t have guessed it. “Of course I’m okay. My whole family is here. That’s even better than okay.”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch007-beat05",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0397",
+    "source_paragraph_ids": [
+      "p0397"
+    ],
+    "description": "I take a breath to calm down. Everybody gets the stomach flu, even halmonis.",
+    "alt": "Chapter 7: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I take a breath to calm down. Everybody gets the stomach flu, even halmonis.",
+    "preceding_context": "“But . . .” My voice cracks. I clear my throat. “Are you—are you sick?”\n\n“Oh, yes, Lily. Only a little bit. How do you call it? A little beetle?”\n\nSometimes I think she mixes up words on purpose, to make us laugh—to distract us. “A bug?” I clarify.\n\nShe nods. “Yes, little bug. But I am okay.”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch007-beat06",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0400",
+    "source_paragraph_ids": [
+      "p0400"
+    ],
+    "description": "“I couldn’t sleep. I was thinking about . . . the tiger.”",
+    "alt": "Chapter 7: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“I couldn’t sleep. I was thinking about . . . the tiger.”",
+    "preceding_context": "She nods. “Yes, little bug. But I am okay.”\n\nI take a breath to calm down. Everybody gets the stomach flu, even halmonis.\n\nJust a little beetle-bug.\n\n“Why you up?” she asks.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch007-sc03",
@@ -450,6 +1305,25 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch008-beat01",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0409",
+    "source_paragraph_ids": [
+      "p0409"
+    ],
+    "description": "Halmoni is quiet for so long that I think maybe she’s changed her mind about telling me. But she’s just waiting, building suspense, and she takes my hand, traces my life line with her fingertip. She used to do this when I was little, to soothe me during the scary parts of her stories.",
+    "alt": "Chapter 8: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Halmoni is quiet for so long that I think maybe she’s changed her mind about telling me. But she’s just waiting, building suspense, and she takes my hand, traces my life line with her fingertip. She used to do this when I was little, to soothe me during the scary parts of her stories.",
+    "preceding_context": "Before I can ask about them, she says, “I stole stories.”\n\nI suck in air, trying to understand, but it’s a little hard. My grandmother. Stole stories. From magical tigers.\n\nNot a whole lot of that makes sense.\n\n“How do you steal a story?” I ask.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch008-sc01",
     "chapter_id": "chapter-008",
     "chapter_number": 8,
@@ -466,6 +1340,63 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch008-beat02",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0414",
+    "source_paragraph_ids": [
+      "p0414"
+    ],
+    "description": "“Yes, yes. Now listen.” She shushes me and continues. “The sky princess tell so many stories that the sky fill with light. No more darkness anywhere! And the people on earth, down in villages, they so happy. No more night.”",
+    "alt": "Chapter 8: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“Yes, yes. Now listen.” She shushes me and continues. “The sky princess tell so many stories that the sky fill with light. No more darkness anywhere! And the people on earth, down in villages, they so happy. No more night.”",
+    "preceding_context": "“Those stories come from a time before. Long, long ago. When tiger walked like man.”\n\nI nudge closer to her, heart humming at those magic words.\n\n“Those stories come from a time when the night is black. Only darkness. And in the darkness, a princess lives in a castle in the sky. The princess very lonely, so she whisper stories to the night. And those stories become stars.”\n\nWhen Halmoni told us to reach up and grab a story from the sky, I always thought it was just a fun game. I never thought she meant it literally. “The stars are made of stories?”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch008-beat03",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0416",
+    "source_paragraph_ids": [
+      "p0416"
+    ],
+    "description": "“Story magic was so bright and powerful that of course tigers want it. They go to very top of highest mountain, surround themselves with stars, and guard the sky.”",
+    "alt": "Chapter 8: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“Story magic was so bright and powerful that of course tigers want it. They go to very top of highest mountain, surround themselves with stars, and guard the sky.”",
+    "preceding_context": "“Those stories come from a time when the night is black. Only darkness. And in the darkness, a princess lives in a castle in the sky. The princess very lonely, so she whisper stories to the night. And those stories become stars.”\n\nWhen Halmoni told us to reach up and grab a story from the sky, I always thought it was just a fun game. I never thought she meant it literally. “The stars are made of stories?”\n\n“Yes, yes. Now listen.” She shushes me and continues. “The sky princess tell so many stories that the sky fill with light. No more darkness anywhere! And the people on earth, down in villages, they so happy. No more night.”\n\nI look out the window at the inky black, and I shiver. No more night.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch008-beat04",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0423",
+    "source_paragraph_ids": [
+      "p0423"
+    ],
+    "description": "“So one quiet night, I take jars from my house and carry them up the mountain, tracking those tigers all the way to the caves.",
+    "alt": "Chapter 8: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“So one quiet night, I take jars from my house and carry them up the mountain, tracking those tigers all the way to the caves.",
+    "preceding_context": "Halmoni wraps her arms tight around me. “Sometime, they make people feel bad and act bad. Some of those stories make me feel sad and small.”\n\nI bite my lip. The stories Halmoni told us always had happy endings. They were about clever girls and loving families and warrior princesses who saved the day.\n\n“I hear my halmoni cry when she tell me sad stories, our Korean history,” she says. “I see my neighbors get scare. My friends get angry. And I think: Why do we have to hear bad stories? Isn’t it better if bad stories just go ‘way?”\n\nI swallow. That makes sense, I think.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch008-sc02",
@@ -486,6 +1417,44 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch008-beat05",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0429",
+    "source_paragraph_ids": [
+      "p0429"
+    ],
+    "description": "Halmoni continues, “I seal jars up. Then I tiptoe away from cave, so soft, hush-hush. Before I leave, I think, I be extra safe. I make sure they don’t follow. So I take rocks from the forest, one by one, and stack them at the mouth of the cave, until they make a wall. Big, heavy wall. Until the tigers trapped inside.”",
+    "alt": "Chapter 8: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Halmoni continues, “I seal jars up. Then I tiptoe away from cave, so soft, hush-hush. Before I leave, I think, I be extra safe. I make sure they don’t follow. So I take rocks from the forest, one by one, and stack them at the mouth of the cave, until they make a wall. Big, heavy wall. Until the tigers trapped inside.”",
+    "preceding_context": "It’s another thing that seems impossible—but maybe the world is bigger than I thought. Maybe there’s room for disappearing tigers and captured stars.\n\n“You stole the stars,” I say.\n\n“Not all. But . . . yes.”\n\nI wonder what it would feel like to hold stars in my hands—if they would crumble like dust or shatter like glass, if they’d burn fierce and hot or sharp and cold.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch008-beat06",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0435",
+    "source_paragraph_ids": [
+      "p0435"
+    ],
+    "description": "She is quiet for so long that I think maybe she fell asleep. Then she says, “Nothing last forever, Lily. Tigers break free. The tigers very angry. Now they coming for me.”",
+    "alt": "Chapter 8: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "She is quiet for so long that I think maybe she fell asleep. Then she says, “Nothing last forever, Lily. Tigers break free. The tigers very angry. Now they coming for me.”",
+    "preceding_context": "“I think: No more bad stories. No more. I never want to hear them again, so I run away, away from my little village, across the ocean, cross the whole world, to a new place. Where I am safe from sadness.” Halmoni’s voice starts to fade as she gets sleepier. “I steal the stars, and I lock them away.”\n\n“How did you know?” I ask, as I press my warm toes against her cold ones. “How did you know you’d be okay?”\n\n“I don’t. But I believe in me. When you believe, that is you being brave. Sometime, believing is the bravest thing of all.”\n\n“So everything turned out fine?” Halmoni never talked much about how she came to the United States from Korea, and I never thought to ask.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch008-sc03",
     "chapter_id": "chapter-008",
     "chapter_number": 8,
@@ -504,6 +1473,25 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch009-beat01",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0438",
+    "source_paragraph_ids": [
+      "p0438"
+    ],
+    "description": "My dreams are filled with tigers. When I wake up the next morning, I lie next to my sleeping halmoni, thinking about her story. Questions thunder through my mind.",
+    "alt": "Chapter 9: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "My dreams are filled with tigers. When I wake up the next morning, I lie next to my sleeping halmoni, thinking about her story. Questions thunder through my mind.",
+    "preceding_context": "",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch009-sc01",
     "chapter_id": "chapter-009",
     "chapter_number": 9,
@@ -520,6 +1508,101 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch009-beat02",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0448",
+    "source_paragraph_ids": [
+      "p0448"
+    ],
+    "description": "She flinches. Hot coffee sloshes in her mug, threatening to spill over. “Lily! You scared me. You’re so quiet, always sneaking up on me.”",
+    "alt": "Chapter 9: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "She flinches. Hot coffee sloshes in her mug, threatening to spill over. “Lily! You scared me. You’re so quiet, always sneaking up on me.”",
+    "preceding_context": "She’s turned slightly away from me, body curled around a half-full mug of coffee. The steam dances and floats up to kiss her face, but she doesn’t notice.\n\nI realize it’s been a long time since I’ve seen Mom so still. She’s always moving. Right now, I feel like I’ve captured a precious moment. I want to take it and hold it close to my heart.\n\nShe’s staring out the living room window, but there’s nothing to see except the vague outlines of trees and a few houses in the distance.\n\nI step toward her, and the floorboard yelps.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch009-beat03",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0454",
+    "source_paragraph_ids": [
+      "p0454"
+    ],
+    "description": "“I’ve got a job interview this morning,” she explains, gesturing down at herself. “Working at the front desk at a dental office. Dr. Bennett’s office, remember? We used to go to him when we lived here. I think you liked the fish tank.”",
+    "alt": "Chapter 9: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "“I’ve got a job interview this morning,” she explains, gesturing down at herself. “Working at the front desk at a dental office. Dr. Bennett’s office, remember? We used to go to him when we lived here. I think you liked the fish tank.”",
+    "preceding_context": "She just smiles. “How are you? How did you sleep?”\n\nThat’s too complicated to answer, so I nod in response.\n\nAnd I guess a nod is good enough for Mom, because she doesn’t push it. She plunks her mug on the coffee table as she stands—and when she does, I notice she’s dressed nicely, in a button-down shirt and work pants. “Are you hungry?” she asks.\n\n“No,” I say. “What are you wearing?”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch009-beat04",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0479",
+    "source_paragraph_ids": [
+      "p0479"
+    ],
+    "description": "Mom looks relieved. “That’s great, Lily. You’re the best. Have I told you you’re the best?” She sets the tea in front of me and ruffles my hair. “Have fun at the library, okay?”",
+    "alt": "Chapter 9: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Mom looks relieved. “That’s great, Lily. You’re the best. Have I told you you’re the best?” She sets the tea in front of me and ruffles my hair. “Have fun at the library, okay?”",
+    "preceding_context": "Mom didn’t understand why I was so afraid, because the library looks like a cute cottage, placed right in front of the forest. The door and window frames were painted in bright, colorful patterns.\n\nBut I told her: It looks like the gingerbread house from “Hansel and Gretel.”\n\nI guess she’s forgotten about that.\n\nA flash of annoyance flares up in me, but I shove it down. “Yeah, okay.”",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch009-beat05",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0483",
+    "source_paragraph_ids": [
+      "p0483"
+    ],
+    "description": "I get up to pour the tea down the sink, and the swirl of brown water thrills me. It feels reckless and wasteful, but in a good way.",
+    "alt": "Chapter 9: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I get up to pour the tea down the sink, and the swirl of brown water thrills me. It feels reckless and wasteful, but in a good way.",
+    "preceding_context": "Mom looks relieved. “That’s great, Lily. You’re the best. Have I told you you’re the best?” She sets the tea in front of me and ruffles my hair. “Have fun at the library, okay?”\n\nShe leaves, slamming the front door behind her, and I sip the tea I don’t really want. It burns my tongue and tastes like earth, but it sends fire down my throat and wakes me up.\n\nAnd I’m angry. Because sometimes it’s like she has this whole other Lily in her head. An Almost Me that doesn’t match the Real Me.\n\nI don’t like tea. And I don’t love libraries. And what if I’m not the best? How would she know? It’s not like she’s paying attention.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch009-beat06",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0485",
+    "source_paragraph_ids": [
+      "p0485"
+    ],
+    "description": "For a moment I stare at the crack, and something opens inside me—something big and gaping, a black hole that’s a little too scary to look into.",
+    "alt": "Chapter 9: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "For a moment I stare at the crack, and something opens inside me—something big and gaping, a black hole that’s a little too scary to look into.",
+    "preceding_context": "And I’m angry. Because sometimes it’s like she has this whole other Lily in her head. An Almost Me that doesn’t match the Real Me.\n\nI don’t like tea. And I don’t love libraries. And what if I’m not the best? How would she know? It’s not like she’s paying attention.\n\nI get up to pour the tea down the sink, and the swirl of brown water thrills me. It feels reckless and wasteful, but in a good way.\n\nI drop the mug in after it—only with too much force. The mug cracks.",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch009-sc02",
@@ -558,6 +1641,44 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch010-beat01",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0491",
+    "source_paragraph_ids": [
+      "p0491"
+    ],
+    "description": "The steps leading up to the library are lined with cracks, the windows are tinted, and the roof sags, just a little, like it’s tired. It’s hard to imagine this is the same gingerbread library I was afraid of as a kid. All that magic has faded.",
+    "alt": "Chapter 10: action and reaction beat 1",
+    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "The steps leading up to the library are lined with cracks, the windows are tinted, and the roof sags, just a little, like it’s tired. It’s hard to imagine this is the same gingerbread library I was afraid of as a kid. All that magic has faded.",
+    "preceding_context": "",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch010-beat02",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0493",
+    "source_paragraph_ids": [
+      "p0493"
+    ],
+    "description": "An older man, sitting at the front desk, looks up from an ancient computer. Thin wire-framed glasses perch on his nose, and a thick white mustache twitches between his pink cheeks. If he weren’t frowning so hard, he might look a little like Santa Claus.",
+    "alt": "Chapter 10: action and reaction beat 2",
+    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "An older man, sitting at the front desk, looks up from an ancient computer. Thin wire-framed glasses perch on his nose, and a thick white mustache twitches between his pink cheeks. If he weren’t frowning so hard, he might look a little like Santa Claus.",
+    "preceding_context": "The steps leading up to the library are lined with cracks, the windows are tinted, and the roof sags, just a little, like it’s tired. It’s hard to imagine this is the same gingerbread library I was afraid of as a kid. All that magic has faded.\n\nWhen I reach the doors, I tug once, then again, and just when I’m wondering whether it’s locked, the building finally lets me in. Inside, it smells like mildew, but it’s warm.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch010-sc01",
     "chapter_id": "chapter-010",
     "chapter_number": 10,
@@ -574,6 +1695,44 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch010-beat03",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0514",
+    "source_paragraph_ids": [
+      "p0514"
+    ],
+    "description": "The girl shakes her head at Joe and sticks her hand out to me. “Hello! Welcome to Sunbeam’s world-famous library! I’m Jensen.”",
+    "alt": "Chapter 10: action and reaction beat 3",
+    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "The girl shakes her head at Joe and sticks her hand out to me. “Hello! Welcome to Sunbeam’s world-famous library! I’m Jensen.”",
+    "preceding_context": "He grunts. “Not very often that kids these days use the library. They think you can find everything on the web.”\n\n“Yeah,” I say, because I’m not sure how else to respond. I’m guessing most Kids These Days don’t have a magical tiger that’s hunting their grandma, because I don’t think Googling magical evil tiger would get very good results.\n\nSomebody groans behind me, and I turn to see a girl about Sam’s age, with medium-brown skin, freckles, and curly hair, pushing an empty library cart. “Joe, are you really kids-these-days-ing this poor girl?”\n\n“I am not wrong,” the librarian—Joe—says.",
+    "kind": "action-reaction-detail"
+  },
+  {
+    "id": "r3-ch010-beat04",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0533",
+    "source_paragraph_ids": [
+      "p0533"
+    ],
+    "description": "The tour ends with a small room in the back of the library. Inside I see a mini-refrigerator, a cupboard, two chairs, and the back door of the library. On the wall by the door is a faded poster of a cat hanging from a tree, with the words HANG IN THERE written in white bubble letters. I don’t know who put that up, but I’m pretty sure it wasn’t Joe.",
+    "alt": "Chapter 10: action and reaction beat 4",
+    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "The tour ends with a small room in the back of the library. Inside I see a mini-refrigerator, a cupboard, two chairs, and the back door of the library. On the wall by the door is a faded poster of a cat hanging from a tree, with the words HANG IN THERE written in white bubble letters. I don’t know who put that up, but I’m pretty sure it wasn’t Joe.",
+    "preceding_context": "But at the same time, weirdly, my chest tightens. I don’t know anything about Halmoni’s life in Sunbeam. Aside from my early years here, I’ve only known her in California. And in California she was there just for us. She was ours.\n\nThe jealousy that bubbles up startles me—just like my anger at Mom this morning. I don’t like it. These are feelings I shouldn’t be feeling.\n\nI refocus on Jensen, who keeps talking. “I tutor for middle school language arts. So if you’re ever looking for help, let me know.”\n\nMy voice scratches when I speak, like it always does when I talk to strangers. “Yeah, okay. Thank you.”",
+    "kind": "action-reaction-detail"
   },
   {
     "id": "r2-ch010-sc02",
@@ -594,6 +1753,25 @@
     "status": "planned"
   },
   {
+    "id": "r3-ch010-beat05",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0546",
+    "source_paragraph_ids": [
+      "p0546"
+    ],
+    "description": "Jensen leads me over to the wildlife section, and I flip through the tiger selection. It’s pretty dismal—102 Tiger Facts! and 102 MORE Tiger Facts!",
+    "alt": "Chapter 10: action and reaction beat 5",
+    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "Jensen leads me over to the wildlife section, and I flip through the tiger selection. It’s pretty dismal—102 Tiger Facts! and 102 MORE Tiger Facts!",
+    "preceding_context": "Jensen grins. “That’s a brilliant idea, Lily.”\n\n“Oh, okay,” I say. I can’t tell if she really means it or if she’s just being nice.\n\n“Anyway,” she continues, “feel free to sneak some whenever you visit. And I hope you do visit. It gets a little lonely around here.”\n\nI like Jensen. She’s nicer than I thought teenagers could be. She is, basically, the anti-Sam. And I don’t know what, exactly, she sees when she looks at me, but I know she sees me—which feels nice and also a little itchy.",
+    "kind": "action-reaction-detail"
+  },
+  {
     "id": "r2-ch010-sc03",
     "chapter_id": "chapter-010",
     "chapter_number": 10,
@@ -610,5 +1788,24 @@
     "character_ids": [],
     "state": "source-passage-and-bible",
     "status": "planned"
+  },
+  {
+    "id": "r3-ch010-beat06",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0566",
+    "source_paragraph_ids": [
+      "p0566"
+    ],
+    "description": "I chase the tiger, winding through the aisles, following glimpses of its tail . . . until I slam right into a blur of black and orange.",
+    "alt": "Chapter 10: action and reaction beat 6",
+    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned",
+    "source_excerpt": "I chase the tiger, winding through the aisles, following glimpses of its tail . . . until I slam right into a blur of black and orange.",
+    "preceding_context": "My heart stumbles.\n\nThe superpower of invisible girls is to hide, to disappear. To stay out of trouble. That’s what I’m good at.\n\nRun away, I tell myself. Hide.\n\nBut my legs ignore me. I’m already moving down the aisle as I stammer to Jensen, “Actually, I think—uh—there might be a book. Over there!”",
+    "kind": "action-reaction-detail"
   }
 ]
