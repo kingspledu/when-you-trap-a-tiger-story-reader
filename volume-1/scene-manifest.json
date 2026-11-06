@@ -2292,8 +2292,16 @@
     "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch010-beat05.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch010-beat05-r2-ch010-sc03-r3-ch010-beat06-r2-ch011-sc01-r3-ch011-beat01-r3-ch011-beat02-r3-ch011-beat03-r3-ch011-beat04-r2-ch011-sc02",
+    "quadrant": 1,
+    "generated_at": "20261106T084114313833Z",
+    "grid_sha256": "feecd920095f62b3956a4fcdcb7f74433b38b3f6454eaf43fde6c31d35808e6f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch010-sc03",
@@ -2311,7 +2319,15 @@
     "camera": "Narrow aisle suspense composition; only tail tip, no full animal or second tiger.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch010-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch010-beat05-r2-ch010-sc03-r3-ch010-beat06-r2-ch011-sc01-r3-ch011-beat01-r3-ch011-beat02-r3-ch011-beat03-r3-ch011-beat04-r2-ch011-sc02",
+    "quadrant": 2,
+    "generated_at": "20261106T084114313833Z",
+    "grid_sha256": "feecd920095f62b3956a4fcdcb7f74433b38b3f6454eaf43fde6c31d35808e6f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch010-beat06",
@@ -2327,7 +2343,15 @@
     "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch010-beat06.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch010-beat05-r2-ch010-sc03-r3-ch010-beat06-r2-ch011-sc01-r3-ch011-beat01-r3-ch011-beat02-r3-ch011-beat03-r3-ch011-beat04-r2-ch011-sc02",
+    "quadrant": 3,
+    "generated_at": "20261106T084114313833Z",
+    "grid_sha256": "feecd920095f62b3956a4fcdcb7f74433b38b3f6454eaf43fde6c31d35808e6f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   }
 ]
