@@ -2063,8 +2063,16 @@
     "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch009-beat06.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 1,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch009-sc02",
@@ -2082,7 +2090,15 @@
     "camera": "Closeup ceramic crack and trash, one child hand lowering mug, no dangerous injury.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch009-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 2,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch009-sc03",
@@ -2100,7 +2116,15 @@
     "camera": "Rear three-quarter outdoor wide shot descending house steps toward road; library opposite.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch009-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 3,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch010-beat01",
@@ -2116,8 +2140,16 @@
     "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch010-beat01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 4,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch010-beat02",
@@ -2133,8 +2165,16 @@
     "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch010-beat02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 5,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch010-sc01",
@@ -2152,7 +2192,15 @@
     "camera": "Hand-and-card closeup across old desk; Joe thin wire glasses, thick WHITE MUSTACHE, NOT full dark beard.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch010-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 6,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch010-beat03",
@@ -2168,8 +2216,16 @@
     "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch010-beat03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 7,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch010-beat04",
@@ -2185,8 +2241,16 @@
     "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch010-beat04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 8,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch010-sc02",
@@ -2204,7 +2268,15 @@
     "camera": "Friendly medium two-shot: Jensen medium-brown skin, freckles, curls; Lily striped shirt.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch010-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch009-beat06-r2-ch009-sc02-r2-ch009-sc03-r3-ch010-beat01-r3-ch010-beat02-r2-ch010-sc01-r3-ch010-beat03-r3-ch010-beat04-r2-ch010-sc02",
+    "quadrant": 9,
+    "generated_at": "20261106T083754660837Z",
+    "grid_sha256": "510aabb6babdc722bb93e7cef36ba4d0ebd6d28f59e57d0382ab8308a9eca87f",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch010-beat05",
