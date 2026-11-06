@@ -1,1 +1,614 @@
-[]
+[
+  {
+    "id": "r2-ch001-sc01",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0007",
+    "source_paragraph_ids": [
+      "p0005",
+      "p0006",
+      "p0007"
+    ],
+    "description": "Lily leans her forehead on the rain-streaked back-seat window.",
+    "alt": "Lily leans her forehead on the rain-streaked back-seat window.",
+    "camera": "Intimate profile closeup through wet glass; hands below frame.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch001-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 1,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch001-sc02",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0035",
+    "source_paragraph_ids": [
+      "p0033",
+      "p0034",
+      "p0035"
+    ],
+    "description": "A huge tiger lies on the road ahead of the approaching car.",
+    "alt": "A huge tiger lies on the road ahead of the approaching car.",
+    "camera": "Wide windshield POV, tiger small in environment, wet road and dark green forest.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch001-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 2,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch001-sc03",
+    "chapter_id": "chapter-001",
+    "chapter_number": 1,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0063",
+    "source_paragraph_ids": [
+      "p0061",
+      "p0062",
+      "p0063"
+    ],
+    "description": "Lily turns around and finds only empty rainy road where the tiger was.",
+    "alt": "Lily turns around and finds only empty rainy road where the tiger was.",
+    "camera": "Over-shoulder from Lily looking backward through rear window; NO tiger.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch001-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 3,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch002-sc01",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0081",
+    "source_paragraph_ids": [
+      "p0079",
+      "p0080",
+      "p0081"
+    ],
+    "description": "In a remembered visit, younger Lily and younger Sam reach up to catch imagined star stories while Halmoni tells a story in bed.",
+    "alt": "In a remembered visit, younger Lily and younger Sam reach up to catch imagined star stories while Halmoni tells a story in bed.",
+    "camera": "Warm memory medium shot; distinctly younger sisters, both black braids, no current Sam white streak; no literal stars required.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch002-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 4,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch002-sc02",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0090",
+    "source_paragraph_ids": [
+      "p0088",
+      "p0089",
+      "p0090"
+    ],
+    "description": "The ivy-covered brick cottage rises above many stairs in the rain.",
+    "alt": "The ivy-covered brick cottage rises above many stairs in the rain.",
+    "camera": "Architectural establishing wide shot; only house, driveway, stairs and forest.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch002-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 5,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch002-sc03",
+    "chapter_id": "chapter-002",
+    "chapter_number": 2,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0110",
+    "source_paragraph_ids": [
+      "p0108",
+      "p0109",
+      "p0110"
+    ],
+    "description": "Soaked sisters arrive panting at the top of the stairs.",
+    "alt": "Soaked sisters arrive panting at the top of the stairs.",
+    "camera": "Low-angle medium two-shot on stoop, wet hair and clothes, relief and exhaustion.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch002-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 6,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch003-sc01",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0121",
+    "source_paragraph_ids": [
+      "p0119",
+      "p0120",
+      "p0121"
+    ],
+    "description": "Mom climbs headfirst through the living-room window to enter the locked house.",
+    "alt": "Mom climbs headfirst through the living-room window to enter the locked house.",
+    "camera": "Side medium-wide showing sensible body mechanics; two arms from correct shoulders; no extra hands.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch003-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 7,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch003-sc02",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0138",
+    "source_paragraph_ids": [
+      "p0136",
+      "p0137",
+      "p0138"
+    ],
+    "description": "Lily sees the stack of engraved Korean chests and boxes blocking the basement door.",
+    "alt": "Lily sees the stack of engraved Korean chests and boxes blocking the basement door.",
+    "camera": "Lily shoulder in foreground, boxes dominate composition; ordinary house not dungeon.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch003-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 8,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch003-sc03",
+    "chapter_id": "chapter-003",
+    "chapter_number": 3,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0154",
+    "source_paragraph_ids": [
+      "p0152",
+      "p0153",
+      "p0154"
+    ],
+    "description": "Lily is now in pale-orange silk nightgown in attic, Sam wears black sequined nightgown on separate bed.",
+    "alt": "Lily is now in pale-orange silk nightgown in attic, Sam wears black sequined nightgown on separate bed.",
+    "camera": "Quiet wide attic composition, central window between TWO separate beds, no changing/undressing shown.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch003-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r2-ch001-sc01-r2-ch001-sc02-r2-ch001-sc03-r2-ch002-sc01-r2-ch002-sc02-r2-ch002-sc03-r2-ch003-sc01-r2-ch003-sc02-r2-ch003-sc03",
+    "quadrant": 9,
+    "generated_at": "20261106T074201059880Z",
+    "grid_sha256": "e49547723644b097df458f239e1806eaeaa4bda7826a4e7506759763cbfe5ba5",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "r2-ch004-sc01",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0193",
+    "source_paragraph_ids": [
+      "p0191",
+      "p0192",
+      "p0193"
+    ],
+    "description": "Lily runs into her grandmother’s welcoming embrace.",
+    "alt": "Lily runs into her grandmother’s welcoming embrace.",
+    "camera": "Warm waist-up embrace at entry; Lily in pale-orange nightgown, Halmoni in colorful tunic white pants.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch004-sc02",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0252",
+    "source_paragraph_ids": [
+      "p0250",
+      "p0251",
+      "p0252"
+    ],
+    "description": "Lily arranges warm red-bean rice cakes in a bamboo basket for kosa.",
+    "alt": "Lily arranges warm red-bean rice cakes in a bamboo basket for kosa.",
+    "camera": "Macro hands, basket and rice cakes; recognizable orange nightgown sleeve; no extra fingers.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch004-sc03",
+    "chapter_id": "chapter-004",
+    "chapter_number": 4,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0277",
+    "source_paragraph_ids": [
+      "p0275",
+      "p0276",
+      "p0277"
+    ],
+    "description": "Halmoni confides to Lily that tigers are looking for what she stole.",
+    "alt": "Halmoni confides to Lily that tigers are looking for what she stole.",
+    "camera": "Tense eye-level two-shot across kitchen counter, Halmoni with pearl pendant; no literal tiger indoors.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch005-sc01",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0312",
+    "source_paragraph_ids": [
+      "p0310",
+      "p0311",
+      "p0312"
+    ],
+    "description": "In the old folktale a tiger wearing the grandmother’s scarf scratches at the girls’ cottage door.",
+    "alt": "In the old folktale a tiger wearing the grandmother’s scarf scratches at the girls’ cottage door.",
+    "camera": "Outside low-angle claw-and-door detail with scarf; clearly folktale traditional rural setting, no modern family.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch005-sc02",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0321",
+    "source_paragraph_ids": [
+      "p0319",
+      "p0320",
+      "p0321"
+    ],
+    "description": "Two sisters flee the tiger to the edge of the land.",
+    "alt": "Two sisters flee the tiger to the edge of the land.",
+    "camera": "Dramatic wide landscape chase, two braided Korean girls in simple traditional clothes, same faces in folktale.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch005-sc03",
+    "chapter_id": "chapter-005",
+    "chapter_number": 5,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0329",
+    "source_paragraph_ids": [
+      "p0327",
+      "p0328",
+      "p0329"
+    ],
+    "description": "Older sister climbs the magic rope while younger sister climbs magic stairs to the sky.",
+    "alt": "Older sister climbs the magic rope while younger sister climbs magic stairs to the sky.",
+    "camera": "Vertical upward perspective; one girl on rope and other on stairs, two distinct routes, no wings.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch006-sc01",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0344",
+    "source_paragraph_ids": [
+      "p0342",
+      "p0343",
+      "p0344"
+    ],
+    "description": "Lily creeps past Mom asleep on the living-room couch.",
+    "alt": "Lily creeps past Mom asleep on the living-room couch.",
+    "camera": "High-angle nocturnal wide shot, only Lily and sleeping Mom, pale-orange nightgown.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch006-sc02",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0368",
+    "source_paragraph_ids": [
+      "p0366",
+      "p0367",
+      "p0368"
+    ],
+    "description": "Lily kneels and touches the dry carpet in the empty basement.",
+    "alt": "Lily kneels and touches the dry carpet in the empty basement.",
+    "camera": "Low closeup hand on dry carpet, small window in background, no standing water or box trap.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch006-sc03",
+    "chapter_id": "chapter-006",
+    "chapter_number": 6,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0376",
+    "source_paragraph_ids": [
+      "p0374",
+      "p0375",
+      "p0376"
+    ],
+    "description": "Lily lingers at the partly open bathroom door after hearing a noise.",
+    "alt": "Lily lingers at the partly open bathroom door after hearing a noise.",
+    "camera": "Over-shoulder hallway shot to dim bathroom; keep identity reveal subtle, no real monster.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch007-sc01",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0382",
+    "source_paragraph_ids": [
+      "p0380",
+      "p0381",
+      "p0382"
+    ],
+    "description": "Lily discovers Halmoni vomiting in bathroom.",
+    "alt": "Lily discovers Halmoni vomiting in bathroom.",
+    "camera": "Discreet medium side view, grandmother bent over toilet, curlers/scarf; no vomit detail.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch007-sc02",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0392",
+    "source_paragraph_ids": [
+      "p0390",
+      "p0391",
+      "p0392"
+    ],
+    "description": "Halmoni steps upright into moonlight and reassures Lily.",
+    "alt": "Halmoni steps upright into moonlight and reassures Lily.",
+    "camera": "Soft face closeup of grandmother and curlers, calm expression despite fatigue.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch007-sc03",
+    "chapter_id": "chapter-007",
+    "chapter_number": 7,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0401",
+    "source_paragraph_ids": [
+      "p0399",
+      "p0400",
+      "p0401"
+    ],
+    "description": "Halmoni extends a hand inviting Lily to listen to what she stole.",
+    "alt": "Halmoni extends a hand inviting Lily to listen to what she stole.",
+    "camera": "Closeup offered hand and Lily’s hesitant face at bathroom threshold, not yet in bed.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch008-sc01",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0412",
+    "source_paragraph_ids": [
+      "p0410",
+      "p0411",
+      "p0412"
+    ],
+    "description": "Halmoni recounts a lonely sky princess whispering stories into the black sky.",
+    "alt": "Halmoni recounts a lonely sky princess whispering stories into the black sky.",
+    "camera": "Wide folktale sky scene, princess in simple Korean-inspired dress, stars forming, no modern bedroom.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch008-sc02",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0424",
+    "source_paragraph_ids": [
+      "p0422",
+      "p0423",
+      "p0424"
+    ],
+    "description": "Child Ae-Cha sneaks outside tiger caves and catches stars in jars while tigers sleep.",
+    "alt": "Child Ae-Cha sneaks outside tiger caves and catches stars in jars while tigers sleep.",
+    "camera": "Over-shoulder child profile, small figures and sleeping tiger shapes; no adult Halmoni face pasted on child.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch008-sc03",
+    "chapter_id": "chapter-008",
+    "chapter_number": 8,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0437",
+    "source_paragraph_ids": [
+      "p0435",
+      "p0436",
+      "p0437"
+    ],
+    "description": "Halmoni kisses Lily’s head and drifts to sleep after telling her story.",
+    "alt": "Halmoni kisses Lily’s head and drifts to sleep after telling her story.",
+    "camera": "Intimate bedside medium shot, silk bedding, Lily orange nightgown, pearl still Halmoni’s.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch009-sc01",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0444",
+    "source_paragraph_ids": [
+      "p0442",
+      "p0443",
+      "p0444"
+    ],
+    "description": "Lily finds Mom quietly curled around a mug of coffee on couch.",
+    "alt": "Lily finds Mom quietly curled around a mug of coffee on couch.",
+    "camera": "Still observational wide room with gray morning window light, worried Mom alone in focus.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch009-sc02",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0486",
+    "source_paragraph_ids": [
+      "p0484",
+      "p0485",
+      "p0486"
+    ],
+    "description": "Lily hides the cracked mug at bottom of trash after pouring away unwanted tea.",
+    "alt": "Lily hides the cracked mug at bottom of trash after pouring away unwanted tea.",
+    "camera": "Closeup ceramic crack and trash, one child hand lowering mug, no dangerous injury.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch009-sc03",
+    "chapter_id": "chapter-009",
+    "chapter_number": 9,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0487",
+    "source_paragraph_ids": [
+      "p0485",
+      "p0486",
+      "p0487"
+    ],
+    "description": "Lily leaves in jeans, striped T-shirt and raincoat for library across street.",
+    "alt": "Lily leaves in jeans, striped T-shirt and raincoat for library across street.",
+    "camera": "Rear three-quarter outdoor wide shot descending house steps toward road; library opposite.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch010-sc01",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0506",
+    "source_paragraph_ids": [
+      "p0504",
+      "p0505",
+      "p0506"
+    ],
+    "description": "Joe gives Lily her red library card.",
+    "alt": "Joe gives Lily her red library card.",
+    "camera": "Hand-and-card closeup across old desk; Joe thin wire glasses, thick WHITE MUSTACHE, NOT full dark beard.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch010-sc02",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0540",
+    "source_paragraph_ids": [
+      "p0538",
+      "p0539",
+      "p0540"
+    ],
+    "description": "Lily tastes the cupcake Jensen offers in library staff room.",
+    "alt": "Lily tastes the cupcake Jensen offers in library staff room.",
+    "camera": "Friendly medium two-shot: Jensen medium-brown skin, freckles, curls; Lily striped shirt.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch010-sc03",
+    "chapter_id": "chapter-010",
+    "chapter_number": 10,
+    "volume": 1,
+    "insert_after_paragraph_id": "p0561",
+    "source_paragraph_ids": [
+      "p0559",
+      "p0560",
+      "p0561"
+    ],
+    "description": "Lily glimpses orange-black tiger tail vanishing around library shelf.",
+    "alt": "Lily glimpses orange-black tiger tail vanishing around library shelf.",
+    "camera": "Narrow aisle suspense composition; only tail tip, no full animal or second tiger.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  }
+]

@@ -1,1 +1,521 @@
-[]
+[
+  {
+    "id": "r2-ch021-sc01",
+    "chapter_id": "chapter-021",
+    "chapter_number": 21,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0004",
+    "source_paragraph_ids": [
+      "p0002",
+      "p0003",
+      "p0004"
+    ],
+    "description": "Lily carries square green jar downstairs wearing protection and camo hat.",
+    "alt": "Lily carries square green jar downstairs wearing protection and camo hat.",
+    "camera": "High-angle stealth stair shot, pearl, pale-orange nightgown, crown braid under hat.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch021-sc02",
+    "chapter_id": "chapter-021",
+    "chapter_number": 21,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0019",
+    "source_paragraph_ids": [
+      "p0017",
+      "p0018",
+      "p0019"
+    ],
+    "description": "Tiger sits inside the box ring in basement.",
+    "alt": "Tiger sits inside the box ring in basement.",
+    "camera": "Wide reveal from stairs, giant animal versus small cardboard trap; jar in child hands.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch021-sc03",
+    "chapter_id": "chapter-021",
+    "chapter_number": 21,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0044",
+    "source_paragraph_ids": [
+      "p0042",
+      "p0043",
+      "p0044"
+    ],
+    "description": "Green star jar glows in Lily’s hands as she weighs tiger’s offer.",
+    "alt": "Green star jar glows in Lily’s hands as she weighs tiger’s offer.",
+    "camera": "Tight hands-and-face closeup, square GREEN jar, one pearl, dark basement.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch022-sc01",
+    "chapter_id": "chapter-022",
+    "chapter_number": 22,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0052",
+    "source_paragraph_ids": [
+      "p0051",
+      "p0052"
+    ],
+    "description": "Tiger drinks starlight spilling from the green jar.",
+    "alt": "Tiger drinks starlight spilling from the green jar.",
+    "camera": "Profile close two-shot of muzzle and glowing jar in Lily hands, no physical human-tiger merge.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch022-sc02",
+    "chapter_id": "chapter-022",
+    "chapter_number": 22,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0074",
+    "source_paragraph_ids": [
+      "p0072",
+      "p0073",
+      "p0074"
+    ],
+    "description": "In the star story a tiger-mother hugs her baby goodbye and her tear becomes a pearl.",
+    "alt": "In the star story a tiger-mother hugs her baby goodbye and her tear becomes a pearl.",
+    "camera": "Tender folktale medium scene, human mother with subtle tiger lineage, baby in cloth, no modern family clothing.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch022-sc03",
+    "chapter_id": "chapter-022",
+    "chapter_number": 22,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0077",
+    "source_paragraph_ids": [
+      "p0075",
+      "p0076",
+      "p0077"
+    ],
+    "description": "The tiger-girl now in sky kingdom finds her work lighting the night.",
+    "alt": "The tiger-girl now in sky kingdom finds her work lighting the night.",
+    "camera": "Epic wide celestial setting with singular young woman, luminous stars, no modern room.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch023-sc01",
+    "chapter_id": "chapter-023",
+    "chapter_number": 23,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0124",
+    "source_paragraph_ids": [
+      "p0122",
+      "p0123",
+      "p0124"
+    ],
+    "description": "Lily notices Korean tiger painting above restaurant hostess stand.",
+    "alt": "Lily notices Korean tiger painting above restaurant hostess stand.",
+    "camera": "Establishing interior: shoji cherry blossoms, red lanterns, gold cat, folk painting; no lettering.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch023-sc02",
+    "chapter_id": "chapter-023",
+    "chapter_number": 23,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0179",
+    "source_paragraph_ids": [
+      "p0177",
+      "p0178",
+      "p0179"
+    ],
+    "description": "Confused Halmoni begins taking a nearby diner’s plate.",
+    "alt": "Confused Halmoni begins taking a nearby diner’s plate.",
+    "camera": "Medium respectful shot of elderly woman and startled diner, no slapstick caricature.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch023-sc03",
+    "chapter_id": "chapter-023",
+    "chapter_number": 23,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0189",
+    "source_paragraph_ids": [
+      "p0187",
+      "p0188",
+      "p0189"
+    ],
+    "description": "A plate shatters by Halmoni’s shoes.",
+    "alt": "A plate shatters by Halmoni’s shoes.",
+    "camera": "Floor-level object closeup shards and spilled sauce; no injury or blood.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch023-sc04",
+    "chapter_id": "chapter-023",
+    "chapter_number": 23,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0200",
+    "source_paragraph_ids": [
+      "p0198",
+      "p0199",
+      "p0200"
+    ],
+    "description": "Waitress gives Lily hard candies with compassion.",
+    "alt": "Waitress gives Lily hard candies with compassion.",
+    "camera": "Hands closeup candies and subdued Lily face, blonde Olivia chopsticks in hair; not Jensen.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch024-sc01",
+    "chapter_id": "chapter-024",
+    "chapter_number": 24,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0209",
+    "source_paragraph_ids": [
+      "p0207",
+      "p0208",
+      "p0209"
+    ],
+    "description": "Mom explains difficult prognosis after restaurant incident.",
+    "alt": "Mom explains difficult prognosis after restaurant incident.",
+    "camera": "Interior car medium scene, worried driver speaking softly, no text or medical diagram.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch024-sc02",
+    "chapter_id": "chapter-024",
+    "chapter_number": 24,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0227",
+    "source_paragraph_ids": [
+      "p0225",
+      "p0226",
+      "p0227"
+    ],
+    "description": "Lily threads her fingers into sleeping Halmoni’s hand.",
+    "alt": "Lily threads her fingers into sleeping Halmoni’s hand.",
+    "camera": "Intimate hand closeup in car, grandmother resting, no extra fingers.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch024-sc03",
+    "chapter_id": "chapter-024",
+    "chapter_number": 24,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0231",
+    "source_paragraph_ids": [
+      "p0229",
+      "p0230",
+      "p0231"
+    ],
+    "description": "Back home Lily insists she needs to make rice cakes.",
+    "alt": "Back home Lily insists she needs to make rice cakes.",
+    "camera": "Medium kitchen confrontation with Mom, pearl on Lily, no magical tiger visible.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch025-sc01",
+    "chapter_id": "chapter-025",
+    "chapter_number": 25,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0248",
+    "source_paragraph_ids": [
+      "p0246",
+      "p0247",
+      "p0248"
+    ],
+    "description": "Lily arrives at Ricky’s grand house with spiral stone columns.",
+    "alt": "Lily arrives at Ricky’s grand house with spiral stone columns.",
+    "camera": "Architectural wide establishing shot, manicured rabbit-and-cat bushes; distinct from cottage.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch025-sc02",
+    "chapter_id": "chapter-025",
+    "chapter_number": 25,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0289",
+    "source_paragraph_ids": [
+      "p0287",
+      "p0288",
+      "p0289"
+    ],
+    "description": "Ricky and Lily struggle with lumpy rice-cake batter.",
+    "alt": "Ricky and Lily struggle with lumpy rice-cake batter.",
+    "camera": "Overhead modern kitchen bowl and child hands; Ricky BLACK CAT-EAR BEANIE, not camo hat.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch025-sc03",
+    "chapter_id": "chapter-025",
+    "chapter_number": 25,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0302",
+    "source_paragraph_ids": [
+      "p0300",
+      "p0301",
+      "p0302"
+    ],
+    "description": "Ricky reassures Lily that imperfect rice cakes can still be tried.",
+    "alt": "Ricky reassures Lily that imperfect rice cakes can still be tried.",
+    "camera": "Warm face-focused medium two-shot with tray in foreground; same modern kitchen.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch026-sc01",
+    "chapter_id": "chapter-026",
+    "chapter_number": 26,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0315",
+    "source_paragraph_ids": [
+      "p0315"
+    ],
+    "description": "Lily wakes at two a.m. and takes tall clear jar and rice cakes.",
+    "alt": "Lily wakes at two a.m. and takes tall clear jar and rice cakes.",
+    "camera": "Low bedside object shot, tall thin CLEAR jar BLACK cork, plate; no green jar.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch026-sc02",
+    "chapter_id": "chapter-026",
+    "chapter_number": 26,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0325",
+    "source_paragraph_ids": [
+      "p0323",
+      "p0324",
+      "p0325"
+    ],
+    "description": "Sam throws a rope out attic window, tied to bed frame.",
+    "alt": "Sam throws a rope out attic window, tied to bed frame.",
+    "camera": "Side wide room view, secure rope attachment visible, Sam dressed to go out.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch026-sc03",
+    "chapter_id": "chapter-026",
+    "chapter_number": 26,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0341",
+    "source_paragraph_ids": [
+      "p0339",
+      "p0340",
+      "p0341"
+    ],
+    "description": "The sisters make a pinky promise before going different ways.",
+    "alt": "The sisters make a pinky promise before going different ways.",
+    "camera": "Close hands pinky promise at window; Sam shoulder white streak, Lily crown braid; anatomically clear.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch027-sc01",
+    "chapter_id": "chapter-027",
+    "chapter_number": 27,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0352",
+    "source_paragraph_ids": [
+      "p0350",
+      "p0351",
+      "p0352"
+    ],
+    "description": "Lily uncorks the next star jar before tiger.",
+    "alt": "Lily uncorks the next star jar before tiger.",
+    "camera": "Low two-shot tall CLEAR jar with BLACK cork, plate of imperfect rice cakes; basement.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch027-sc02",
+    "chapter_id": "chapter-027",
+    "chapter_number": 27,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0364",
+    "source_paragraph_ids": [
+      "p0362",
+      "p0363",
+      "p0364"
+    ],
+    "description": "In star story a granddaughter begins becoming half tiger, white streak showing.",
+    "alt": "In star story a granddaughter begins becoming half tiger, white streak showing.",
+    "camera": "Folktale transformation portrait, ONE face and body, no extra limbs, distinguish from present-day Sam.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch027-sc03",
+    "chapter_id": "chapter-027",
+    "chapter_number": 27,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0380",
+    "source_paragraph_ids": [
+      "p0378",
+      "p0379",
+      "p0380"
+    ],
+    "description": "Folktale grandmother sends a love-filled jar into moonlit sea.",
+    "alt": "Folktale grandmother sends a love-filled jar into moonlit sea.",
+    "camera": "Wide ocean scene, elderly Korean woman on shore, ONE jar floating, no modern house.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch028-sc01",
+    "chapter_id": "chapter-028",
+    "chapter_number": 28,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0404",
+    "source_paragraph_ids": [
+      "p0402",
+      "p0403",
+      "p0404"
+    ],
+    "description": "Lily raises emptied jar into moonlight by kitchen window.",
+    "alt": "Lily raises emptied jar into moonlight by kitchen window.",
+    "camera": "Close transparent tall vessel catching cool light; no extra stars bursting from empty jar.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch028-sc02",
+    "chapter_id": "chapter-028",
+    "chapter_number": 28,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0415",
+    "source_paragraph_ids": [
+      "p0413",
+      "p0414",
+      "p0415"
+    ],
+    "description": "Mom eats kimchi with fingers seated on kitchen counter.",
+    "alt": "Mom eats kimchi with fingers seated on kitchen counter.",
+    "camera": "Warm medium kitchen shot, relaxed sleepy Mom, tub open, glasses on.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch028-sc03",
+    "chapter_id": "chapter-028",
+    "chapter_number": 28,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0422",
+    "source_paragraph_ids": [
+      "p0420",
+      "p0421",
+      "p0422"
+    ],
+    "description": "Mom pulls Lily close and apologizes for not being able to protect her.",
+    "alt": "Mom pulls Lily close and apologizes for not being able to protect her.",
+    "camera": "Intimate two-person embrace on counter, jar set aside, no third person.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch029-sc01",
+    "chapter_id": "chapter-029",
+    "chapter_number": 29,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0438",
+    "source_paragraph_ids": [
+      "p0436",
+      "p0437",
+      "p0438"
+    ],
+    "description": "Halmoni cooks noodles happily in pink-and-purple hair scarf.",
+    "alt": "Halmoni cooks noodles happily in pink-and-purple hair scarf.",
+    "camera": "Wide lively kitchen with Korean dishes, Sam helps, Mom cleans, Lily arrives.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch029-sc02",
+    "chapter_id": "chapter-029",
+    "chapter_number": 29,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0449",
+    "source_paragraph_ids": [
+      "p0447",
+      "p0448",
+      "p0449"
+    ],
+    "description": "Halmoni playfully chases Mom holding a piece of kalbi.",
+    "alt": "Halmoni playfully chases Mom holding a piece of kalbi.",
+    "camera": "Medium humorous motion, food clearly held by grandmother, no spilled knives.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch029-sc03",
+    "chapter_id": "chapter-029",
+    "chapter_number": 29,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0464",
+    "source_paragraph_ids": [
+      "p0462",
+      "p0463",
+      "p0464"
+    ],
+    "description": "Halmoni touches Sam’s white streak while memories confuse her.",
+    "alt": "Halmoni touches Sam’s white streak while memories confuse her.",
+    "camera": "Closeup curlers-free scarfed grandmother and Sam shoulder-length hair.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch029-sc04",
+    "chapter_id": "chapter-029",
+    "chapter_number": 29,
+    "volume": 3,
+    "insert_after_paragraph_id": "p0483",
+    "source_paragraph_ids": [
+      "p0481",
+      "p0482",
+      "p0483"
+    ],
+    "description": "Lily quietly says her name as Halmoni fails to recognize her.",
+    "alt": "Lily quietly says her name as Halmoni fails to recognize her.",
+    "camera": "Tight emotional child portrait and grandmother blurred foreground, no monsters or supernatural eyes.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  }
+]

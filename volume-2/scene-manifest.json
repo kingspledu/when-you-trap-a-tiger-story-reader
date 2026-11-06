@@ -1,1 +1,555 @@
-[]
+[
+  {
+    "id": "r2-ch011-sc01",
+    "chapter_id": "chapter-011",
+    "chapter_number": 11,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0002",
+    "source_paragraph_ids": [
+      "p0001",
+      "p0002"
+    ],
+    "description": "Lily’s collision reveals Ricky, not a tiger.",
+    "alt": "Lily’s collision reveals Ricky, not a tiger.",
+    "camera": "Medium low two-shot: short WHITE boy, shaggy brown hair, BLUE EYES, orange shirt BLACK JEANS and old newsboy cap; no shorts.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch011-sc02",
+    "chapter_id": "chapter-011",
+    "chapter_number": 11,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0014",
+    "source_paragraph_ids": [
+      "p0012",
+      "p0013",
+      "p0014"
+    ],
+    "description": "Ricky animatedly shares his love of comic books with Lily.",
+    "alt": "Ricky animatedly shares his love of comic books with Lily.",
+    "camera": "Over-the-shoulder conversation beside comic shelves; books unlettered, no recognizable superhero logo.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch011-sc03",
+    "chapter_id": "chapter-011",
+    "chapter_number": 11,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0021",
+    "source_paragraph_ids": [
+      "p0019",
+      "p0020",
+      "p0021"
+    ],
+    "description": "Ricky confides that his great-grandfather hunted tigers.",
+    "alt": "Ricky confides that his great-grandfather hunted tigers.",
+    "camera": "Closeup expressive round cheeks and dimples; quiet confidential expression, no actual hunting scene.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch012-sc01",
+    "chapter_id": "chapter-012",
+    "chapter_number": 12,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0045",
+    "source_paragraph_ids": [
+      "p0043",
+      "p0044",
+      "p0045"
+    ],
+    "description": "Halmoni places dried mugwort into Lily’s palm.",
+    "alt": "Halmoni places dried mugwort into Lily’s palm.",
+    "camera": "Macro two different age hands, dry herb, no magical sparks.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch012-sc02",
+    "chapter_id": "chapter-012",
+    "chapter_number": 12,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0050",
+    "source_paragraph_ids": [
+      "p0048",
+      "p0049",
+      "p0050"
+    ],
+    "description": "Halmoni fastens her silver chain with white pearl around Lily’s neck.",
+    "alt": "Halmoni fastens her silver chain with white pearl around Lily’s neck.",
+    "camera": "Side closeup: pearl now on Lily ONLY, grandmother hands behind neck; no green jewel.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch012-sc03",
+    "chapter_id": "chapter-012",
+    "chapter_number": 12,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0143",
+    "source_paragraph_ids": [
+      "p0141",
+      "p0142",
+      "p0143"
+    ],
+    "description": "Lily tumbles into the grocery display, surrounded by fallen cereal boxes.",
+    "alt": "Lily tumbles into the grocery display, surrounded by fallen cereal boxes.",
+    "camera": "Dynamic wide but safe child fall aftermath; unbranded boxes, Ricky and dad surprised.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch012-sc04",
+    "chapter_id": "chapter-012",
+    "chapter_number": 12,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0165",
+    "source_paragraph_ids": [
+      "p0163",
+      "p0164",
+      "p0165"
+    ],
+    "description": "Halmoni urges Ricky and his father to help each other.",
+    "alt": "Halmoni urges Ricky and his father to help each other.",
+    "camera": "Medium three-shot after stacking cereal; adult same brown hair BLUE EYES as son, Halmoni no necklace.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch013-sc01",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0186",
+    "source_paragraph_ids": [
+      "p0184",
+      "p0185",
+      "p0186"
+    ],
+    "description": "A huge dry tiger stands in rain on road facing Halmoni’s car.",
+    "alt": "A huge dry tiger stands in rain on road facing Halmoni’s car.",
+    "camera": "Wide front roadside angle; rain falls around dry fur, grandmother driving, Sam passenger.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch013-sc02",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0192",
+    "source_paragraph_ids": [
+      "p0190",
+      "p0191",
+      "p0192"
+    ],
+    "description": "Halmoni kneels sick on the roadside after stopping.",
+    "alt": "Halmoni kneels sick on the roadside after stopping.",
+    "camera": "Medium respectful distance, raincoat and rain, no graphic vomit.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch013-sc03",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0205",
+    "source_paragraph_ids": [
+      "p0203",
+      "p0204",
+      "p0205"
+    ],
+    "description": "Mom arrives in interview clothes and helps Halmoni.",
+    "alt": "Mom arrives in interview clothes and helps Halmoni.",
+    "camera": "Ground-level rescue three-shot, Mom stabilizes grandmother, sisters background, distinguish the two cars.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch014-sc01",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0223",
+    "source_paragraph_ids": [
+      "p0221",
+      "p0222",
+      "p0223"
+    ],
+    "description": "Lily checks sleeping Halmoni wrapped in silk sheets.",
+    "alt": "Lily checks sleeping Halmoni wrapped in silk sheets.",
+    "camera": "Over-shoulder through cracked bedroom door, quiet nocturnal domestic view.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch014-sc02",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0231",
+    "source_paragraph_ids": [
+      "p0229",
+      "p0230",
+      "p0231"
+    ],
+    "description": "A kitchen shadow resolves into a huge tiger in starlight.",
+    "alt": "A kitchen shadow resolves into a huge tiger in starlight.",
+    "camera": "Low establishing wide shot of real tiger, floorboards, purple dining table, no human transformation.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch014-sc03",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0260",
+    "source_paragraph_ids": [
+      "p0258",
+      "p0259",
+      "p0260"
+    ],
+    "description": "Tiger fades back into shadow after Lily hesitates.",
+    "alt": "Tiger fades back into shadow after Lily hesitates.",
+    "camera": "Closeup Lily’s unsure face with receding striped silhouette behind, no double heads.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch015-sc01",
+    "chapter_id": "chapter-015",
+    "chapter_number": 15,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0266",
+    "source_paragraph_ids": [
+      "p0264",
+      "p0265",
+      "p0266"
+    ],
+    "description": "Lily overhears Mom and Halmoni talking privately in grandmother’s bedroom.",
+    "alt": "Lily overhears Mom and Halmoni talking privately in grandmother’s bedroom.",
+    "camera": "Doorframe framing, Lily small foreground silhouette, adults seated, no speech text.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch015-sc02",
+    "chapter_id": "chapter-015",
+    "chapter_number": 15,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0295",
+    "source_paragraph_ids": [
+      "p0293",
+      "p0294",
+      "p0295"
+    ],
+    "description": "Mom hugs Lily after finding her awake on stairs.",
+    "alt": "Mom hugs Lily after finding her awake on stairs.",
+    "camera": "Tight emotional face-and-shoulders embrace, exhausted glasses-wearing Mom.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch015-sc03",
+    "chapter_id": "chapter-015",
+    "chapter_number": 15,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0311",
+    "source_paragraph_ids": [
+      "p0309",
+      "p0310",
+      "p0311"
+    ],
+    "description": "Mom holds Lily’s hands while explaining Halmoni’s illness.",
+    "alt": "Mom holds Lily’s hands while explaining Halmoni’s illness.",
+    "camera": "Hands closeup resting between mother and child, subdued morning light, no medical hallucinations.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch016-sc01",
+    "chapter_id": "chapter-016",
+    "chapter_number": 16,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0324",
+    "source_paragraph_ids": [
+      "p0322",
+      "p0323",
+      "p0324"
+    ],
+    "description": "Lily urgently tells Sam in attic there may be a way to help Halmoni.",
+    "alt": "Lily urgently tells Sam in attic there may be a way to help Halmoni.",
+    "camera": "Medium two-shot separated by laptop glow, Sam shoulder-length hair white streak.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch016-sc02",
+    "chapter_id": "chapter-016",
+    "chapter_number": 16,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0389",
+    "source_paragraph_ids": [
+      "p0387",
+      "p0388",
+      "p0389"
+    ],
+    "description": "Ricky opens a comic book proposing the idea of a trap.",
+    "alt": "Ricky opens a comic book proposing the idea of a trap.",
+    "camera": "Overhead tabletop shot with ordinary unlettered illustrated comic, child hands pointing; no logos.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch016-sc03",
+    "chapter_id": "chapter-016",
+    "chapter_number": 16,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0410",
+    "source_paragraph_ids": [
+      "p0408",
+      "p0409",
+      "p0410"
+    ],
+    "description": "Ricky writes his phone number on a scrap of paper.",
+    "alt": "Ricky writes his phone number on a scrap of paper.",
+    "camera": "Close detail pen and scrap with illegible marks; Lily listens in background, no readable number.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch017-sc01",
+    "chapter_id": "chapter-017",
+    "chapter_number": 17,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0416",
+    "source_paragraph_ids": [
+      "p0416"
+    ],
+    "description": "Jensen warmly greets Sam in library.",
+    "alt": "Jensen warmly greets Sam in library.",
+    "camera": "Medium two-shot Jensen smiling and Sam unexpectedly shy, distinct skin and hair.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch017-sc02",
+    "chapter_id": "chapter-017",
+    "chapter_number": 17,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0432",
+    "source_paragraph_ids": [
+      "p0430",
+      "p0431",
+      "p0432"
+    ],
+    "description": "Jensen types her number into Sam’s phone.",
+    "alt": "Jensen types her number into Sam’s phone.",
+    "camera": "Close hands-and-phone shot, screen illegible, no copied private phone number.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch017-sc03",
+    "chapter_id": "chapter-017",
+    "chapter_number": 17,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0447",
+    "source_paragraph_ids": [
+      "p0445",
+      "p0446",
+      "p0447"
+    ],
+    "description": "Sisters climb toward house after leaving library.",
+    "alt": "Sisters climb toward house after leaving library.",
+    "camera": "Wide rear view of stairs and ivy cottage; emotional distance between sisters, no tiger.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch018-sc01",
+    "chapter_id": "chapter-018",
+    "chapter_number": 18,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0450",
+    "source_paragraph_ids": [
+      "p0450"
+    ],
+    "description": "Ricky arrives by bicycle wearing camouflage and camo top hat, carrying rope.",
+    "alt": "Ricky arrives by bicycle wearing camouflage and camo top hat, carrying rope.",
+    "camera": "Wide porch introduction, cheerful boy, Lily jeans sweatshirt, Halmoni absent.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch018-sc02",
+    "chapter_id": "chapter-018",
+    "chapter_number": 18,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0458",
+    "source_paragraph_ids": [
+      "p0456",
+      "p0457",
+      "p0458"
+    ],
+    "description": "Ricky transfers his camo top hat onto Lily’s head.",
+    "alt": "Ricky transfers his camo top hat onto Lily’s head.",
+    "camera": "Medium closeup playful handoff, Ricky now bareheaded, pearl on Lily.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch018-sc03",
+    "chapter_id": "chapter-018",
+    "chapter_number": 18,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0500",
+    "source_paragraph_ids": [
+      "p0498",
+      "p0499",
+      "p0500"
+    ],
+    "description": "Lily and Ricky carefully carry cardboard boxes down basement stairs.",
+    "alt": "Lily and Ricky carefully carry cardboard boxes down basement stairs.",
+    "camera": "Side stairway view, each at opposite end of ONE box; no floating box or extra arms.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch019-sc01",
+    "chapter_id": "chapter-019",
+    "chapter_number": 19,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0535",
+    "source_paragraph_ids": [
+      "p0533",
+      "p0534",
+      "p0535"
+    ],
+    "description": "Lily unwraps the three different star jars from Bubble Wrap.",
+    "alt": "Lily unwraps the three different star jars from Bubble Wrap.",
+    "camera": "Object still life: round dark-blue silver cork, tall clear black cork, square dark-green; exactly THREE jars.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch019-sc02",
+    "chapter_id": "chapter-019",
+    "chapter_number": 19,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0587",
+    "source_paragraph_ids": [
+      "p0585",
+      "p0586",
+      "p0587"
+    ],
+    "description": "The children tie rope around their wall of boxes.",
+    "alt": "The children tie rope around their wall of boxes.",
+    "camera": "Wide basement plan view with simple box tower, girl wearing camo top hat, boy bareheaded.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch019-sc03",
+    "chapter_id": "chapter-019",
+    "chapter_number": 19,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0598",
+    "source_paragraph_ids": [
+      "p0596",
+      "p0597",
+      "p0598"
+    ],
+    "description": "Lily hides the three star jars under her attic bed.",
+    "alt": "Lily hides the three star jars under her attic bed.",
+    "camera": "Low floor-level intimate shot, exactly three distinct jars, no mirrored duplicates.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch020-sc01",
+    "chapter_id": "chapter-020",
+    "chapter_number": 20,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0618",
+    "source_paragraph_ids": [
+      "p0616",
+      "p0617",
+      "p0618"
+    ],
+    "description": "Sam kneels behind Lily and rebraids her hair in front of mirror.",
+    "alt": "Sam kneels behind Lily and rebraids her hair in front of mirror.",
+    "camera": "Medium mirror side angle; long Lily hair manipulated carefully, not cut.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch020-sc02",
+    "chapter_id": "chapter-020",
+    "chapter_number": 20,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0627",
+    "source_paragraph_ids": [
+      "p0625",
+      "p0626",
+      "p0627"
+    ],
+    "description": "Lily sees her new braided crown and pearl pendant in mirror.",
+    "alt": "Lily sees her new braided crown and pearl pendant in mirror.",
+    "camera": "Face closeup and hair crown detail, wisps at ears, no twin braids left.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  },
+  {
+    "id": "r2-ch020-sc03",
+    "chapter_id": "chapter-020",
+    "chapter_number": 20,
+    "volume": 2,
+    "insert_after_paragraph_id": "p0652",
+    "source_paragraph_ids": [
+      "p0650",
+      "p0651",
+      "p0652"
+    ],
+    "description": "Sam lies back on bed wondering what being brave means.",
+    "alt": "Sam lies back on bed wondering what being brave means.",
+    "camera": "Wide quiet attic, sisters on separate sides, nighttime warm lamp, no fantasy sky pasted in.",
+    "character_ids": [],
+    "state": "source-passage-and-bible",
+    "status": "planned"
+  }
+]
