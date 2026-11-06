@@ -619,8 +619,16 @@
     "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch023-beat06.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 1,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch023-sc02",
@@ -638,7 +646,15 @@
     "camera": "Medium respectful shot of elderly woman and startled diner, no slapstick caricature.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch023-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 2,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch023-sc03",
@@ -656,7 +672,15 @@
     "camera": "Floor-level object closeup shards and spilled sauce; no injury or blood.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch023-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 3,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch023-beat07",
@@ -672,8 +696,16 @@
     "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch023-beat07.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 4,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch023-sc04",
@@ -691,7 +723,15 @@
     "camera": "Hands closeup candies and subdued Lily face, blonde Olivia chopsticks in hair; not Jensen.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch023-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 5,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch023-beat08",
@@ -707,8 +747,16 @@
     "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch023-beat08.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 6,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch024-sc01",
@@ -726,7 +774,15 @@
     "camera": "Interior car medium scene, worried driver speaking softly, no text or medical diagram.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/r2-ch024-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 7,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch024-beat01",
@@ -742,8 +798,16 @@
     "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch024-beat01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 8,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r3-ch024-beat02",
@@ -759,8 +823,16 @@
     "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
     "character_ids": [],
     "state": "source-passage-and-bible",
-    "status": "planned",
-    "kind": "action-reaction-detail"
+    "status": "integrated",
+    "kind": "action-reaction-detail",
+    "web_asset_path": "assets/r3-ch024-beat02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "r3-ch023-beat06-r2-ch023-sc02-r2-ch023-sc03-r3-ch023-beat07-r2-ch023-sc04-r3-ch023-beat08-r2-ch024-sc01-r3-ch024-beat01-r3-ch024-beat02",
+    "quadrant": 9,
+    "generated_at": "20261106T231811042052Z",
+    "grid_sha256": "1babb38acb1d4cc0c9172e92c788e562fe5f2101562be7bf8d9c18163d47090d",
+    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
     "id": "r2-ch024-sc02",
