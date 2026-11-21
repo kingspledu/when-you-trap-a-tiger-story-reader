@@ -57,6 +57,13 @@
       "source_issues": []
     },
     {
+      "chapter": 9,
+      "segments": 165,
+      "duration": 550.1624999999997,
+      "word_timing_coverage": 0.9407,
+      "source_issues": []
+    },
+    {
       "chapter": 10,
       "segments": 231,
       "duration": 802.4685000000002,
@@ -64,7 +71,5 @@
       "source_issues": []
     }
   ],
-  "missing_chapters": [
-    9
-  ]
+  "missing_chapters": []
 }

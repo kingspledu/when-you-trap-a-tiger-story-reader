@@ -1,22 +1,22 @@
 {
-  "download": "오프라인 저장 완료 · 전체 3권 4293개 파일 검증 완료. 같은 브라우저에서 페이지를 다시 열어 이용하세요.",
+  "download": "오프라인 저장 완료 · 전체 3권 4459개 파일 검증 완료. 같은 브라우저에서 페이지를 다시 열어 이용하세요.",
   "offline_playback": [
     {
       "volume": 1,
-      "chapter": 6,
+      "chapter": 9,
       "time": 0.7163333333333333,
       "offline": true
     },
     {
       "volume": 2,
       "chapter": 11,
-      "time": 0.7163333333333333,
+      "time": 0.7056666666666667,
       "offline": true
     },
     {
       "volume": 3,
       "chapter": 21,
-      "time": 0.727,
+      "time": 0.7163333333333333,
       "offline": true
     }
   ],

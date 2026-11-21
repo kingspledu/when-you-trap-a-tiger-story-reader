@@ -57,6 +57,13 @@
       "coverage": 0.9383
     },
     {
+      "chapter": 9,
+      "files": 165,
+      "matched_words": 1332,
+      "total_words": 1416,
+      "coverage": 0.9407
+    },
+    {
       "chapter": 10,
       "files": 231,
       "matched_words": 1856,
