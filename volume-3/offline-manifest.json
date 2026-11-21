@@ -676,13 +676,14 @@
     "clip-player.js",
     "index.html",
     "manifest.webmanifest",
+    "media-player.js",
     "offline.js",
     "pwa.js",
     "style.css"
   ],
-  "bytes": 60392097,
+  "bytes": 60399594,
   "sha256": {
-    "./": "a6890bdbea8f9e7609309dd3a746523e381c09c91edd5d954a36704b678e79ab",
+    "./": "0233f39ec22a704f38c3eb42f6c71aa8c07120a4983fd8d5ad822a6542a28fdc",
     "app.js": "fe1c262bb9434b4a5c22d18e8d97690fdee654664c31bb22009d5cfb0e58d625",
     "assets/app-icon-180.png": "5ee93db8cb7292d514ee8b307367c15b9eb6a94a1a9fc9bc4361289b1d8278bc",
     "assets/app-icon-192.png": "9ca5de86669c8f3aac22650c6a4ab5c96cff4da92ff9525488a4679d785b244e",
@@ -1354,11 +1355,12 @@
     "audio/ch23/clips/WYTT_C23_V05_0310_C23_P112_LILY.mp3": "636664d2690d1cf2ca024fdf902152eac6b501a30ae049d3b1e1b1a96bff3495",
     "audio/ch23/timing.json": "7e934a7fec2a8d4e6d5feff8c9b044091d6900fc26d0b5f759f084c341c6642b",
     "audiobook.css": "6a99a5a4c3990eea25115fbfd3edefd98fd15661d595e7ab08c6ebb1454a2366",
-    "audiobook.js": "31a675d1a3a1d53d187b250fe07052c27ea509b33d37136509007b7f1daff5b4",
+    "audiobook.js": "2b4143fc5f627577fa94892dfa207126623e789c1f3f0c693a9e1427cfdd6502",
     "clip-player.js": "c872373704a10c16105930a53560b0a77dc0f4d9f2a3585eca3167be73a7d1ab",
-    "index.html": "a6890bdbea8f9e7609309dd3a746523e381c09c91edd5d954a36704b678e79ab",
+    "index.html": "0233f39ec22a704f38c3eb42f6c71aa8c07120a4983fd8d5ad822a6542a28fdc",
     "manifest.webmanifest": "991803db05994f4eec9c0b0e9e0c6edfc6b4abd48dc257c7a915e7fee2e860d0",
-    "offline.js": "78029d901fa117ccbc94b841525c292472fb02e2174b9d6bbbdaa3d7af96a8a9",
+    "media-player.js": "3bcc6477e0138910a42fdbae5e696b3b7c93b4aad1b9690b97d6a0cb6c5d415b",
+    "offline.js": "4995da1e39e4d54b8e71571cdac92848f1bc5833343c765bb11e091136749554",
     "pwa.js": "9a52a068bcef5409d216277ae9b8c8950f74f8d1a52ba61e1c8412b5ff3f538b",
     "style.css": "2811b35369403f977fdafd88e4999c49d0c76042b15f08ed714bc94f8fbf42ce"
   }
