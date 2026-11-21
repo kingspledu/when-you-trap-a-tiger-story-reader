@@ -160,6 +160,20 @@
       "matched_words": 2103,
       "total_words": 2248,
       "coverage": 0.9355
+    },
+    {
+      "chapter": 24,
+      "files": 79,
+      "matched_words": 545,
+      "total_words": 579,
+      "coverage": 0.9413
+    },
+    {
+      "chapter": 25,
+      "files": 205,
+      "matched_words": 1628,
+      "total_words": 1751,
+      "coverage": 0.9298
     }
   ],
   "source_mapping": "all supplied transcript words map exactly to reader words",

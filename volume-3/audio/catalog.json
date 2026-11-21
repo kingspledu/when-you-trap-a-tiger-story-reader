@@ -20,11 +20,30 @@
       "duration": 973.1387000000003,
       "word_timing_coverage": 0.9355,
       "source_issues": []
+    },
+    {
+      "chapter": 24,
+      "segments": 79,
+      "duration": 237.15380000000005,
+      "word_timing_coverage": 0.9413,
+      "source_issues": []
+    },
+    {
+      "chapter": 25,
+      "segments": 205,
+      "duration": 803.797025,
+      "word_timing_coverage": 0.9298,
+      "source_issues": [
+        {
+          "order": 109,
+          "filename": "WYTT_C25_V05_0109_C25_P042_RICKY.mp3",
+          "duration": 108.826125,
+          "reason": "Unexpected source length for supplied transcript; kept intact."
+        }
+      ]
     }
   ],
   "missing_chapters": [
-    24,
-    25,
     26,
     27,
     28,
