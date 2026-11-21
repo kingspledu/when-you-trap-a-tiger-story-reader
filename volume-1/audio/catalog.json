@@ -36,6 +36,27 @@
       "source_issues": []
     },
     {
+      "chapter": 6,
+      "segments": 73,
+      "duration": 329.3791000000001,
+      "word_timing_coverage": 0.9388,
+      "source_issues": []
+    },
+    {
+      "chapter": 7,
+      "segments": 65,
+      "duration": 193.48229999999995,
+      "word_timing_coverage": 0.9385,
+      "source_issues": []
+    },
+    {
+      "chapter": 8,
+      "segments": 106,
+      "duration": 431.64119999999986,
+      "word_timing_coverage": 0.9383,
+      "source_issues": []
+    },
+    {
       "chapter": 10,
       "segments": 231,
       "duration": 802.4685000000002,
@@ -44,9 +65,6 @@
     }
   ],
   "missing_chapters": [
-    6,
-    7,
-    8,
     9
   ]
 }

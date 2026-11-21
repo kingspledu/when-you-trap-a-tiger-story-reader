@@ -48,7 +48,7 @@
  }
  async function select(ch,autoplay=false){
   const request=++selection;loading=true;play.disabled=true;audio.pause();clear();
-  try{const res=await fetch(`audio/ch${String(ch).padStart(2,'0')}/timing.json?v=${version}`);if(!res.ok)throw Error(res.status);const data=await res.json();if(request!==selection)return;track=data;audio.setTrack(track);wrap(ch);chapter.value=String(ch);seek.max=String(track.duration);await load(saved?.chapter===ch?saved.index:0,autoplay,saved?.chapter===ch?saved.time:0);saved=null;}
+  try{const res=await fetch(`audio/ch${String(ch).padStart(2,'0')}/timing.json?v=${version}`,{cache:'no-store'});if(!res.ok)throw Error(res.status);const data=await res.json();if(request!==selection)return;track=data;audio.setTrack(track);wrap(ch);chapter.value=String(ch);seek.max=String(track.duration);await load(saved?.chapter===ch?saved.index:0,autoplay,saved?.chapter===ch?saved.time:0);saved=null;}
   catch(e){if(request===selection){track=null;status.textContent='오디오 정보를 불러오지 못했습니다. 새로고침 후 다시 시도해 주세요.'}}
   finally{if(request===selection){loading=false;play.disabled=!track}}
  }
@@ -61,7 +61,7 @@
  audio.addEventListener('pause',state);audio.addEventListener('play',state);audio.addEventListener('seeked',mark);
  audio.addEventListener('error',()=>{if(retries++<2){const t=audio.currentTime;setTimeout(()=>{audio.load();audio.currentTime=t;audio.play().then(tick).catch(()=>{})},1000*retries)}else{state();status.textContent='이 구간의 오디오를 읽지 못했습니다. 듣기를 다시 눌러 주세요.'}});
  document.addEventListener('visibilitychange',()=>{if(!document.hidden&&!audio.paused){cancelAnimationFrame(frame);tick()}});
- fetch(`audio/catalog.json?v=${version}`).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(async data=>{
+ fetch(`audio/catalog.json?v=${version}`,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(async data=>{
   book=data;for(const c of data.chapters){const option=document.createElement('option');option.value=c.chapter;option.textContent=`${c.chapter}장`;chapter.append(option);const head=document.querySelector(`#chapter-${String(c.chapter).padStart(3,'0')} .chapter-head`);const b=document.createElement('button');b.type='button';b.className='chapter-listen';b.textContent='▶ 이 장 듣기';b.onclick=()=>{saved=null;panel.classList.remove('collapsed');select(c.chapter,true)};head?.append(b);if(c.source_issues?.length){const warning=document.createElement('small');warning.className='audio-unavailable';warning.textContent=`원본 오디오 ${c.source_issues.length}개 구간 확인 필요 · 재생 중 이상 구간은 다음 구간 버튼으로 이동할 수 있습니다.`;head?.append(warning)}}
   for(const sec of document.querySelectorAll('section.chapter'))if(!data.chapters.some(c=>sec.id===`chapter-${String(c.chapter).padStart(3,'0')}`)){const hint=document.createElement('small');hint.className='audio-unavailable';hint.textContent='오디오 준비 전 · 본문 읽기 가능';sec.querySelector('.chapter-head')?.append(hint)}
   if(saved?.rate)rate.value=String(saved.rate);const hash=Number(location.hash.match(/chapter-(\d+)/)?.[1]);const initial=data.chapters.some(c=>c.chapter===hash)?hash:data.chapters.some(c=>c.chapter===saved?.chapter)?saved.chapter:data.chapters[0]?.chapter;if(initial)await select(initial);else{status.textContent='아직 오디오가 없습니다.';play.disabled=true}

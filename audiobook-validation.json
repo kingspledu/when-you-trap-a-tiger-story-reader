@@ -36,6 +36,27 @@
       "coverage": 0.9437
     },
     {
+      "chapter": 6,
+      "files": 73,
+      "matched_words": 736,
+      "total_words": 784,
+      "coverage": 0.9388
+    },
+    {
+      "chapter": 7,
+      "files": 65,
+      "matched_words": 412,
+      "total_words": 439,
+      "coverage": 0.9385
+    },
+    {
+      "chapter": 8,
+      "files": 106,
+      "matched_words": 851,
+      "total_words": 907,
+      "coverage": 0.9383
+    },
+    {
       "chapter": 10,
       "files": 231,
       "matched_words": 1856,

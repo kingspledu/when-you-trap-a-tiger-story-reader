@@ -1,0 +1,36 @@
+{
+  "new_chapters": [
+    {
+      "chapter": 6,
+      "time": 0.5056666666666666,
+      "scheduled": 2,
+      "src": "audio/ch06/clips/WYTT_C06_V05_0000_C06_P001_LILY.mp3"
+    },
+    {
+      "chapter": 7,
+      "time": 0.5243333333333333,
+      "scheduled": 2,
+      "src": "audio/ch07/clips/WYTT_C07_V05_0000_C07_P001_LILY.mp3"
+    },
+    {
+      "chapter": 8,
+      "time": 0.5136666666666667,
+      "scheduled": 2,
+      "src": "audio/ch08/clips/WYTT_C08_V05_0000_C08_P001_LILY.mp3"
+    }
+  ],
+  "background_tab": {
+    "before": 0.575,
+    "time": 12.709999999999999,
+    "paused": false,
+    "state": "running",
+    "visibility": "visible",
+    "mediaSession": "playing",
+    "advanced": 12.135,
+    "verified_hidden_playback": false,
+    "limitation": "Headless Chromium kept visibility visible after tab switch; this does not validate hidden-tab or phone-lock playback."
+  },
+  "mobile_screen_lock": "not tested",
+  "human_listening": false,
+  "javascript_errors": []
+}
