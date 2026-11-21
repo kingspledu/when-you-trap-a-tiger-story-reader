@@ -618,5 +618,669 @@
       "grid_sha256": "7019dffbb102e6e583994b313616831c2ea7b066712a0117cd392b31455191d1",
       "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
     }
+  ],
+  "cadence-b01": [
+    {
+      "grid": "4x4",
+      "generation_mode": "built-in-imagegen",
+      "grid_sha256": "5886f71ffc66a369e7fcff20accaf071a408e1ca02748bdc7e1bfafb4bf85722",
+      "scene_ids": [
+        "cadence-ch013-s001",
+        "cadence-ch013-s002",
+        "cadence-ch013-s003",
+        "cadence-ch013-s004",
+        "cadence-ch013-s005",
+        "cadence-ch013-s006",
+        "cadence-ch013-s007",
+        "cadence-ch013-s008",
+        "cadence-ch013-s009",
+        "cadence-ch013-s010",
+        "cadence-ch013-s011",
+        "cadence-ch013-s012",
+        "cadence-ch013-s013",
+        "cadence-ch013-s014",
+        "cadence-ch013-s015",
+        "cadence-ch013-s016"
+      ],
+      "reference_roles": "Lily/Sam/Mom/Halmoni/Tiger individual identity sheets; only characters present in each source passage",
+      "source_directions": [
+        {
+          "cell": 1,
+          "sentences": [
+            "p0171-s1",
+            "p0171-s2",
+            "p0171-s3",
+            "p0172-s1"
+          ]
+        },
+        {
+          "cell": 2,
+          "sentences": [
+            "p0173-s1",
+            "p0174-s1",
+            "p0174-s2",
+            "p0174-s3"
+          ]
+        },
+        {
+          "cell": 3,
+          "sentences": [
+            "p0174-s4",
+            "p0174-s5",
+            "p0174-s6",
+            "p0175-s1"
+          ]
+        },
+        {
+          "cell": 4,
+          "sentences": [
+            "p0175-s2",
+            "p0176-s1",
+            "p0176-s2",
+            "p0177-s1"
+          ]
+        },
+        {
+          "cell": 5,
+          "sentences": [
+            "p0178-s1",
+            "p0178-s2",
+            "p0178-s3",
+            "p0179-s1"
+          ]
+        },
+        {
+          "cell": 6,
+          "sentences": [
+            "p0179-s2",
+            "p0179-s3",
+            "p0179-s4",
+            "p0179-s5"
+          ]
+        },
+        {
+          "cell": 7,
+          "sentences": [
+            "p0179-s6",
+            "p0179-s7",
+            "p0180-s1",
+            "p0180-s2"
+          ]
+        },
+        {
+          "cell": 8,
+          "sentences": [
+            "p0180-s3",
+            "p0181-s1",
+            "p0182-s1",
+            "p0182-s2"
+          ]
+        },
+        {
+          "cell": 9,
+          "sentences": [
+            "p0183-s1",
+            "p0183-s2",
+            "p0183-s3",
+            "p0183-s4"
+          ]
+        },
+        {
+          "cell": 10,
+          "sentences": [
+            "p0183-s5",
+            "p0183-s6",
+            "p0183-s7",
+            "p0183-s8"
+          ]
+        },
+        {
+          "cell": 11,
+          "sentences": [
+            "p0184-s1",
+            "p0184-s2",
+            "p0185-s1",
+            "p0186-s1"
+          ]
+        },
+        {
+          "cell": 12,
+          "sentences": [
+            "p0186-s2",
+            "p0186-s3",
+            "p0187-s1",
+            "p0188-s1"
+          ]
+        },
+        {
+          "cell": 13,
+          "sentences": [
+            "p0188-s2",
+            "p0189-s1",
+            "p0190-s1",
+            "p0190-s2"
+          ]
+        },
+        {
+          "cell": 14,
+          "sentences": [
+            "p0190-s3",
+            "p0190-s4",
+            "p0191-s1",
+            "p0191-s2"
+          ]
+        },
+        {
+          "cell": 15,
+          "sentences": [
+            "p0191-s3",
+            "p0192-s1",
+            "p0192-s2",
+            "p0192-s3"
+          ]
+        },
+        {
+          "cell": 16,
+          "sentences": [
+            "p0193-s1",
+            "p0194-s1",
+            "p0195-s1",
+            "p0196-s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "cadence-b02": [
+    {
+      "grid": "4x4",
+      "generation_mode": "built-in-imagegen",
+      "grid_sha256": "a7a9e44ee28e08a704ad097950c0c412630c8fcab4ca71a8125734dc4a248678",
+      "scene_ids": [
+        "cadence-ch013-s017",
+        "cadence-ch013-s018",
+        "cadence-ch013-s019",
+        "cadence-ch013-s020",
+        "cadence-ch013-s021",
+        "cadence-ch013-s022",
+        "cadence-ch013-s023",
+        "cadence-ch013-s024",
+        "cadence-ch013-s025",
+        "cadence-ch013-s026",
+        "cadence-ch013-s027",
+        "cadence-ch013-s028",
+        "cadence-ch013-s030",
+        "cadence-ch013-s031",
+        "cadence-ch014-s001"
+      ],
+      "reference_roles": "Lily/Sam/Mom/Halmoni/Tiger individual identity sheets; only characters present in each source passage",
+      "source_directions": [
+        {
+          "cell": 1,
+          "sentences": [
+            "p0196-s2",
+            "p0197-s1",
+            "p0197-s2",
+            "p0197-s3"
+          ]
+        },
+        {
+          "cell": 2,
+          "sentences": [
+            "p0197-s4",
+            "p0197-s5",
+            "p0198-s1",
+            "p0198-s2"
+          ]
+        },
+        {
+          "cell": 3,
+          "sentences": [
+            "p0199-s1",
+            "p0200-s1",
+            "p0200-s2",
+            "p0201-s1"
+          ]
+        },
+        {
+          "cell": 4,
+          "sentences": [
+            "p0201-s2",
+            "p0201-s3",
+            "p0201-s4",
+            "p0202-s1"
+          ]
+        },
+        {
+          "cell": 5,
+          "sentences": [
+            "p0202-s2",
+            "p0203-s1",
+            "p0203-s2",
+            "p0204-s1"
+          ]
+        },
+        {
+          "cell": 6,
+          "sentences": [
+            "p0204-s2",
+            "p0205-s1",
+            "p0205-s2",
+            "p0205-s3"
+          ]
+        },
+        {
+          "cell": 7,
+          "sentences": [
+            "p0205-s4",
+            "p0205-s5",
+            "p0205-s6",
+            "p0206-s1"
+          ]
+        },
+        {
+          "cell": 8,
+          "sentences": [
+            "p0206-s2",
+            "p0207-s1",
+            "p0208-s1",
+            "p0208-s2"
+          ]
+        },
+        {
+          "cell": 9,
+          "sentences": [
+            "p0208-s3",
+            "p0209-s1",
+            "p0209-s2",
+            "p0210-s1"
+          ]
+        },
+        {
+          "cell": 10,
+          "sentences": [
+            "p0210-s2",
+            "p0211-s1",
+            "p0211-s2",
+            "p0212-s1"
+          ]
+        },
+        {
+          "cell": 11,
+          "sentences": [
+            "p0212-s2",
+            "p0213-s1",
+            "p0213-s2",
+            "p0213-s3"
+          ]
+        },
+        {
+          "cell": 12,
+          "sentences": [
+            "p0213-s4",
+            "p0214-s1",
+            "p0214-s2",
+            "p0214-s3"
+          ]
+        },
+        {
+          "cell": 14,
+          "sentences": [
+            "p0217-s2",
+            "p0218-s1",
+            "p0219-s1"
+          ]
+        },
+        {
+          "cell": 15,
+          "sentences": [
+            "p0219-s2",
+            "p0220-s1",
+            "p0220-s2"
+          ]
+        },
+        {
+          "cell": 16,
+          "sentences": [
+            "p0221-s1",
+            "p0221-s2",
+            "p0221-s3",
+            "p0221-s4"
+          ]
+        }
+      ]
+    }
+  ],
+  "cadence-b03": [
+    {
+      "grid": "4x4",
+      "generation_mode": "built-in-imagegen",
+      "grid_sha256": "65663b45edcfc646b8b66b88dadecf68baae410dc3836afb2f1cee344fe4c50b",
+      "scene_ids": [
+        "cadence-ch014-s002",
+        "cadence-ch014-s003",
+        "cadence-ch014-s004",
+        "cadence-ch014-s005",
+        "cadence-ch014-s006",
+        "cadence-ch014-s007",
+        "cadence-ch014-s008",
+        "cadence-ch014-s009",
+        "cadence-ch014-s010",
+        "cadence-ch014-s011",
+        "cadence-ch014-s012",
+        "cadence-ch014-s013",
+        "cadence-ch014-s014",
+        "cadence-ch014-s015",
+        "cadence-ch014-s016",
+        "cadence-ch014-s017"
+      ],
+      "reference_roles": "Lily/Sam/Mom/Halmoni/Tiger individual identity sheets; only characters present in each source passage",
+      "source_directions": [
+        {
+          "cell": 1,
+          "sentences": [
+            "p0222-s1",
+            "p0222-s2",
+            "p0223-s1",
+            "p0223-s2"
+          ]
+        },
+        {
+          "cell": 2,
+          "sentences": [
+            "p0223-s3",
+            "p0223-s4",
+            "p0223-s5",
+            "p0223-s6"
+          ]
+        },
+        {
+          "cell": 3,
+          "sentences": [
+            "p0223-s7",
+            "p0224-s1",
+            "p0224-s2",
+            "p0225-s1"
+          ]
+        },
+        {
+          "cell": 4,
+          "sentences": [
+            "p0225-s2",
+            "p0226-s1",
+            "p0226-s2",
+            "p0226-s3"
+          ]
+        },
+        {
+          "cell": 5,
+          "sentences": [
+            "p0226-s4",
+            "p0227-s1",
+            "p0228-s1",
+            "p0229-s1"
+          ]
+        },
+        {
+          "cell": 6,
+          "sentences": [
+            "p0230-s1",
+            "p0230-s2",
+            "p0230-s3",
+            "p0230-s4"
+          ]
+        },
+        {
+          "cell": 7,
+          "sentences": [
+            "p0231-s1",
+            "p0231-s2",
+            "p0231-s3",
+            "p0232-s1"
+          ]
+        },
+        {
+          "cell": 8,
+          "sentences": [
+            "p0232-s2",
+            "p0233-s1",
+            "p0234-s1",
+            "p0234-s2"
+          ]
+        },
+        {
+          "cell": 9,
+          "sentences": [
+            "p0234-s3",
+            "p0234-s4",
+            "p0235-s1",
+            "p0235-s2"
+          ]
+        },
+        {
+          "cell": 10,
+          "sentences": [
+            "p0236-s1",
+            "p0236-s2",
+            "p0237-s1",
+            "p0237-s2"
+          ]
+        },
+        {
+          "cell": 11,
+          "sentences": [
+            "p0238-s1",
+            "p0239-s1",
+            "p0239-s2",
+            "p0240-s1"
+          ]
+        },
+        {
+          "cell": 12,
+          "sentences": [
+            "p0240-s2",
+            "p0241-s1",
+            "p0241-s2",
+            "p0241-s3"
+          ]
+        },
+        {
+          "cell": 13,
+          "sentences": [
+            "p0242-s1",
+            "p0242-s2",
+            "p0243-s1",
+            "p0243-s2"
+          ]
+        },
+        {
+          "cell": 14,
+          "sentences": [
+            "p0243-s3",
+            "p0243-s4",
+            "p0243-s5",
+            "p0244-s1"
+          ]
+        },
+        {
+          "cell": 15,
+          "sentences": [
+            "p0244-s2",
+            "p0245-s1",
+            "p0245-s2",
+            "p0245-s3"
+          ]
+        },
+        {
+          "cell": 16,
+          "sentences": [
+            "p0245-s4",
+            "p0246-s1",
+            "p0246-s2",
+            "p0247-s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "cadence-b04": [
+    {
+      "grid": "4x4",
+      "generation_mode": "built-in-imagegen",
+      "grid_sha256": "533e77b57184d071fce5bc25e63d89f6fe849d8694d966fd7474baa0901bd453",
+      "scene_ids": [
+        "cadence-ch014-s018",
+        "cadence-ch014-s019",
+        "cadence-ch014-s020",
+        "cadence-ch014-s021",
+        "cadence-ch014-s022",
+        "cadence-ch014-s023",
+        "cadence-ch014-s024",
+        "cadence-ch014-s025",
+        "cadence-ch014-s026",
+        "cadence-ch014-s027",
+        "cadence-ch014-s028",
+        "cadence-ch014-s029",
+        "cadence-ch014-s030",
+        "cadence-ch015-s001",
+        "cadence-ch015-s002"
+      ],
+      "reference_roles": "Lily/Sam/Mom/Halmoni/Tiger individual identity sheets; only characters present in each source passage",
+      "source_directions": [
+        {
+          "cell": 1,
+          "sentences": [
+            "p0247-s2",
+            "p0247-s3",
+            "p0247-s4",
+            "p0247-s5"
+          ]
+        },
+        {
+          "cell": 2,
+          "sentences": [
+            "p0248-s1",
+            "p0248-s2",
+            "p0248-s3",
+            "p0248-s4"
+          ]
+        },
+        {
+          "cell": 3,
+          "sentences": [
+            "p0249-s1",
+            "p0249-s2",
+            "p0249-s3",
+            "p0249-s4"
+          ]
+        },
+        {
+          "cell": 4,
+          "sentences": [
+            "p0249-s5",
+            "p0250-s1",
+            "p0250-s2",
+            "p0251-s1"
+          ]
+        },
+        {
+          "cell": 5,
+          "sentences": [
+            "p0251-s2",
+            "p0251-s3",
+            "p0252-s1",
+            "p0253-s1"
+          ]
+        },
+        {
+          "cell": 6,
+          "sentences": [
+            "p0253-s2",
+            "p0253-s3",
+            "p0253-s4",
+            "p0253-s5"
+          ]
+        },
+        {
+          "cell": 7,
+          "sentences": [
+            "p0253-s6",
+            "p0253-s7",
+            "p0254-s1",
+            "p0254-s2"
+          ]
+        },
+        {
+          "cell": 8,
+          "sentences": [
+            "p0255-s1",
+            "p0256-s1",
+            "p0256-s2",
+            "p0257-s1"
+          ]
+        },
+        {
+          "cell": 9,
+          "sentences": [
+            "p0257-s2",
+            "p0257-s3",
+            "p0258-s1",
+            "p0258-s2"
+          ]
+        },
+        {
+          "cell": 10,
+          "sentences": [
+            "p0259-s1",
+            "p0259-s2",
+            "p0259-s3",
+            "p0259-s4"
+          ]
+        },
+        {
+          "cell": 11,
+          "sentences": [
+            "p0260-s1",
+            "p0260-s2",
+            "p0260-s3",
+            "p0260-s4"
+          ]
+        },
+        {
+          "cell": 12,
+          "sentences": [
+            "p0261-s1",
+            "p0261-s2",
+            "p0261-s3"
+          ]
+        },
+        {
+          "cell": 13,
+          "sentences": [
+            "p0261-s4",
+            "p0262-s1",
+            "p0262-s2"
+          ]
+        },
+        {
+          "cell": 15,
+          "sentences": [
+            "p0263-s1",
+            "p0263-s2",
+            "p0264-s1",
+            "p0264-s2"
+          ]
+        },
+        {
+          "cell": 16,
+          "sentences": [
+            "p0264-s3",
+            "p0264-s4",
+            "p0264-s5",
+            "p0265-s1"
+          ]
+        }
+      ]
+    }
   ]
 }

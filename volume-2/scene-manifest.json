@@ -531,513 +531,6 @@
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
-    "id": "r3-ch013-beat01",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0174",
-    "source_paragraph_ids": [
-      "p0174"
-    ],
-    "description": "“And then Halmoni,” Sam continues, turning to Halmoni, who’s hunched over and squinting at the road ahead. She was right. It did start raining, and because of my cereal disaster, we’re caught in it. I feel a little bad, because I know Halmoni didn’t want to drive in the rain. But it’s okay. We’re not too far from home.",
-    "alt": "Chapter 13: action and reaction beat 1",
-    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch013-beat01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch012-beat05-r3-ch012-beat06-r3-ch012-beat07-r3-ch012-beat08-r2-ch012-sc03-r2-ch012-sc04-r3-ch013-beat01-r3-ch013-beat02-r2-ch013-sc01",
-    "quadrant": 7,
-    "generated_at": "20261106T084657151984Z",
-    "grid_sha256": "4b7ce74f6bf7ba8110ad25d3d0e461c75576055dace0f1249d1d66a600455937",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch013-beat02",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0183",
-    "source_paragraph_ids": [
-      "p0183"
-    ],
-    "description": "She shudders again, and Sam glances back and forth between Halmoni and the road, Halmoni, road. “Halmoni?” Sam asks. She puts her hand on Halmoni’s shoulder and is about to say something, when the car shudders, too. Sam grips her armrest. “What’s wrong? Halmoni? Are you okay?”",
-    "alt": "Chapter 13: action and reaction beat 2",
-    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch013-beat02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch012-beat05-r3-ch012-beat06-r3-ch012-beat07-r3-ch012-beat08-r2-ch012-sc03-r2-ch012-sc04-r3-ch013-beat01-r3-ch013-beat02-r2-ch013-sc01",
-    "quadrant": 8,
-    "generated_at": "20261106T084657151984Z",
-    "grid_sha256": "4b7ce74f6bf7ba8110ad25d3d0e461c75576055dace0f1249d1d66a600455937",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch013-sc01",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0186",
-    "source_paragraph_ids": [
-      "p0184",
-      "p0185",
-      "p0186"
-    ],
-    "description": "A huge dry tiger stands in rain on road facing Halmoni’s car.",
-    "alt": "A huge dry tiger stands in rain on road facing Halmoni’s car.",
-    "camera": "Wide front roadside angle; rain falls around dry fur, grandmother driving, Sam passenger.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch013-sc01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch012-beat05-r3-ch012-beat06-r3-ch012-beat07-r3-ch012-beat08-r2-ch012-sc03-r2-ch012-sc04-r3-ch013-beat01-r3-ch013-beat02-r2-ch013-sc01",
-    "quadrant": 9,
-    "generated_at": "20261106T084657151984Z",
-    "grid_sha256": "4b7ce74f6bf7ba8110ad25d3d0e461c75576055dace0f1249d1d66a600455937",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch013-beat03",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0190",
-    "source_paragraph_ids": [
-      "p0190"
-    ],
-    "description": "Halmoni swerves suddenly. The wheels skid through the rain, and my seat belt slices into my shoulder. The car dives to the side of the road, and Sam screams, and I think I do, too. When we come to a stop—panting, gasping—I can’t even see straight.",
-    "alt": "Chapter 13: action and reaction beat 3",
-    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch013-beat03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 1,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch013-sc02",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0192",
-    "source_paragraph_ids": [
-      "p0190",
-      "p0191",
-      "p0192"
-    ],
-    "description": "Halmoni kneels sick on the roadside after stopping.",
-    "alt": "Halmoni kneels sick on the roadside after stopping.",
-    "camera": "Medium respectful distance, raincoat and rain, no graphic vomit.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch013-sc02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 2,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch013-beat04",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0197",
-    "source_paragraph_ids": [
-      "p0197"
-    ],
-    "description": "When Sam turns to me, her face is moon white and her eyes are wide. “What do we do?” she asks—which isn’t fair because she’s supposed to know. Big sisters are not supposed to get scared. Little sisters get scared, and then big sisters comfort them and say, It’s okay, I’ll be the moon.",
-    "alt": "Chapter 13: action and reaction beat 4",
-    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch013-beat04.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 3,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch013-beat05",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0204",
-    "source_paragraph_ids": [
-      "p0204"
-    ],
-    "description": "Sam dials, and ten minutes later, Mom’s tires screech against the road behind us. She throws her car into park behind Halmoni’s—and we are saved from having to save our halmoni.",
-    "alt": "Chapter 13: action and reaction beat 5",
-    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch013-beat05.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 4,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch013-sc03",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0205",
-    "source_paragraph_ids": [
-      "p0203",
-      "p0204",
-      "p0205"
-    ],
-    "description": "Mom arrives in interview clothes and helps Halmoni.",
-    "alt": "Mom arrives in interview clothes and helps Halmoni.",
-    "camera": "Ground-level rescue three-shot, Mom stabilizes grandmother, sisters background, distinguish the two cars.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch013-sc03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 5,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch013-beat06",
-    "chapter_id": "chapter-013",
-    "chapter_number": 13,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0217",
-    "source_paragraph_ids": [
-      "p0217"
-    ],
-    "description": "Mom doesn’t answer, so I stare out the window. Above us, the first few stars peek out of the evening sky, and I ask them a silent question: What do I do?",
-    "alt": "Chapter 13: action and reaction beat 6",
-    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch013-beat06.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 6,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch014-sc01",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0223",
-    "source_paragraph_ids": [
-      "p0221",
-      "p0222",
-      "p0223"
-    ],
-    "description": "Lily checks sleeping Halmoni wrapped in silk sheets.",
-    "alt": "Lily checks sleeping Halmoni wrapped in silk sheets.",
-    "camera": "Over-shoulder through cracked bedroom door, quiet nocturnal domestic view.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch014-sc01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 7,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch014-beat01",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0226",
-    "source_paragraph_ids": [
-      "p0226"
-    ],
-    "description": "And from behind me, someone says, “Hello, Lily.” It’s a gravelly female voice. It scrapes against my ears like claws on rice paper. “I’ve been searching for your family for a long, long time.”",
-    "alt": "Chapter 14: action and reaction beat 1",
-    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch014-beat01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 8,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch014-sc02",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0231",
-    "source_paragraph_ids": [
-      "p0229",
-      "p0230",
-      "p0231"
-    ],
-    "description": "A kitchen shadow resolves into a huge tiger in starlight.",
-    "alt": "A kitchen shadow resolves into a huge tiger in starlight.",
-    "camera": "Low establishing wide shot of real tiger, floorboards, purple dining table, no human transformation.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch014-sc02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch013-beat03-r2-ch013-sc02-r3-ch013-beat04-r3-ch013-beat05-r2-ch013-sc03-r3-ch013-beat06-r2-ch014-sc01-r3-ch014-beat01-r2-ch014-sc02",
-    "quadrant": 9,
-    "generated_at": "20261106T085013475629Z",
-    "grid_sha256": "e4b71184e74cbcdb11ee221f84969402f5ad2665a0d2bfb6ebebba86005a8678",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch014-beat02",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0243",
-    "source_paragraph_ids": [
-      "p0243"
-    ],
-    "description": "The tiger steps closer, tail swishing back and forth. She tilts her head and flicks an ear. “Why so hostile, Little Egg? I am not going to eat you, just so you know. I’m on a kimchi diet.”",
-    "alt": "Chapter 14: action and reaction beat 2",
-    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch014-beat02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 1,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch014-beat03",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0245",
-    "source_paragraph_ids": [
-      "p0245"
-    ],
-    "description": "She makes a sound that’s halfway between a purr and a growl. “Your halmoni stole the stars, and I am here to collect them. That is all. Will you help me, little one?”",
-    "alt": "Chapter 14: action and reaction beat 3",
-    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch014-beat03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 2,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch014-beat04",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0249",
-    "source_paragraph_ids": [
-      "p0249"
-    ],
-    "description": "But the big cat continues, “Story magic is powerful, powerful enough to change someone. And when a story is locked away, its magic only grows. Sometimes it grows sour. The magic becomes a kind of poison. Do you understand?”",
-    "alt": "Chapter 14: action and reaction beat 4",
-    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch014-beat04.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 3,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch014-beat05",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0253",
-    "source_paragraph_ids": [
-      "p0253"
-    ],
-    "description": "“I’m offering a deal. You help me find the stories, I’ll return them to their place in the sky, and you never have to think about them again. I get my stars back, and we help your halmoni. You don’t even have to hear the stories. Everybody wins.” The tiger shifts her weight, paw to paw, and her fur glistens in the starlight. “Don’t you want to be a hero?”",
-    "alt": "Chapter 14: action and reaction beat 5",
-    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch014-beat05.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 4,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch014-beat06",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0259",
-    "source_paragraph_ids": [
-      "p0259"
-    ],
-    "description": "I am frozen, trapped in my own thoughts. This is my problem. This is why Sam calls me a QAG. I’m so afraid of saying the wrong answer that I don’t say anything at all.",
-    "alt": "Chapter 14: action and reaction beat 6",
-    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch014-beat06.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 5,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch014-sc03",
-    "chapter_id": "chapter-014",
-    "chapter_number": 14,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0260",
-    "source_paragraph_ids": [
-      "p0258",
-      "p0259",
-      "p0260"
-    ],
-    "description": "Tiger fades back into shadow after Lily hesitates.",
-    "alt": "Tiger fades back into shadow after Lily hesitates.",
-    "camera": "Closeup Lily’s unsure face with receding striped silhouette behind, no double heads.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch014-sc03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 6,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch015-beat01",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0263",
-    "source_paragraph_ids": [
-      "p0263"
-    ],
-    "description": "Obviously, I don’t sleep after that. I sit up in bed, chewing my nails, staring out the window until the sun comes up, until I hear a strange noise downstairs—like a whispering through the walls.",
-    "alt": "Chapter 15: action and reaction beat 1",
-    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch015-beat01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 7,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch015-sc01",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0266",
-    "source_paragraph_ids": [
-      "p0264",
-      "p0265",
-      "p0266"
-    ],
-    "description": "Lily overhears Mom and Halmoni talking privately in grandmother’s bedroom.",
-    "alt": "Lily overhears Mom and Halmoni talking privately in grandmother’s bedroom.",
-    "camera": "Doorframe framing, Lily small foreground silhouette, adults seated, no speech text.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch015-sc01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 8,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
     "id": "r3-ch015-beat02",
     "chapter_id": "chapter-015",
     "chapter_number": 15,
@@ -2499,5 +1992,1586 @@
     "generated_at": "20261106T111348377881Z",
     "grid_sha256": "6b978110154def526afd99827aa3c93906cc76e61f12e2f702ddd3a60c7f73b6",
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
+  },
+  {
+    "id": "cadence-ch013-s001",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0171-s1",
+      "p0171-s2",
+      "p0171-s3",
+      "p0172-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0171",
+      "p0172"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c01.webp",
+    "grid_id": "cadence-b01",
+    "cell": 1,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s002",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0173-s1",
+      "p0174-s1",
+      "p0174-s2",
+      "p0174-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0173",
+      "p0174"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c02.webp",
+    "grid_id": "cadence-b01",
+    "cell": 2,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s003",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0174-s4",
+      "p0174-s5",
+      "p0174-s6",
+      "p0175-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0174",
+      "p0175"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c03.webp",
+    "grid_id": "cadence-b01",
+    "cell": 3,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s004",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0175-s2",
+      "p0176-s1",
+      "p0176-s2",
+      "p0177-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0175",
+      "p0176",
+      "p0177"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c04.webp",
+    "grid_id": "cadence-b01",
+    "cell": 4,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s005",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0178-s1",
+      "p0178-s2",
+      "p0178-s3",
+      "p0179-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0178",
+      "p0179"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c05.webp",
+    "grid_id": "cadence-b01",
+    "cell": 5,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s006",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0179-s2",
+      "p0179-s3",
+      "p0179-s4",
+      "p0179-s5"
+    ],
+    "source_paragraph_ids": [
+      "p0179"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c06.webp",
+    "grid_id": "cadence-b01",
+    "cell": 6,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s007",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0179-s6",
+      "p0179-s7",
+      "p0180-s1",
+      "p0180-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0179",
+      "p0180"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c07.webp",
+    "grid_id": "cadence-b01",
+    "cell": 7,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s008",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0180-s3",
+      "p0181-s1",
+      "p0182-s1",
+      "p0182-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0180",
+      "p0181",
+      "p0182"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c08.webp",
+    "grid_id": "cadence-b01",
+    "cell": 8,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s009",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0183-s1",
+      "p0183-s2",
+      "p0183-s3",
+      "p0183-s4"
+    ],
+    "source_paragraph_ids": [
+      "p0183"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c09.webp",
+    "grid_id": "cadence-b01",
+    "cell": 9,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s010",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0183-s5",
+      "p0183-s6",
+      "p0183-s7",
+      "p0183-s8"
+    ],
+    "source_paragraph_ids": [
+      "p0183"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c10.webp",
+    "grid_id": "cadence-b01",
+    "cell": 10,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s011",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0184-s1",
+      "p0184-s2",
+      "p0185-s1",
+      "p0186-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0184",
+      "p0185",
+      "p0186"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c11.webp",
+    "grid_id": "cadence-b01",
+    "cell": 11,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s012",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0186-s2",
+      "p0186-s3",
+      "p0187-s1",
+      "p0188-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0186",
+      "p0187",
+      "p0188"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c12.webp",
+    "grid_id": "cadence-b01",
+    "cell": 12,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s013",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0188-s2",
+      "p0189-s1",
+      "p0190-s1",
+      "p0190-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0188",
+      "p0189",
+      "p0190"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c13.webp",
+    "grid_id": "cadence-b01",
+    "cell": 13,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s014",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0190-s3",
+      "p0190-s4",
+      "p0191-s1",
+      "p0191-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0190",
+      "p0191"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c14.webp",
+    "grid_id": "cadence-b01",
+    "cell": 14,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s015",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0191-s3",
+      "p0192-s1",
+      "p0192-s2",
+      "p0192-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0191",
+      "p0192"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c15.webp",
+    "grid_id": "cadence-b01",
+    "cell": 15,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s016",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0193-s1",
+      "p0194-s1",
+      "p0195-s1",
+      "p0196-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0193",
+      "p0194",
+      "p0195",
+      "p0196"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b01-c16.webp",
+    "grid_id": "cadence-b01",
+    "cell": 16,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s017",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0196-s2",
+      "p0197-s1",
+      "p0197-s2",
+      "p0197-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0196",
+      "p0197"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c01.webp",
+    "grid_id": "cadence-b02",
+    "cell": 1,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s018",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0197-s4",
+      "p0197-s5",
+      "p0198-s1",
+      "p0198-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0197",
+      "p0198"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c02.webp",
+    "grid_id": "cadence-b02",
+    "cell": 2,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s019",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0199-s1",
+      "p0200-s1",
+      "p0200-s2",
+      "p0201-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0199",
+      "p0200",
+      "p0201"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c03.webp",
+    "grid_id": "cadence-b02",
+    "cell": 3,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s020",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0201-s2",
+      "p0201-s3",
+      "p0201-s4",
+      "p0202-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0201",
+      "p0202"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c04.webp",
+    "grid_id": "cadence-b02",
+    "cell": 4,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s021",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0202-s2",
+      "p0203-s1",
+      "p0203-s2",
+      "p0204-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0202",
+      "p0203",
+      "p0204"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c05.webp",
+    "grid_id": "cadence-b02",
+    "cell": 5,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s022",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0204-s2",
+      "p0205-s1",
+      "p0205-s2",
+      "p0205-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0204",
+      "p0205"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c06.webp",
+    "grid_id": "cadence-b02",
+    "cell": 6,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s023",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0205-s4",
+      "p0205-s5",
+      "p0205-s6",
+      "p0206-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0205",
+      "p0206"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c07.webp",
+    "grid_id": "cadence-b02",
+    "cell": 7,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s024",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0206-s2",
+      "p0207-s1",
+      "p0208-s1",
+      "p0208-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0206",
+      "p0207",
+      "p0208"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c08.webp",
+    "grid_id": "cadence-b02",
+    "cell": 8,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s025",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0208-s3",
+      "p0209-s1",
+      "p0209-s2",
+      "p0210-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0208",
+      "p0209",
+      "p0210"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c09.webp",
+    "grid_id": "cadence-b02",
+    "cell": 9,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s026",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0210-s2",
+      "p0211-s1",
+      "p0211-s2",
+      "p0212-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0210",
+      "p0211",
+      "p0212"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c10.webp",
+    "grid_id": "cadence-b02",
+    "cell": 10,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s027",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0212-s2",
+      "p0213-s1",
+      "p0213-s2",
+      "p0213-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0212",
+      "p0213"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c11.webp",
+    "grid_id": "cadence-b02",
+    "cell": 11,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s028",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0213-s4",
+      "p0214-s1",
+      "p0214-s2",
+      "p0214-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0213",
+      "p0214"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c12.webp",
+    "grid_id": "cadence-b02",
+    "cell": 12,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s029",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0215-s1",
+      "p0216-s1",
+      "p0216-s2",
+      "p0217-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0215",
+      "p0216",
+      "p0217"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/r3-ch013-beat06.webp",
+    "grid_id": "existing-approved-transition",
+    "cell": 13,
+    "status": "integrated",
+    "width": 410,
+    "height": 410,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s030",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0217-s2",
+      "p0218-s1",
+      "p0219-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0217",
+      "p0218",
+      "p0219"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 3,
+    "web_asset_path": "assets/cadence-b02-c14.webp",
+    "grid_id": "cadence-b02",
+    "cell": 14,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch013-s031",
+    "chapter_id": "chapter-013",
+    "chapter_number": 13,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0219-s2",
+      "p0220-s1",
+      "p0220-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0219",
+      "p0220"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 3,
+    "web_asset_path": "assets/cadence-b02-c15.webp",
+    "grid_id": "cadence-b02",
+    "cell": 15,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s001",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0221-s1",
+      "p0221-s2",
+      "p0221-s3",
+      "p0221-s4"
+    ],
+    "source_paragraph_ids": [
+      "p0221"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b02-c16.webp",
+    "grid_id": "cadence-b02",
+    "cell": 16,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s002",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0222-s1",
+      "p0222-s2",
+      "p0223-s1",
+      "p0223-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0222",
+      "p0223"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c01.webp",
+    "grid_id": "cadence-b03",
+    "cell": 1,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s003",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0223-s3",
+      "p0223-s4",
+      "p0223-s5",
+      "p0223-s6"
+    ],
+    "source_paragraph_ids": [
+      "p0223"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c02.webp",
+    "grid_id": "cadence-b03",
+    "cell": 2,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s004",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0223-s7",
+      "p0224-s1",
+      "p0224-s2",
+      "p0225-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0223",
+      "p0224",
+      "p0225"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c03.webp",
+    "grid_id": "cadence-b03",
+    "cell": 3,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s005",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0225-s2",
+      "p0226-s1",
+      "p0226-s2",
+      "p0226-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0225",
+      "p0226"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c04.webp",
+    "grid_id": "cadence-b03",
+    "cell": 4,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s006",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0226-s4",
+      "p0227-s1",
+      "p0228-s1",
+      "p0229-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0226",
+      "p0227",
+      "p0228",
+      "p0229"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c05.webp",
+    "grid_id": "cadence-b03",
+    "cell": 5,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s007",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0230-s1",
+      "p0230-s2",
+      "p0230-s3",
+      "p0230-s4"
+    ],
+    "source_paragraph_ids": [
+      "p0230"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c06.webp",
+    "grid_id": "cadence-b03",
+    "cell": 6,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s008",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0231-s1",
+      "p0231-s2",
+      "p0231-s3",
+      "p0232-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0231",
+      "p0232"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c07.webp",
+    "grid_id": "cadence-b03",
+    "cell": 7,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s009",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0232-s2",
+      "p0233-s1",
+      "p0234-s1",
+      "p0234-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0232",
+      "p0233",
+      "p0234"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c08.webp",
+    "grid_id": "cadence-b03",
+    "cell": 8,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s010",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0234-s3",
+      "p0234-s4",
+      "p0235-s1",
+      "p0235-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0234",
+      "p0235"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c09.webp",
+    "grid_id": "cadence-b03",
+    "cell": 9,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s011",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0236-s1",
+      "p0236-s2",
+      "p0237-s1",
+      "p0237-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0236",
+      "p0237"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c10.webp",
+    "grid_id": "cadence-b03",
+    "cell": 10,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s012",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0238-s1",
+      "p0239-s1",
+      "p0239-s2",
+      "p0240-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0238",
+      "p0239",
+      "p0240"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c11.webp",
+    "grid_id": "cadence-b03",
+    "cell": 11,
+    "status": "integrated",
+    "width": 307,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s013",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0240-s2",
+      "p0241-s1",
+      "p0241-s2",
+      "p0241-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0240",
+      "p0241"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c12.webp",
+    "grid_id": "cadence-b03",
+    "cell": 12,
+    "status": "integrated",
+    "width": 308,
+    "height": 307,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s014",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0242-s1",
+      "p0242-s2",
+      "p0243-s1",
+      "p0243-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0242",
+      "p0243"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c13.webp",
+    "grid_id": "cadence-b03",
+    "cell": 13,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s015",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0243-s3",
+      "p0243-s4",
+      "p0243-s5",
+      "p0244-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0243",
+      "p0244"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c14.webp",
+    "grid_id": "cadence-b03",
+    "cell": 14,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s016",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0244-s2",
+      "p0245-s1",
+      "p0245-s2",
+      "p0245-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0244",
+      "p0245"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c15.webp",
+    "grid_id": "cadence-b03",
+    "cell": 15,
+    "status": "integrated",
+    "width": 307,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s017",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0245-s4",
+      "p0246-s1",
+      "p0246-s2",
+      "p0247-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0245",
+      "p0246",
+      "p0247"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b03-c16.webp",
+    "grid_id": "cadence-b03",
+    "cell": 16,
+    "status": "integrated",
+    "width": 308,
+    "height": 308,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s018",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0247-s2",
+      "p0247-s3",
+      "p0247-s4",
+      "p0247-s5"
+    ],
+    "source_paragraph_ids": [
+      "p0247"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c01.webp",
+    "grid_id": "cadence-b04",
+    "cell": 1,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s019",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0248-s1",
+      "p0248-s2",
+      "p0248-s3",
+      "p0248-s4"
+    ],
+    "source_paragraph_ids": [
+      "p0248"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c02.webp",
+    "grid_id": "cadence-b04",
+    "cell": 2,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s020",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0249-s1",
+      "p0249-s2",
+      "p0249-s3",
+      "p0249-s4"
+    ],
+    "source_paragraph_ids": [
+      "p0249"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c03.webp",
+    "grid_id": "cadence-b04",
+    "cell": 3,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s021",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0249-s5",
+      "p0250-s1",
+      "p0250-s2",
+      "p0251-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0249",
+      "p0250",
+      "p0251"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c04.webp",
+    "grid_id": "cadence-b04",
+    "cell": 4,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s022",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0251-s2",
+      "p0251-s3",
+      "p0252-s1",
+      "p0253-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0251",
+      "p0252",
+      "p0253"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c05.webp",
+    "grid_id": "cadence-b04",
+    "cell": 5,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s023",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0253-s2",
+      "p0253-s3",
+      "p0253-s4",
+      "p0253-s5"
+    ],
+    "source_paragraph_ids": [
+      "p0253"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c06.webp",
+    "grid_id": "cadence-b04",
+    "cell": 6,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s024",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0253-s6",
+      "p0253-s7",
+      "p0254-s1",
+      "p0254-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0253",
+      "p0254"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c07.webp",
+    "grid_id": "cadence-b04",
+    "cell": 7,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s025",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0255-s1",
+      "p0256-s1",
+      "p0256-s2",
+      "p0257-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0255",
+      "p0256",
+      "p0257"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c08.webp",
+    "grid_id": "cadence-b04",
+    "cell": 8,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s026",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0257-s2",
+      "p0257-s3",
+      "p0258-s1",
+      "p0258-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0257",
+      "p0258"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c09.webp",
+    "grid_id": "cadence-b04",
+    "cell": 9,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s027",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0259-s1",
+      "p0259-s2",
+      "p0259-s3",
+      "p0259-s4"
+    ],
+    "source_paragraph_ids": [
+      "p0259"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c10.webp",
+    "grid_id": "cadence-b04",
+    "cell": 10,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s028",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0260-s1",
+      "p0260-s2",
+      "p0260-s3",
+      "p0260-s4"
+    ],
+    "source_paragraph_ids": [
+      "p0260"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c11.webp",
+    "grid_id": "cadence-b04",
+    "cell": 11,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s029",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0261-s1",
+      "p0261-s2",
+      "p0261-s3"
+    ],
+    "source_paragraph_ids": [
+      "p0261"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 3,
+    "web_asset_path": "assets/cadence-b04-c12.webp",
+    "grid_id": "cadence-b04",
+    "cell": 12,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch014-s030",
+    "chapter_id": "chapter-014",
+    "chapter_number": 14,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0261-s4",
+      "p0262-s1",
+      "p0262-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0261",
+      "p0262"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 3,
+    "web_asset_path": "assets/cadence-b04-c13.webp",
+    "grid_id": "cadence-b04",
+    "cell": 13,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch015-s001",
+    "chapter_id": "chapter-015",
+    "chapter_number": 15,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0263-s1",
+      "p0263-s2",
+      "p0264-s1",
+      "p0264-s2"
+    ],
+    "source_paragraph_ids": [
+      "p0263",
+      "p0264"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c15.webp",
+    "grid_id": "cadence-b04",
+    "cell": 15,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+  },
+  {
+    "id": "cadence-ch015-s002",
+    "chapter_id": "chapter-015",
+    "chapter_number": 15,
+    "volume": 2,
+    "source_sentence_ids": [
+      "p0264-s3",
+      "p0264-s4",
+      "p0264-s5",
+      "p0265-s1"
+    ],
+    "source_paragraph_ids": [
+      "p0264",
+      "p0265"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b04-c16.webp",
+    "grid_id": "cadence-b04",
+    "cell": 16,
+    "status": "integrated",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
   }
 ]

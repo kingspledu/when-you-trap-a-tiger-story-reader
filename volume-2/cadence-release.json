@@ -1,0 +1,54 @@
+{
+  "generated_grids": 4,
+  "generated_cells": 64,
+  "integrated_scenes": 63,
+  "integrated_new_images": 62,
+  "reused_existing_images": 1,
+  "excluded_cells": [
+    {
+      "grid": 2,
+      "cell": 13,
+      "reason": "Incorrect car seating; use existing approved transition instead"
+    },
+    {
+      "grid": 4,
+      "cell": 14,
+      "reason": "Empty hall alternative not counted as additional scene"
+    }
+  ],
+  "source_sentence_count": 1734,
+  "source_text_and_order": "PASS",
+  "vocabulary_links": "PASS",
+  "duplicate_ids": 0,
+  "chapters": {
+    "13": 31,
+    "14": 30,
+    "15": 2
+  },
+  "native_grids": {
+    "1": {
+      "path": "batch-1.png",
+      "sha256": "5886f71ffc66a369e7fcff20accaf071a408e1ca02748bdc7e1bfafb4bf85722",
+      "width": 1254,
+      "height": 1254
+    },
+    "2": {
+      "path": "batch-2.png",
+      "sha256": "a7a9e44ee28e08a704ad097950c0c412630c8fcab4ca71a8125734dc4a248678",
+      "width": 1254,
+      "height": 1254
+    },
+    "3": {
+      "path": "batch-3.png",
+      "sha256": "65663b45edcfc646b8b66b88dadecf68baae410dc3836afb2f1cee344fe4c50b",
+      "width": 1254,
+      "height": 1254
+    },
+    "4": {
+      "path": "batch-4.png",
+      "sha256": "533e77b57184d071fce5bc25e63d89f6fe849d8694d966fd7474baa0901bd453",
+      "width": 1536,
+      "height": 1024
+    }
+  }
+}
