@@ -1,0 +1,246 @@
+{
+  "completed_batches": 8,
+  "this_update_batches": 4,
+  "this_update_cells": 64,
+  "source_preservation": "PASS",
+  "vocabulary_preservation": "PASS",
+  "illustration_first": "PASS",
+  "cadence": "3-4 sentences",
+  "chapters": [
+    {
+      "volume": 1,
+      "chapter": "chapter-001",
+      "sentences": 172,
+      "covered": 0,
+      "remaining": 172,
+      "scene_budget": 43
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-002",
+      "sentences": 82,
+      "covered": 0,
+      "remaining": 82,
+      "scene_budget": 21
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-003",
+      "sentences": 230,
+      "covered": 0,
+      "remaining": 230,
+      "scene_budget": 58
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-004",
+      "sentences": 304,
+      "covered": 0,
+      "remaining": 304,
+      "scene_budget": 76
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-005",
+      "sentences": 89,
+      "covered": 0,
+      "remaining": 89,
+      "scene_budget": 23
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-006",
+      "sentences": 73,
+      "covered": 0,
+      "remaining": 73,
+      "scene_budget": 19
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-007",
+      "sentences": 63,
+      "covered": 0,
+      "remaining": 63,
+      "scene_budget": 16
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-008",
+      "sentences": 100,
+      "covered": 0,
+      "remaining": 100,
+      "scene_budget": 25
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-009",
+      "sentences": 150,
+      "covered": 0,
+      "remaining": 150,
+      "scene_budget": 38
+    },
+    {
+      "volume": 1,
+      "chapter": "chapter-010",
+      "sentences": 212,
+      "covered": 0,
+      "remaining": 212,
+      "scene_budget": 53
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-011",
+      "sentences": 84,
+      "covered": 0,
+      "remaining": 84,
+      "scene_budget": 21
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-012",
+      "sentences": 356,
+      "covered": 0,
+      "remaining": 356,
+      "scene_budget": 89
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-013",
+      "sentences": 122,
+      "covered": 122,
+      "remaining": 0,
+      "scene_budget": 0
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-014",
+      "sentences": 118,
+      "covered": 118,
+      "remaining": 0,
+      "scene_budget": 0
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-015",
+      "sentences": 155,
+      "covered": 155,
+      "remaining": 0,
+      "scene_budget": 0
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-016",
+      "sentences": 269,
+      "covered": 108,
+      "remaining": 161,
+      "scene_budget": 41
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-017",
+      "sentences": 110,
+      "covered": 0,
+      "remaining": 110,
+      "scene_budget": 28
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-018",
+      "sentences": 214,
+      "covered": 0,
+      "remaining": 214,
+      "scene_budget": 54
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-019",
+      "sentences": 168,
+      "covered": 0,
+      "remaining": 168,
+      "scene_budget": 42
+    },
+    {
+      "volume": 2,
+      "chapter": "chapter-020",
+      "sentences": 138,
+      "covered": 0,
+      "remaining": 138,
+      "scene_budget": 35
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-021",
+      "sentences": 121,
+      "covered": 0,
+      "remaining": 121,
+      "scene_budget": 31
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-022",
+      "sentences": 130,
+      "covered": 0,
+      "remaining": 130,
+      "scene_budget": 33
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-023",
+      "sentences": 270,
+      "covered": 0,
+      "remaining": 270,
+      "scene_budget": 68
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-024",
+      "sentences": 69,
+      "covered": 0,
+      "remaining": 69,
+      "scene_budget": 18
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-025",
+      "sentences": 182,
+      "covered": 0,
+      "remaining": 182,
+      "scene_budget": 46
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-026",
+      "sentences": 90,
+      "covered": 0,
+      "remaining": 90,
+      "scene_budget": 23
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-027",
+      "sentences": 161,
+      "covered": 0,
+      "remaining": 161,
+      "scene_budget": 41
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-028",
+      "sentences": 69,
+      "covered": 0,
+      "remaining": 69,
+      "scene_budget": 18
+    },
+    {
+      "volume": 3,
+      "chapter": "chapter-029",
+      "sentences": 151,
+      "covered": 0,
+      "remaining": 151,
+      "scene_budget": 38
+    }
+  ],
+  "remaining_scene_budget": 998,
+  "remaining_batch_upper_budget": 63,
+  "note": "Unverified existing illustrations may be reused, reducing new-generation count. This is a reconstruction budget, not an exact count of missing images."
+}

@@ -531,486 +531,6 @@
     "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
   },
   {
-    "id": "r3-ch015-beat02",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0277",
-    "source_paragraph_ids": [
-      "p0277"
-    ],
-    "description": "“Mom! I don’t need a hat. I need you.” Mom’s voice breaks. When she speaks again, her voice is quiet. “Please just try the other treatments. Don’t give up.”",
-    "alt": "Chapter 15: action and reaction beat 2",
-    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch015-beat02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch014-beat02-r3-ch014-beat03-r3-ch014-beat04-r3-ch014-beat05-r3-ch014-beat06-r2-ch014-sc03-r3-ch015-beat01-r2-ch015-sc01-r3-ch015-beat02",
-    "quadrant": 9,
-    "generated_at": "20261106T085831220577Z",
-    "grid_sha256": "8f8d73d754e145db43370cbf73fcfec726a0bf7c73e161554169017116ca56d8",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch015-beat03",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0280",
-    "source_paragraph_ids": [
-      "p0280"
-    ],
-    "description": "The softness in Halmoni’s words evaporates. “You think I just give up? No! I don’t want to go. I don’t want to leave you. I am not ready. But I don’t get to decide. The only thing I decide is how I be right now. So you don’t take that away from me.”",
-    "alt": "Chapter 15: action and reaction beat 3",
-    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch015-beat03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 1,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch015-sc02",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0295",
-    "source_paragraph_ids": [
-      "p0293",
-      "p0294",
-      "p0295"
-    ],
-    "description": "Mom hugs Lily after finding her awake on stairs.",
-    "alt": "Mom hugs Lily after finding her awake on stairs.",
-    "camera": "Tight emotional face-and-shoulders embrace, exhausted glasses-wearing Mom.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch015-sc02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 2,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch015-beat04",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0297",
-    "source_paragraph_ids": [
-      "p0297"
-    ],
-    "description": "Mom fiddles with her glasses. “Halmoni’s sick, Lily. But we’re still hopeful, okay? I’m looking for a new job, so that should bring in money for special treatments. And even if we don’t do those treatments, we’ll—we can keep her comfortable.”",
-    "alt": "Chapter 15: action and reaction beat 4",
-    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch015-beat04.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 3,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch015-beat05",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0306",
-    "source_paragraph_ids": [
-      "p0306"
-    ],
-    "description": "Except I guess I can’t hide for long, because that strange tingling turns jagged, like broken glass. I nod my aching head. I try to say it out loud—brain cancer—but I can’t.",
-    "alt": "Chapter 15: action and reaction beat 5",
-    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch015-beat05.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 4,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch015-sc03",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0311",
-    "source_paragraph_ids": [
-      "p0309",
-      "p0310",
-      "p0311"
-    ],
-    "description": "Mom holds Lily’s hands while explaining Halmoni’s illness.",
-    "alt": "Mom holds Lily’s hands while explaining Halmoni’s illness.",
-    "camera": "Hands closeup resting between mother and child, subdued morning light, no medical hallucinations.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch015-sc03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 5,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch015-beat06",
-    "chapter_id": "chapter-015",
-    "chapter_number": 15,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0315",
-    "source_paragraph_ids": [
-      "p0315"
-    ],
-    "description": "Mom squeezes my hands. “I talked to Sam about this last night, when you were asleep, so you can discuss it with her, if that helps. This isn’t going to be a onetime conversation. It’s an ongoing dialogue, and I’m here anytime, to answer any questions you have.”",
-    "alt": "Chapter 15: action and reaction beat 6",
-    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch015-beat06.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 6,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat01",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0322",
-    "source_paragraph_ids": [
-      "p0322"
-    ],
-    "description": "Hyped up on New Plan energy, I run upstairs to tell Sam. Barely awake, she’s sitting up in bed with her laptop perched on her knees, wrapped in the glow of her screen.",
-    "alt": "Chapter 16: action and reaction beat 1",
-    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 7,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch016-sc01",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0324",
-    "source_paragraph_ids": [
-      "p0322",
-      "p0323",
-      "p0324"
-    ],
-    "description": "Lily urgently tells Sam in attic there may be a way to help Halmoni.",
-    "alt": "Lily urgently tells Sam in attic there may be a way to help Halmoni.",
-    "camera": "Medium two-shot separated by laptop glow, Sam shoulder-length hair white streak.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch016-sc01.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 8,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat02",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0336",
-    "source_paragraph_ids": [
-      "p0336"
-    ],
-    "description": "I turn away from her as I change out of my pajamas and into jeans and a sweatshirt. I can find Ricky. I can learn how to hunt a tiger. And I don’t need Sam’s help.",
-    "alt": "Chapter 16: action and reaction beat 2",
-    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch015-beat03-r2-ch015-sc02-r3-ch015-beat04-r3-ch015-beat05-r2-ch015-sc03-r3-ch015-beat06-r3-ch016-beat01-r2-ch016-sc01-r3-ch016-beat02",
-    "quadrant": 9,
-    "generated_at": "20261106T090242263723Z",
-    "grid_sha256": "2b913b2fad721d762c4d57fd94e0140eef27e1a091713054e312bd068fc3e3f6",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat03",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0343",
-    "source_paragraph_ids": [
-      "p0343"
-    ],
-    "description": "Joe’s sitting at his desk, and I assume he doesn’t want to talk, but he stops me as I pass. “Lily.” He clears his throat, halfway between a grunt and a grumble. “I just want to say, you had a good idea.”",
-    "alt": "Chapter 16: action and reaction beat 3",
-    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 1,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat04",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0349",
-    "source_paragraph_ids": [
-      "p0349"
-    ],
-    "description": "He gestures to the back of the library, and I make my way through the stacks until I come to a cluster of tables. Ricky and Jensen are sitting together, with an open notebook, a pile of flash cards, and an empty pudding cup between them.",
-    "alt": "Chapter 16: action and reaction beat 4",
-    "camera": "Wide spatial orientation shot with the correct room/road and only source-present characters. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat04.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 2,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat05",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0350",
-    "source_paragraph_ids": [
-      "p0350"
-    ],
-    "description": "Ricky looks up and grins. Today he’s wearing a beanie that says BEANS, pulled down to his eyebrows. And if he feels awkward after the grocery-store incident, he doesn’t show it.",
-    "alt": "Chapter 16: action and reaction beat 5",
-    "camera": "Closer two-person interaction or point-of-view framing; keep gestures simple and anatomically clear. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat05.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 3,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat06",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0368",
-    "source_paragraph_ids": [
-      "p0368"
-    ],
-    "description": "Jensen covers her surprise with a smile and stands up. “Sure, Lily. I’ll grab you one. Ricky’s desperate for a quick break anyway.” She raises her eyebrows at Ricky to emphasize quick, then asks if I want chocolate or vanilla.",
-    "alt": "Chapter 16: action and reaction beat 6",
-    "camera": "Low or high perspective within the real location; contrast neighboring compositions. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat06.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 4,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat07",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0384",
-    "source_paragraph_ids": [
-      "p0384"
-    ],
-    "description": "I try to hold all my emotions inside, so Ricky can’t see, but I feel a hot rush of tears building behind my eyes. I squeeze them shut and try to breathe.",
-    "alt": "Chapter 16: action and reaction beat 7",
-    "camera": "Tight facial reaction; eyes and brows communicate the exact source feeling, no added tears unless stated. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat07.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 5,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch016-sc02",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0389",
-    "source_paragraph_ids": [
-      "p0387",
-      "p0388",
-      "p0389"
-    ],
-    "description": "Ricky opens a comic book proposing the idea of a trap.",
-    "alt": "Ricky opens a comic book proposing the idea of a trap.",
-    "camera": "Overhead tabletop shot with ordinary unlettered illustrated comic, child hands pointing; no logos.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch016-sc02.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 6,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat08",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0390",
-    "source_paragraph_ids": [
-      "p0390"
-    ],
-    "description": "Ricky grins. “We could make a trap. Like a pit to catch tigers in. It’ll be so cool, see?” He opens the comic to a dog-eared page and shows me the drawing of Superman, trapped in a giant metal box and a web of red laser beams.",
-    "alt": "Chapter 16: action and reaction beat 8",
-    "camera": "Object or hand detail from this source passage; include just enough face/clothing to locate owner. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat08.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 7,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r3-ch016-beat09",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0406",
-    "source_paragraph_ids": [
-      "p0406"
-    ],
-    "description": "“Really? I’m so excited. This is gonna be EPIC.” He makes an explosion gesture to show epic. “I’m so glad you said yes. Because now making a tiger trap is in my head and it will not leave.”",
-    "alt": "Chapter 16: action and reaction beat 9",
-    "camera": "Medium side or over-shoulder shot; show the precise source gesture rather than a posed portrait. Draw ONLY the authoritative source action, using source outfits and prop state. Do not visualize metaphors literally.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "kind": "action-reaction-detail",
-    "web_asset_path": "assets/r3-ch016-beat09.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 8,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
-    "id": "r2-ch016-sc03",
-    "chapter_id": "chapter-016",
-    "chapter_number": 16,
-    "volume": 2,
-    "insert_after_paragraph_id": "p0410",
-    "source_paragraph_ids": [
-      "p0408",
-      "p0409",
-      "p0410"
-    ],
-    "description": "Ricky writes his phone number on a scrap of paper.",
-    "alt": "Ricky writes his phone number on a scrap of paper.",
-    "camera": "Close detail pen and scrap with illegible marks; Lily listens in background, no readable number.",
-    "character_ids": [],
-    "state": "source-passage-and-bible",
-    "status": "integrated",
-    "web_asset_path": "assets/r2-ch016-sc03.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "r3-ch016-beat03-r3-ch016-beat04-r3-ch016-beat05-r3-ch016-beat06-r3-ch016-beat07-r2-ch016-sc02-r3-ch016-beat08-r3-ch016-beat09-r2-ch016-sc03",
-    "quadrant": 9,
-    "generated_at": "20261106T090426848741Z",
-    "grid_sha256": "effb8b40e17d1fd4e0139b45142bbbc588fa1568cb689bb8810b6be3d95391be",
-    "review_note": "Reviewed all nine source events, faces/hair, state, composition variety, important counts and anatomy before registration."
-  },
-  {
     "id": "r2-ch017-sc01",
     "chapter_id": "chapter-017",
     "chapter_number": 17,
@@ -3526,52 +3046,1123 @@
   },
   {
     "id": "cadence-ch015-s001",
-    "chapter_id": "chapter-015",
     "chapter_number": 15,
-    "volume": 2,
+    "chapter_id": "chapter-015",
     "source_sentence_ids": [
       "p0263-s1",
       "p0263-s2",
       "p0264-s1",
       "p0264-s2"
     ],
-    "source_paragraph_ids": [
-      "p0263",
-      "p0264"
-    ],
     "placement": "before-linked-text",
     "sentence_count": 4,
     "web_asset_path": "assets/cadence-b04-c15.webp",
     "grid_id": "cadence-b04",
     "cell": 15,
-    "status": "integrated",
-    "width": 378,
-    "height": 250,
-    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+    "status": "integrated"
   },
   {
     "id": "cadence-ch015-s002",
-    "chapter_id": "chapter-015",
     "chapter_number": 15,
-    "volume": 2,
+    "chapter_id": "chapter-015",
     "source_sentence_ids": [
       "p0264-s3",
       "p0264-s4",
       "p0264-s5",
       "p0265-s1"
     ],
-    "source_paragraph_ids": [
-      "p0264",
-      "p0265"
-    ],
     "placement": "before-linked-text",
     "sentence_count": 4,
     "web_asset_path": "assets/cadence-b04-c16.webp",
     "grid_id": "cadence-b04",
     "cell": 16,
-    "status": "integrated",
-    "width": 378,
-    "height": 250,
-    "review_note": "Source order, cast and setting checked. No hospital interior or extra boy. Native-size crop, no upscale."
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s003",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0266-s1",
+      "p0267-s1",
+      "p0267-s2",
+      "p0267-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c01.webp",
+    "grid_id": "cadence-b05",
+    "cell": 1,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s004",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0267-s4",
+      "p0268-s1",
+      "p0268-s2",
+      "p0269-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c02.webp",
+    "grid_id": "cadence-b05",
+    "cell": 2,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s005",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0270-s1",
+      "p0271-s1",
+      "p0271-s2",
+      "p0271-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c03.webp",
+    "grid_id": "cadence-b05",
+    "cell": 3,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s006",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0271-s4",
+      "p0272-s1",
+      "p0272-s2",
+      "p0272-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c04.webp",
+    "grid_id": "cadence-b05",
+    "cell": 4,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s007",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0272-s4",
+      "p0272-s5",
+      "p0272-s6",
+      "p0272-s7"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c05.webp",
+    "grid_id": "cadence-b05",
+    "cell": 5,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s008",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0273-s1",
+      "p0274-s1",
+      "p0274-s2",
+      "p0275-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c06.webp",
+    "grid_id": "cadence-b05",
+    "cell": 6,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s009",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0276-s1",
+      "p0276-s2",
+      "p0277-s1",
+      "p0277-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c07.webp",
+    "grid_id": "cadence-b05",
+    "cell": 7,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s010",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0277-s3",
+      "p0277-s4",
+      "p0277-s5",
+      "p0277-s6"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c08.webp",
+    "grid_id": "cadence-b05",
+    "cell": 8,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s011",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0277-s7",
+      "p0278-s1",
+      "p0278-s2",
+      "p0278-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c09.webp",
+    "grid_id": "cadence-b05",
+    "cell": 9,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s012",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0279-s1",
+      "p0280-s1",
+      "p0280-s2",
+      "p0280-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c10.webp",
+    "grid_id": "cadence-b05",
+    "cell": 10,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s013",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0280-s4",
+      "p0280-s5",
+      "p0280-s6",
+      "p0280-s7"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c11.webp",
+    "grid_id": "cadence-b05",
+    "cell": 11,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s014",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0280-s8",
+      "p0280-s9",
+      "p0281-s1",
+      "p0281-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c12.webp",
+    "grid_id": "cadence-b05",
+    "cell": 12,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s015",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0281-s3",
+      "p0281-s4",
+      "p0282-s1",
+      "p0282-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c13.webp",
+    "grid_id": "cadence-b05",
+    "cell": 13,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s016",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0283-s1",
+      "p0284-s1",
+      "p0284-s2",
+      "p0285-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c14.webp",
+    "grid_id": "cadence-b05",
+    "cell": 14,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s017",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0285-s2",
+      "p0285-s3",
+      "p0286-s1",
+      "p0286-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c15.webp",
+    "grid_id": "cadence-b05",
+    "cell": 15,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s018",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0286-s3",
+      "p0286-s4",
+      "p0287-s1",
+      "p0288-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b05-c16.webp",
+    "grid_id": "cadence-b05",
+    "cell": 16,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s019",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0288-s2",
+      "p0289-s1",
+      "p0289-s2",
+      "p0290-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c01.webp",
+    "grid_id": "cadence-b06",
+    "cell": 1,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s020",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0290-s2",
+      "p0290-s3",
+      "p0291-s1",
+      "p0292-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c02.webp",
+    "grid_id": "cadence-b06",
+    "cell": 2,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s021",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0292-s2",
+      "p0293-s1",
+      "p0293-s2",
+      "p0294-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c03.webp",
+    "grid_id": "cadence-b06",
+    "cell": 3,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s022",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0294-s2",
+      "p0295-s1",
+      "p0295-s2",
+      "p0295-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c04.webp",
+    "grid_id": "cadence-b06",
+    "cell": 4,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s023",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0295-s4",
+      "p0295-s5",
+      "p0295-s6",
+      "p0295-s7"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c05.webp",
+    "grid_id": "cadence-b06",
+    "cell": 5,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s024",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0295-s8",
+      "p0295-s9",
+      "p0296-s1",
+      "p0296-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c06.webp",
+    "grid_id": "cadence-b06",
+    "cell": 6,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s025",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0297-s1",
+      "p0297-s2",
+      "p0297-s3",
+      "p0297-s4"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c07.webp",
+    "grid_id": "cadence-b06",
+    "cell": 7,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s026",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0297-s5",
+      "p0298-s1",
+      "p0298-s2",
+      "p0299-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c08.webp",
+    "grid_id": "cadence-b06",
+    "cell": 8,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s027",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0299-s2",
+      "p0300-s1",
+      "p0300-s2",
+      "p0301-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c09.webp",
+    "grid_id": "cadence-b06",
+    "cell": 9,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s028",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0302-s1",
+      "p0302-s2",
+      "p0303-s1",
+      "p0304-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c10.webp",
+    "grid_id": "cadence-b06",
+    "cell": 10,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s029",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0304-s2",
+      "p0305-s1",
+      "p0306-s1",
+      "p0306-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c11.webp",
+    "grid_id": "cadence-b06",
+    "cell": 11,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s030",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0306-s3",
+      "p0307-s1",
+      "p0307-s2",
+      "p0308-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c12.webp",
+    "grid_id": "cadence-b06",
+    "cell": 12,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s031",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0309-s1",
+      "p0309-s2",
+      "p0309-s3",
+      "p0310-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c13.webp",
+    "grid_id": "cadence-b06",
+    "cell": 13,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s032",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0311-s1",
+      "p0311-s2",
+      "p0311-s3",
+      "p0311-s4"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c14.webp",
+    "grid_id": "cadence-b06",
+    "cell": 14,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s033",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0311-s5",
+      "p0311-s6",
+      "p0312-s1",
+      "p0312-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c15.webp",
+    "grid_id": "cadence-b06",
+    "cell": 15,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s034",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0312-s3",
+      "p0313-s1",
+      "p0313-s2",
+      "p0314-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b06-c16.webp",
+    "grid_id": "cadence-b06",
+    "cell": 16,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s035",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0314-s2",
+      "p0314-s3",
+      "p0314-s4",
+      "p0314-s5"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c01.webp",
+    "grid_id": "cadence-b07",
+    "cell": 1,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s036",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0314-s6",
+      "p0315-s1",
+      "p0315-s2",
+      "p0315-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c02.webp",
+    "grid_id": "cadence-b07",
+    "cell": 2,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s037",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0315-s4",
+      "p0316-s1",
+      "p0316-s2",
+      "p0316-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c03.webp",
+    "grid_id": "cadence-b07",
+    "cell": 3,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s038",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0317-s1",
+      "p0318-s1",
+      "p0319-s1",
+      "p0319-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c04.webp",
+    "grid_id": "cadence-b07",
+    "cell": 4,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch015-s039",
+    "chapter_number": 15,
+    "chapter_id": "chapter-015",
+    "source_sentence_ids": [
+      "p0320-s1",
+      "p0320-s2",
+      "p0321-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 3,
+    "web_asset_path": "assets/cadence-b07-c05.webp",
+    "grid_id": "cadence-b07",
+    "cell": 5,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s001",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0322-s1",
+      "p0322-s2",
+      "p0323-s1",
+      "p0324-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c06.webp",
+    "grid_id": "cadence-b07",
+    "cell": 6,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s002",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0324-s2",
+      "p0325-s1",
+      "p0325-s2",
+      "p0325-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c07.webp",
+    "grid_id": "cadence-b07",
+    "cell": 7,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s003",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0325-s4",
+      "p0325-s5",
+      "p0326-s1",
+      "p0326-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c08.webp",
+    "grid_id": "cadence-b07",
+    "cell": 8,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s004",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0326-s3",
+      "p0327-s1",
+      "p0327-s2",
+      "p0328-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c09.webp",
+    "grid_id": "cadence-b07",
+    "cell": 9,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s005",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0328-s2",
+      "p0328-s3",
+      "p0329-s1",
+      "p0329-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c10.webp",
+    "grid_id": "cadence-b07",
+    "cell": 10,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s006",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0330-s1",
+      "p0330-s2",
+      "p0331-s1",
+      "p0331-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c11.webp",
+    "grid_id": "cadence-b07",
+    "cell": 11,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s007",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0332-s1",
+      "p0332-s2",
+      "p0332-s3",
+      "p0332-s4"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c12.webp",
+    "grid_id": "cadence-b07",
+    "cell": 12,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s008",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0332-s5",
+      "p0333-s1",
+      "p0333-s2",
+      "p0334-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c13.webp",
+    "grid_id": "cadence-b07",
+    "cell": 13,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s009",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0335-s1",
+      "p0335-s2",
+      "p0335-s3",
+      "p0336-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c14.webp",
+    "grid_id": "cadence-b07",
+    "cell": 14,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s010",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0336-s2",
+      "p0336-s3",
+      "p0336-s4",
+      "p0337-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c15.webp",
+    "grid_id": "cadence-b07",
+    "cell": 15,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s011",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0337-s2",
+      "p0338-s1",
+      "p0339-s1",
+      "p0339-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b07-c16.webp",
+    "grid_id": "cadence-b07",
+    "cell": 16,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s012",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0339-s3",
+      "p0340-s1",
+      "p0341-s1",
+      "p0341-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c01.webp",
+    "grid_id": "cadence-b08",
+    "cell": 1,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s013",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0342-s1",
+      "p0343-s1",
+      "p0343-s2",
+      "p0343-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c02.webp",
+    "grid_id": "cadence-b08",
+    "cell": 2,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s014",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0343-s4",
+      "p0344-s1",
+      "p0344-s2",
+      "p0344-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c03.webp",
+    "grid_id": "cadence-b08",
+    "cell": 3,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s015",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0345-s1",
+      "p0345-s2",
+      "p0345-s3",
+      "p0346-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c04.webp",
+    "grid_id": "cadence-b08",
+    "cell": 4,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s016",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0346-s2",
+      "p0346-s3",
+      "p0347-s1",
+      "p0348-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c05.webp",
+    "grid_id": "cadence-b08",
+    "cell": 5,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s017",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0348-s2",
+      "p0349-s1",
+      "p0349-s2",
+      "p0350-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c06.webp",
+    "grid_id": "cadence-b08",
+    "cell": 6,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s018",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0350-s2",
+      "p0350-s3",
+      "p0351-s1",
+      "p0352-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c07.webp",
+    "grid_id": "cadence-b08",
+    "cell": 7,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s019",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0352-s2",
+      "p0353-s1",
+      "p0353-s2",
+      "p0353-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c08.webp",
+    "grid_id": "cadence-b08",
+    "cell": 8,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s020",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0354-s1",
+      "p0354-s2",
+      "p0354-s3",
+      "p0354-s4"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c09.webp",
+    "grid_id": "cadence-b08",
+    "cell": 9,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s021",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0354-s5",
+      "p0355-s1",
+      "p0355-s2",
+      "p0356-s1"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c10.webp",
+    "grid_id": "cadence-b08",
+    "cell": 10,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s022",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0357-s1",
+      "p0357-s2",
+      "p0358-s1",
+      "p0358-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c11.webp",
+    "grid_id": "cadence-b08",
+    "cell": 11,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s023",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0359-s1",
+      "p0360-s1",
+      "p0360-s2",
+      "p0360-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c12.webp",
+    "grid_id": "cadence-b08",
+    "cell": 12,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s024",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0361-s1",
+      "p0361-s2",
+      "p0361-s3",
+      "p0361-s4"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c13.webp",
+    "grid_id": "cadence-b08",
+    "cell": 13,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s025",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0361-s5",
+      "p0361-s6",
+      "p0362-s1",
+      "p0362-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c14.webp",
+    "grid_id": "cadence-b08",
+    "cell": 14,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s026",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0362-s3",
+      "p0362-s4",
+      "p0363-s1",
+      "p0363-s2"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c15.webp",
+    "grid_id": "cadence-b08",
+    "cell": 15,
+    "status": "integrated"
+  },
+  {
+    "id": "cadence-ch016-s027",
+    "chapter_number": 16,
+    "chapter_id": "chapter-016",
+    "source_sentence_ids": [
+      "p0363-s3",
+      "p0364-s1",
+      "p0364-s2",
+      "p0364-s3"
+    ],
+    "placement": "before-linked-text",
+    "sentence_count": 4,
+    "web_asset_path": "assets/cadence-b08-c16.webp",
+    "grid_id": "cadence-b08",
+    "cell": 16,
+    "status": "integrated"
   }
 ]
