@@ -1,0 +1,82 @@
+{
+  "chapters": [
+    {
+      "chapter": 11,
+      "segments": 92,
+      "duration": 285.23109999999997,
+      "word_timing_coverage": 0.9431,
+      "source_issues": []
+    },
+    {
+      "chapter": 12,
+      "segments": 374,
+      "duration": 1242.8479000000013,
+      "word_timing_coverage": 0.9343,
+      "source_issues": []
+    },
+    {
+      "chapter": 13,
+      "segments": 128,
+      "duration": 466.5834999999998,
+      "word_timing_coverage": 0.9267,
+      "source_issues": []
+    },
+    {
+      "chapter": 14,
+      "segments": 129,
+      "duration": 436.8288,
+      "word_timing_coverage": 0.947,
+      "source_issues": []
+    },
+    {
+      "chapter": 15,
+      "segments": 167,
+      "duration": 496.7165,
+      "word_timing_coverage": 0.9306,
+      "source_issues": []
+    },
+    {
+      "chapter": 16,
+      "segments": 294,
+      "duration": 995.8833999999995,
+      "word_timing_coverage": 0.9433,
+      "source_issues": [
+        {
+          "order": 273,
+          "filename": "WYTT_C16_V05_0273_C16_P086_LILY.mp3",
+          "duration": 101.459625,
+          "reason": "Unexpected source length for supplied transcript; kept intact."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "segments": 116,
+      "duration": 356.3654000000001,
+      "word_timing_coverage": 0.9441,
+      "source_issues": []
+    },
+    {
+      "chapter": 18,
+      "segments": 237,
+      "duration": 746.8129000000001,
+      "word_timing_coverage": 0.9362,
+      "source_issues": []
+    },
+    {
+      "chapter": 19,
+      "segments": 186,
+      "duration": 573.9882999999999,
+      "word_timing_coverage": 0.9317,
+      "source_issues": []
+    },
+    {
+      "chapter": 20,
+      "segments": 153,
+      "duration": 477.63069999999976,
+      "word_timing_coverage": 0.94,
+      "source_issues": []
+    }
+  ],
+  "missing_chapters": []
+}

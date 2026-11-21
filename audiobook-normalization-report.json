@@ -1,0 +1,117 @@
+{
+  "method": "constant speaker gain, attenuation only; no trimming, mixing, compression, or chapter merge",
+  "target_speech_rms_db": -20.08983594355834,
+  "speaker_gain_db": {
+    "Lily / first-person narrator": -2.33481,
+    "Sam": -2.6763,
+    "Joan / Mom": -0.99115,
+    "Ae-Cha / Halmoni": -3.32852,
+    "Joe": -4.44906,
+    "Jensen": -3.19988,
+    "Ricky": -0.70391,
+    "Market woman": -2.31931,
+    "Rick / Ricky\u2019s father": -4.81413,
+    "Female tiger": -2.3117,
+    "Olivia": -0.1,
+    "Restaurant man": -4.90057
+  },
+  "sample_rate": "source rate preserved",
+  "bitrate": 192000,
+  "chapters": [
+    {
+      "chapter": 1,
+      "clips": 179,
+      "bytes": 16760054
+    },
+    {
+      "chapter": 2,
+      "clips": 95,
+      "bytes": 10010615
+    },
+    {
+      "chapter": 3,
+      "clips": 242,
+      "bytes": 23020850
+    },
+    {
+      "chapter": 4,
+      "clips": 325,
+      "bytes": 30005339
+    },
+    {
+      "chapter": 5,
+      "clips": 87,
+      "bytes": 9436629
+    },
+    {
+      "chapter": 10,
+      "clips": 231,
+      "bytes": 21857402
+    },
+    {
+      "chapter": 11,
+      "clips": 92,
+      "bytes": 7945355
+    },
+    {
+      "chapter": 12,
+      "clips": 374,
+      "bytes": 33602930
+    },
+    {
+      "chapter": 13,
+      "clips": 128,
+      "bytes": 12565546
+    },
+    {
+      "chapter": 14,
+      "clips": 129,
+      "bytes": 12006356
+    },
+    {
+      "chapter": 15,
+      "clips": 167,
+      "bytes": 13738331
+    },
+    {
+      "chapter": 16,
+      "clips": 294,
+      "bytes": 27249883
+    },
+    {
+      "chapter": 17,
+      "clips": 116,
+      "bytes": 9945061
+    },
+    {
+      "chapter": 18,
+      "clips": 237,
+      "bytes": 20403164
+    },
+    {
+      "chapter": 19,
+      "clips": 186,
+      "bytes": 15746594
+    },
+    {
+      "chapter": 20,
+      "clips": 153,
+      "bytes": 13219253
+    },
+    {
+      "chapter": 21,
+      "clips": 125,
+      "bytes": 13513979
+    },
+    {
+      "chapter": 22,
+      "clips": 138,
+      "bytes": 15606618
+    },
+    {
+      "chapter": 23,
+      "clips": 311,
+      "bytes": 26609862
+    }
+  ]
+}

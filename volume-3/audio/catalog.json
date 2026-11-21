@@ -1,0 +1,33 @@
+{
+  "chapters": [
+    {
+      "chapter": 21,
+      "segments": 125,
+      "duration": 506.4452999999999,
+      "word_timing_coverage": 0.9368,
+      "source_issues": []
+    },
+    {
+      "chapter": 22,
+      "segments": 138,
+      "duration": 584.3031000000001,
+      "word_timing_coverage": 0.9503,
+      "source_issues": []
+    },
+    {
+      "chapter": 23,
+      "segments": 311,
+      "duration": 973.1387000000003,
+      "word_timing_coverage": 0.9355,
+      "source_issues": []
+    }
+  ],
+  "missing_chapters": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ]
+}

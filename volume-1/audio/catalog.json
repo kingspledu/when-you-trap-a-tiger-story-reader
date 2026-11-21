@@ -1,0 +1,52 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "segments": 179,
+      "duration": 621.4685999999999,
+      "word_timing_coverage": 0.9389,
+      "source_issues": []
+    },
+    {
+      "chapter": 2,
+      "segments": 95,
+      "duration": 380.1542000000002,
+      "word_timing_coverage": 0.947,
+      "source_issues": []
+    },
+    {
+      "chapter": 3,
+      "segments": 242,
+      "duration": 837.0858,
+      "word_timing_coverage": 0.939,
+      "source_issues": []
+    },
+    {
+      "chapter": 4,
+      "segments": 325,
+      "duration": 1107.613000000001,
+      "word_timing_coverage": 0.9422,
+      "source_issues": []
+    },
+    {
+      "chapter": 5,
+      "segments": 87,
+      "duration": 358.6705000000001,
+      "word_timing_coverage": 0.9437,
+      "source_issues": []
+    },
+    {
+      "chapter": 10,
+      "segments": 231,
+      "duration": 802.4685000000002,
+      "word_timing_coverage": 0.9322,
+      "source_issues": []
+    }
+  ],
+  "missing_chapters": [
+    6,
+    7,
+    8,
+    9
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "files": 179,
+      "matched_words": 1352,
+      "total_words": 1440,
+      "coverage": 0.9389
+    },
+    {
+      "chapter": 2,
+      "files": 95,
+      "matched_words": 893,
+      "total_words": 943,
+      "coverage": 0.947
+    },
+    {
+      "chapter": 3,
+      "files": 242,
+      "matched_words": 1971,
+      "total_words": 2099,
+      "coverage": 0.939
+    },
+    {
+      "chapter": 4,
+      "files": 325,
+      "matched_words": 2398,
+      "total_words": 2545,
+      "coverage": 0.9422
+    },
+    {
+      "chapter": 5,
+      "files": 87,
+      "matched_words": 754,
+      "total_words": 799,
+      "coverage": 0.9437
+    },
+    {
+      "chapter": 10,
+      "files": 231,
+      "matched_words": 1856,
+      "total_words": 1991,
+      "coverage": 0.9322
+    },
+    {
+      "chapter": 11,
+      "files": 92,
+      "matched_words": 679,
+      "total_words": 720,
+      "coverage": 0.9431
+    },
+    {
+      "chapter": 12,
+      "files": 374,
+      "matched_words": 2714,
+      "total_words": 2905,
+      "coverage": 0.9343
+    },
+    {
+      "chapter": 13,
+      "files": 128,
+      "matched_words": 1036,
+      "total_words": 1118,
+      "coverage": 0.9267
+    },
+    {
+      "chapter": 14,
+      "files": 129,
+      "matched_words": 964,
+      "total_words": 1018,
+      "coverage": 0.947
+    },
+    {
+      "chapter": 15,
+      "files": 167,
+      "matched_words": 1046,
+      "total_words": 1124,
+      "coverage": 0.9306
+    },
+    {
+      "chapter": 16,
+      "files": 294,
+      "matched_words": 2111,
+      "total_words": 2238,
+      "coverage": 0.9433
+    },
+    {
+      "chapter": 17,
+      "files": 116,
+      "matched_words": 811,
+      "total_words": 859,
+      "coverage": 0.9441
+    },
+    {
+      "chapter": 18,
+      "files": 237,
+      "matched_words": 1747,
+      "total_words": 1866,
+      "coverage": 0.9362
+    },
+    {
+      "chapter": 19,
+      "files": 186,
+      "matched_words": 1337,
+      "total_words": 1435,
+      "coverage": 0.9317
+    },
+    {
+      "chapter": 20,
+      "files": 153,
+      "matched_words": 1112,
+      "total_words": 1183,
+      "coverage": 0.94
+    },
+    {
+      "chapter": 21,
+      "files": 125,
+      "matched_words": 1082,
+      "total_words": 1155,
+      "coverage": 0.9368
+    },
+    {
+      "chapter": 22,
+      "files": 138,
+      "matched_words": 1300,
+      "total_words": 1368,
+      "coverage": 0.9503
+    },
+    {
+      "chapter": 23,
+      "files": 311,
+      "matched_words": 2103,
+      "total_words": 2248,
+      "coverage": 0.9355
+    }
+  ],
+  "source_mapping": "all supplied transcript words map exactly to reader words",
+  "timing_method": "Whisper cross-attention dynamic time warping; not uniform interpolation",
+  "unmatched_words": "sentence highlighting only, no invented word timestamps",
+  "listening_review": "not yet performed"
+}

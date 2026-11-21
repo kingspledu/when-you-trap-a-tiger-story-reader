@@ -1,13 +1,15 @@
 'use strict';
 const PREFIX='story-reader-tiger-volume-3-';
-const CACHE=PREFIX+'63b8474d9868';
+const CACHE=PREFIX+'audio-20261121-v3';
 const ROOT=new URL('./',self.location).href;
 const CORE=['./','./style.css?v=63b8474d9868','./app.js?v=63b8474d9868','./pwa.js?v=63b8474d9868','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
  const request=event.request,url=new URL(request.url);
- if(request.method!=='GET'||!url.href.startsWith(ROOT))return;
+ if(request.method!=='GET'||!url.href.startsWith(ROOT)||request.headers.has('range'))return;
+ const offlineName='tiger-offline:'+new URL(ROOT).pathname+'offline-v1';
+ event.respondWith((async()=>{const saved=await (await caches.open(offlineName)).match(request,{ignoreSearch:true});if(saved)return saved;try{return await fetch(request)}catch{return await caches.match(request,{ignoreSearch:true})||Response.error()}})());return;
  if(request.mode==='navigate'){
   event.respondWith(fetch(request).then(async response=>{if(response.ok){const cache=await caches.open(CACHE);await cache.put(ROOT,response.clone())}return response}).catch(async()=>{const cache=await caches.open(CACHE);return await cache.match(ROOT)||Response.error()}));return;
  }

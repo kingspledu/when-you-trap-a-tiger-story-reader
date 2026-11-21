@@ -1,0 +1,32 @@
+{
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "separate_mp3_count": 3609,
+  "source_sentence_words": 29054,
+  "timed_words": 27266,
+  "word_timing_coverage": 0.9384594203896194,
+  "same_paragraph_boundaries": 2337,
+  "reader_text_vocabulary_illustrations_preserved": "PASS",
+  "paragraph_break_silence_preserved": "PASS",
+  "timing_references_and_ranges": "PASS",
+  "human_listening": false
+}

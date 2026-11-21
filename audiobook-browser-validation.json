@@ -1,0 +1,35 @@
+{
+  "playback": {
+    "time": 0.8656666666666667,
+    "paused": false,
+    "sentence": "p0001-s1",
+    "src": "audio/ch01/clips/WYTT_C01_V05_0000_C01_P001_LILY.mp3",
+    "scheduled": 3,
+    "scheduled_gaps": [
+      0,
+      8.881784197001252e-16
+    ]
+  },
+  "pause": "PASS",
+  "speed": "PASS",
+  "sentence_seek": "PASS",
+  "text_preservation": "PASS",
+  "vocabulary": "PASS",
+  "mobile_overflow": "PASS",
+  "other_volumes": [
+    {
+      "volume": 2,
+      "chapter": 11,
+      "time": 0.5056666666666666,
+      "clip": "audio/ch11/clips/WYTT_C11_V05_0000_C11_P001_LILY.mp3"
+    },
+    {
+      "volume": 3,
+      "chapter": 21,
+      "time": 0.5056666666666666,
+      "clip": "audio/ch21/clips/WYTT_C21_V05_0000_C21_P001_LILY.mp3"
+    }
+  ],
+  "javascript_errors": [],
+  "actual_listening": false
+}

@@ -1,0 +1,95 @@
+{
+  "clips_checked": 3609,
+  "original_hashes": "PASS",
+  "separate_mp3_files": "PASS",
+  "speaker_sample_checks": [
+    {
+      "speaker": "Lily / first-person narrator",
+      "expected_gain_db": -2.33481,
+      "measured_rms_change_db": -2.5996,
+      "peak": 0.6008,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Sam",
+      "expected_gain_db": -2.6763,
+      "measured_rms_change_db": -2.9411,
+      "peak": 0.5922,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Joan / Mom",
+      "expected_gain_db": -0.99115,
+      "measured_rms_change_db": -1.2553,
+      "peak": 0.4292,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Ae-Cha / Halmoni",
+      "expected_gain_db": -3.32852,
+      "measured_rms_change_db": -3.5932,
+      "peak": 0.4545,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Joe",
+      "expected_gain_db": -4.44906,
+      "measured_rms_change_db": -4.7176,
+      "peak": 0.3212,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Jensen",
+      "expected_gain_db": -3.19988,
+      "measured_rms_change_db": -3.4646,
+      "peak": 0.4843,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Ricky",
+      "expected_gain_db": -0.70391,
+      "measured_rms_change_db": -0.9695,
+      "peak": 0.6154,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Market woman",
+      "expected_gain_db": -2.31931,
+      "measured_rms_change_db": -2.5817,
+      "peak": 0.4717,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Rick / Ricky\u2019s father",
+      "expected_gain_db": -4.81413,
+      "measured_rms_change_db": -5.0803,
+      "peak": 0.4716,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Female tiger",
+      "expected_gain_db": -2.3117,
+      "measured_rms_change_db": -2.5763,
+      "peak": 0.5842,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Olivia",
+      "expected_gain_db": -0.1,
+      "measured_rms_change_db": -0.3664,
+      "peak": 0.3809,
+      "duration_and_sample_rate": "PASS"
+    },
+    {
+      "speaker": "Restaurant man",
+      "expected_gain_db": -4.90057,
+      "measured_rms_change_db": -5.1649,
+      "peak": 0.4726,
+      "duration_and_sample_rate": "PASS"
+    }
+  ],
+  "encoder_common_attenuation_db": -0.2650966666666667,
+  "speaker_relative_gain_error_spread_db": 0.006149999999999878,
+  "gain_policy": "constant per speaker; attenuation only; no per-clip leveling, compression, silence editing, or merge",
+  "human_listening": false
+}
