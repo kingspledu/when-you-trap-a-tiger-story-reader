@@ -2098,9 +2098,9 @@
     "landscape-reader.js",
     "landscape-reader.css"
   ],
-  "bytes": 174966977,
+  "bytes": 174967020,
   "sha256": {
-    "./": "82fe724de0995b83a521a05daf6748eded7064a30d530e98a5a21744ecddce52",
+    "./": "aec06836a54ac4ff8eb2ea096c5996466a034e5dd0952c320c4b4c9b335b4a13",
     "app.js": "fe1c262bb9434b4a5c22d18e8d97690fdee654664c31bb22009d5cfb0e58d625",
     "assets/app-icon-180.png": "5ee93db8cb7292d514ee8b307367c15b9eb6a94a1a9fc9bc4361289b1d8278bc",
     "assets/app-icon-192.png": "9ca5de86669c8f3aac22650c6a4ab5c96cff4da92ff9525488a4679d785b244e",
@@ -4189,14 +4189,14 @@
     "audiobook.css": "6a99a5a4c3990eea25115fbfd3edefd98fd15661d595e7ab08c6ebb1454a2366",
     "audiobook.js": "afe18dfdea63e33cb260d6ebbccfbffec03bc90cc85c5e55ac84ded1a587347f",
     "clip-player.js": "c872373704a10c16105930a53560b0a77dc0f4d9f2a3585eca3167be73a7d1ab",
-    "index.html": "82fe724de0995b83a521a05daf6748eded7064a30d530e98a5a21744ecddce52",
+    "index.html": "aec06836a54ac4ff8eb2ea096c5996466a034e5dd0952c320c4b4c9b335b4a13",
     "manifest.webmanifest": "5883b5f7cc3d8ffc6c5a61bd9cedaa81704afa1be104c78641703f7f70477415",
     "media-player.js": "3bcc6477e0138910a42fdbae5e696b3b7c93b4aad1b9690b97d6a0cb6c5d415b",
     "offline.js": "4995da1e39e4d54b8e71571cdac92848f1bc5833343c765bb11e091136749554",
     "pwa.js": "9a52a068bcef5409d216277ae9b8c8950f74f8d1a52ba61e1c8412b5ff3f538b",
     "style.css": "2811b35369403f977fdafd88e4999c49d0c76042b15f08ed714bc94f8fbf42ce",
-    "sw.js": "cb5cd120da4ec6c486af557c3cff1b3b0caf7d772db687cee031975512bd4c7a",
-    "landscape-reader.js": "963a718fa505d09ad8b86bb4ce92a064562051c877cc66c2803204609dde37f7",
+    "sw.js": "813181b0cac83722db779ab8a5d303610d92341d2c3aec78eb524ba80d9580a5",
+    "landscape-reader.js": "fa98362bc791530aa8d0b01859b85b3999ac94e0c131f304ffc32a5bd056057f",
     "landscape-reader.css": "c1be850f4e62815371ebb984ba15c086e3983c95748c9b21a794f477d2c87a20"
   }
 }

@@ -1430,11 +1430,13 @@
     "media-player.js",
     "offline.js",
     "pwa.js",
-    "style.css"
+    "style.css",
+    "landscape-reader.js",
+    "landscape-reader.css"
   ],
-  "bytes": 132257967,
+  "bytes": 132272480,
   "sha256": {
-    "./": "0233f39ec22a704f38c3eb42f6c71aa8c07120a4983fd8d5ad822a6542a28fdc",
+    "./": "167261b4bf92ddb33b6e05f762c1448e5bec87b0478e0df15beb31df22030304",
     "app.js": "fe1c262bb9434b4a5c22d18e8d97690fdee654664c31bb22009d5cfb0e58d625",
     "assets/app-icon-180.png": "5ee93db8cb7292d514ee8b307367c15b9eb6a94a1a9fc9bc4361289b1d8278bc",
     "assets/app-icon-192.png": "9ca5de86669c8f3aac22650c6a4ab5c96cff4da92ff9525488a4679d785b244e",
@@ -2857,13 +2859,16 @@
     "audio/ch29/clips/WYTT_C29_V05_0162_C29_P061_LILY.mp3": "7c21a5a9e72be1835998b4536f6ac61a434a1099ff02ad7eddc80f56ca2aff9c",
     "audio/ch29/timing.json": "bb77f7d4b34f2006416518c673979d77c48ca5696662fd6f8273df7a6671e065",
     "audiobook.css": "6a99a5a4c3990eea25115fbfd3edefd98fd15661d595e7ab08c6ebb1454a2366",
-    "audiobook.js": "2b4143fc5f627577fa94892dfa207126623e789c1f3f0c693a9e1427cfdd6502",
+    "audiobook.js": "afe18dfdea63e33cb260d6ebbccfbffec03bc90cc85c5e55ac84ded1a587347f",
     "clip-player.js": "c872373704a10c16105930a53560b0a77dc0f4d9f2a3585eca3167be73a7d1ab",
-    "index.html": "0233f39ec22a704f38c3eb42f6c71aa8c07120a4983fd8d5ad822a6542a28fdc",
+    "index.html": "167261b4bf92ddb33b6e05f762c1448e5bec87b0478e0df15beb31df22030304",
     "manifest.webmanifest": "991803db05994f4eec9c0b0e9e0c6edfc6b4abd48dc257c7a915e7fee2e860d0",
     "media-player.js": "3bcc6477e0138910a42fdbae5e696b3b7c93b4aad1b9690b97d6a0cb6c5d415b",
     "offline.js": "4995da1e39e4d54b8e71571cdac92848f1bc5833343c765bb11e091136749554",
     "pwa.js": "9a52a068bcef5409d216277ae9b8c8950f74f8d1a52ba61e1c8412b5ff3f538b",
-    "style.css": "2811b35369403f977fdafd88e4999c49d0c76042b15f08ed714bc94f8fbf42ce"
+    "style.css": "2811b35369403f977fdafd88e4999c49d0c76042b15f08ed714bc94f8fbf42ce",
+    "sw.js": "18e875edadab55c306b2179e1743639fc40c303af6a9f69ec3deca99f1febc56",
+    "landscape-reader.js": "fa98362bc791530aa8d0b01859b85b3999ac94e0c131f304ffc32a5bd056057f",
+    "landscape-reader.css": "c1be850f4e62815371ebb984ba15c086e3983c95748c9b21a794f477d2c87a20"
   }
 }
