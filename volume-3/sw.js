@@ -1,7 +1,7 @@
 'use strict';
 const ROOT=new URL('./',self.location).href;
 const PREFIX='story-reader-tiger-volume-3-';
-const CORE=PREFIX+'landscape-20261122-tablet-v3';
+const CORE=PREFIX+'vocabulary-20261123-v1';
 const SAVED='tiger-offline:'+new URL(ROOT).pathname+'offline-v2';
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CORE).then(c=>c.addAll(['./','./style.css','./app.js','./pwa.js','./clip-player.js','./media-player.js','./audiobook.js','./audiobook.css','./offline.js','./landscape-reader.js','./landscape-reader.css'])).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith(PREFIX)&&k!==CORE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
