@@ -48,11 +48,28 @@
       "duration": 282.11789999999996,
       "word_timing_coverage": 0.9523,
       "source_issues": []
+    },
+    {
+      "chapter": 27,
+      "segments": 133,
+      "duration": 543.6269,
+      "word_timing_coverage": 0.9469,
+      "source_issues": []
+    },
+    {
+      "chapter": 28,
+      "segments": 72,
+      "duration": 262.91499999999996,
+      "word_timing_coverage": 0.9372,
+      "source_issues": []
+    },
+    {
+      "chapter": 29,
+      "segments": 163,
+      "duration": 510.93309999999997,
+      "word_timing_coverage": 0.9383,
+      "source_issues": []
     }
   ],
-  "missing_chapters": [
-    27,
-    28,
-    29
-  ]
+  "missing_chapters": []
 }

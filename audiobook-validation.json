@@ -181,6 +181,27 @@
       "matched_words": 679,
       "total_words": 713,
       "coverage": 0.9523
+    },
+    {
+      "chapter": 27,
+      "files": 133,
+      "matched_words": 1178,
+      "total_words": 1244,
+      "coverage": 0.9469
+    },
+    {
+      "chapter": 28,
+      "files": 72,
+      "matched_words": 597,
+      "total_words": 637,
+      "coverage": 0.9372
+    },
+    {
+      "chapter": 29,
+      "files": 163,
+      "matched_words": 1140,
+      "total_words": 1215,
+      "coverage": 0.9383
     }
   ],
   "source_mapping": "all supplied transcript words map exactly to reader words",
