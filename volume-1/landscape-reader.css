@@ -1,0 +1,39 @@
+#landscape-art,#landscape-settings,#landscape-fullscreen{display:none}
+.reader-landscape{overflow:hidden;scroll-padding:0}
+.reader-landscape body{overflow:hidden;padding:0;height:100dvh}
+.reader-landscape .shell>header,.reader-landscape main>:not(#landscape-text-pane),.reader-landscape .shell>footer,.reader-landscape .reading-progress{display:none!important}
+.reader-landscape #floating-reader{top:max(5px,env(safe-area-inset-top));left:max(8px,env(safe-area-inset-left));right:max(8px,env(safe-area-inset-right));transform:none;width:auto;max-width:none;height:32px;min-height:0;padding:2px 8px;gap:8px;display:flex;flex-wrap:nowrap;border-radius:10px;z-index:1200}
+.reader-landscape #chapter-menu{flex:1;min-width:0;border:0;padding:0;position:static}
+.reader-landscape #chapter-menu>summary{height:26px;min-height:0;padding:2px 4px;font-size:12px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.reader-landscape #chapter-menu>.toc{position:absolute;top:36px;left:0;width:min(440px,90vw);max-height:calc(100dvh - 86px);overflow:auto;margin:0;padding:12px;background:var(--paper);border:1px solid var(--line);border-radius:10px}
+.reader-landscape #landscape-settings{display:block;position:static;font:12px system-ui}
+.reader-landscape #landscape-settings>summary{cursor:pointer;list-style:none;padding:4px}
+.reader-landscape .landscape-settings-panel{position:absolute;right:0;top:36px;width:min(380px,94vw);max-height:calc(100dvh - 86px);overflow:auto;overscroll-behavior:contain;padding:14px;background:var(--paper);border:1px solid var(--line);border-radius:12px;box-shadow:0 5px 25px #0002}
+.reader-landscape .landscape-settings-panel .reading-tools{display:flex;flex-wrap:wrap;margin:0 0 10px;padding:4px;background:transparent;border:0;gap:8px}
+.reader-landscape .landscape-settings-panel button,.reader-landscape .landscape-settings-panel select{font:12px system-ui;padding:5px 10px;min-height:30px}
+.reader-landscape .landscape-settings-panel .size-controls{display:flex;gap:8px;max-width:100%}
+.reader-landscape .landscape-settings-panel input[type=range]{max-width:140px}
+.reader-landscape .landscape-settings-panel .offline-tools{margin:12px 0!important;padding:8px!important}
+.reader-landscape .landscape-settings-panel .audio-follow{margin:10px 0}
+.reader-landscape .landscape-volume-links{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0;font:12px/1.5 system-ui}
+.reader-landscape .landscape-volume-links a{text-decoration:underline}
+.reader-landscape #landscape-fullscreen{display:block;height:25px;min-height:0;font:16px system-ui;padding:0 8px;order:1}
+.reader-landscape #landscape-text-pane{position:fixed;top:calc(42px + env(safe-area-inset-top));bottom:calc(48px + env(safe-area-inset-bottom));left:calc(44% + env(safe-area-inset-left));right:env(safe-area-inset-right);padding:12px 20px 45vh 14px;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scroll-padding-top:10px}
+.reader-landscape #landscape-text-pane article{max-width:none;width:auto;margin:0;padding:0}
+.reader-landscape #landscape-text-pane figure,.reader-landscape #landscape-text-pane .scene-break,.reader-landscape #landscape-text-pane .book-intro{display:none}
+.reader-landscape #landscape-text-pane .chapter{padding:0 0 40px;scroll-margin-top:10px}
+.reader-landscape #landscape-text-pane .chapter-head{margin:0 0 20px;padding-top:8px}
+.reader-landscape #landscape-text-pane .chapter-head h3{font-size:23px;margin:4px 0}
+.reader-landscape .story-text{font-size:var(--reading);line-height:1.8}
+.reader-landscape #landscape-art{display:block;position:fixed;top:calc(48px + env(safe-area-inset-top));bottom:calc(54px + env(safe-area-inset-bottom));left:max(12px,env(safe-area-inset-left));width:calc(44% - 20px - env(safe-area-inset-left));border:1px solid var(--line);border-radius:12px;background:var(--card);overflow:hidden}
+.reader-landscape #landscape-art-stage{position:absolute;inset:0;overflow:hidden}
+.reader-landscape #landscape-art img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:5px;display:block}
+.reader-landscape .audiobook{left:max(8px,env(safe-area-inset-left));right:max(8px,env(safe-area-inset-right));bottom:max(5px,env(safe-area-inset-bottom));transform:none;width:auto;height:36px;padding:2px 7px;display:flex;align-items:center;gap:6px;border-radius:10px;font:11px system-ui}
+.reader-landscape .audio-controls,.reader-landscape .audio-progress{display:contents!important}
+.reader-landscape .audio-controls button,.reader-landscape .audio-controls select{min-height:27px;height:27px;white-space:nowrap;padding:2px 6px;font-size:11px}
+.reader-landscape .audio-controls .audio-play{min-width:58px}
+.reader-landscape .audio-close,.reader-landscape .audio-status,.reader-landscape .chapter-listen,.reader-landscape .audio-unavailable{display:none!important}
+.reader-landscape .audio-progress input{flex:1;min-width:35px;width:35px}
+.reader-landscape .audio-progress output{margin:0;font-size:10px}
+.reader-landscape .vocab-slide{font:14px/1.6 system-ui}
+@media(prefers-reduced-motion:reduce){.reader-landscape #landscape-text-pane{scroll-behavior:auto}}
