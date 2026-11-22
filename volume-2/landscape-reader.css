@@ -1,4 +1,6 @@
-#landscape-art,#landscape-settings,#landscape-fullscreen{display:none}
+#landscape-art,#landscape-settings{display:none}
+#reader-layout-toggle,#landscape-fullscreen{display:inline-flex;align-items:center;justify-content:center;flex:none;white-space:nowrap;min-height:28px;height:28px;padding:3px 8px;font:12px system-ui;border-radius:7px}
+#reader-layout-toggle[aria-pressed=true]{background:var(--ink);color:var(--paper)}
 .reader-landscape{overflow:hidden;scroll-padding:0}
 .reader-landscape body{overflow:hidden;padding:0;height:100dvh}
 .reader-landscape .shell>header,.reader-landscape main>:not(#landscape-text-pane),.reader-landscape .shell>footer,.reader-landscape .reading-progress{display:none!important}
@@ -17,7 +19,7 @@
 .reader-landscape .landscape-settings-panel .audio-follow{margin:10px 0}
 .reader-landscape .landscape-volume-links{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0;font:12px/1.5 system-ui}
 .reader-landscape .landscape-volume-links a{text-decoration:underline}
-.reader-landscape #landscape-fullscreen{display:block;height:25px;min-height:0;font:16px system-ui;padding:0 8px;order:1}
+.reader-landscape #landscape-fullscreen,.reader-landscape #reader-layout-toggle{display:inline-flex;height:25px;min-height:0;font:11px system-ui;padding:0 7px;order:1}
 .reader-landscape #landscape-text-pane{position:fixed;top:calc(42px + env(safe-area-inset-top));bottom:calc(48px + env(safe-area-inset-bottom));left:calc(44% + env(safe-area-inset-left));right:env(safe-area-inset-right);padding:12px 20px 45vh 14px;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scroll-padding-top:10px}
 .reader-landscape #landscape-text-pane article{max-width:none;width:auto;margin:0;padding:0}
 .reader-landscape #landscape-text-pane figure,.reader-landscape #landscape-text-pane .scene-break,.reader-landscape #landscape-text-pane .book-intro{display:none}
